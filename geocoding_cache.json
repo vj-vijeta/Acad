@@ -1,0 +1,5698 @@
+{
+  "Delhi, Delhi, India": {
+    "lat": 28.7040592,
+    "lon": 77.10249019999999
+  },
+  "Rourkela, Odisha, India": {
+    "lat": 22.260423,
+    "lon": 84.8535844
+  },
+  "Nipani, Karnataka, India": {
+    "lat": 16.4041668,
+    "lon": 74.3786387
+  },
+  "Dehradun, Uttarakhand, India": {
+    "lat": 30.3164945,
+    "lon": 78.03219179999999
+  },
+  "Hyderabad, Telangana, India": {
+    "lat": 17.406498,
+    "lon": 78.47724389999999
+  },
+  "Ambala, Haryana, India": {
+    "lat": 30.3752011,
+    "lon": 76.782122
+  },
+  "Kolkata, West Bengal, India": {
+    "lat": 22.5743545,
+    "lon": 88.3628734
+  },
+  "Chennai, Tamil Nadu, India": {
+    "lat": 13.0843007,
+    "lon": 80.2704622
+  },
+  "Ghaziabad, Uttar Pradesh, India": {
+    "lat": 28.6691565,
+    "lon": 77.45375779999999
+  },
+  "Mysore, Karnataka, India": {
+    "lat": 12.2958104,
+    "lon": 76.6393805
+  },
+  "Warangal, Telangana, India": {
+    "lat": 17.9692624,
+    "lon": 79.59263039999999
+  },
+  "Indore, Madhya Pradesh, India": {
+    "lat": 22.7195687,
+    "lon": 75.8577258
+  },
+  "Hisar, Haryana, India": {
+    "lat": 29.1491875,
+    "lon": 75.7216527
+  },
+  "Kalyan, Maharashtra, India": {
+    "lat": 19.2403305,
+    "lon": 73.1305395
+  },
+  "Sonepat, Haryana, India": {
+    "lat": 28.99308229999999,
+    "lon": 77.0150735
+  },
+  "Vadodara, Gujarat, India": {
+    "lat": 22.3000395,
+    "lon": 73.2064994
+  },
+  "Hubli, Karnataka, India": {
+    "lat": 15.3647083,
+    "lon": 75.1239547
+  },
+  "Gadag, Karnataka, India": {
+    "lat": 15.4315406,
+    "lon": 75.63551489999999
+  },
+  "Karnal, Haryana, India": {
+    "lat": 29.6856929,
+    "lon": 76.9904825
+  },
+  "Gokak, Karnataka, India": {
+    "lat": 16.1591849,
+    "lon": 74.8156199
+  },
+  "Sivakasi, Tamil Nadu, India": {
+    "lat": 9.4532852,
+    "lon": 77.80241699999999
+  },
+  "Ooty, Tamil Nadu, India": {
+    "lat": 11.4102038,
+    "lon": 76.6950324
+  },
+  "Bengaluru, Karnataka, India": {
+    "lat": 12.9628669,
+    "lon": 77.57750899999999
+  },
+  "Tirupur, Tamil Nadu, India": {
+    "lat": 11.1085242,
+    "lon": 77.3410656
+  },
+  "Aurangabad, Maharashtra, India": {
+    "lat": 19.875754,
+    "lon": 75.3393195
+  },
+  "Rohtak, Haryana, India": {
+    "lat": 28.8955152,
+    "lon": 76.606611
+  },
+  "Bhubaneswar, Odisha, India": {
+    "lat": 20.2959847,
+    "lon": 85.8246101
+  },
+  "Gwalior, Madhya Pradesh, India": {
+    "lat": 26.2124007,
+    "lon": 78.1772053
+  },
+  "Lucknow, Uttar Pradesh, India": {
+    "lat": 26.8466937,
+    "lon": 80.94616599999999
+  },
+  "Ranchi, Jharkhand, India": {
+    "lat": 23.3440997,
+    "lon": 85.309562
+  },
+  "Siwan, Bihar, India": {
+    "lat": 26.2243204,
+    "lon": 84.3599953
+  },
+  "Jodhpur, Rajasthan, India": {
+    "lat": 26.2389469,
+    "lon": 73.02430939999999
+  },
+  "Mumbai, Maharashtra, India": {
+    "lat": 18.9582347,
+    "lon": 72.8319514
+  },
+  "Walajapet, Tamil Nadu, India": {
+    "lat": 12.9254169,
+    "lon": 79.36408449999999
+  },
+  "Noida, Uttar Pradesh, India": {
+    "lat": 28.5355161,
+    "lon": 77.3910265
+  },
+  "Mandleshwar, Madhya Pradesh, India": {
+    "lat": 22.1769125,
+    "lon": 75.660084
+  },
+  "Khargaon, Madhya Pradesh, India": {
+    "lat": 21.8257464,
+    "lon": 75.61840610000002
+  },
+  "Trichy, Tamil Nadu, India": {
+    "lat": 10.7904833,
+    "lon": 78.7046725
+  },
+  "Khammam, Telangana, India": {
+    "lat": 17.2472528,
+    "lon": 80.1514447
+  },
+  "Rajkot, Gujarat, India": {
+    "lat": 22.3038945,
+    "lon": 70.80215989999999
+  },
+  "Madurai, Tamil Nadu, India": {
+    "lat": 9.9252007,
+    "lon": 78.1197754
+  },
+  "Hosur, Tamil Nadu, India": {
+    "lat": 12.7409127,
+    "lon": 77.8252923
+  },
+  "Solapur, Maharashtra, India": {
+    "lat": 17.6700736,
+    "lon": 75.9010467
+  },
+  "Siliguri, West Bengal, India": {
+    "lat": 26.7271012,
+    "lon": 88.39528609999999
+  },
+  "Jhalawar, Rajasthan, India": {
+    "lat": 24.593906,
+    "lon": 76.1642846
+  },
+  "Bahadurgarh, Haryana, India": {
+    "lat": 28.6913756,
+    "lon": 76.9314064
+  },
+  "Pune, Maharashtra, India": {
+    "lat": 18.5246091,
+    "lon": 73.8786239
+  },
+  "New Delhi, Delhi, India": {
+    "lat": 28.6139298,
+    "lon": 77.2088282
+  },
+  "AHMEDABAD, Gujarat, India": {
+    "lat": 23.022505,
+    "lon": 72.5713621
+  },
+  "Ahmedabad, Gujarat, India": {
+    "lat": 23.022505,
+    "lon": 72.5713621
+  },
+  "Shivpuri, Madhya Pradesh, India": {
+    "lat": 25.4320478,
+    "lon": 77.66438149999999
+  },
+  "Raipur, Chhattisgarh, India": {
+    "lat": 21.2513844,
+    "lon": 81.62964130000002
+  },
+  "Zaheerabad, Telangana, India": {
+    "lat": 17.6795276,
+    "lon": 77.6050959
+  },
+  "Ranipet, Tamil Nadu, India": {
+    "lat": 12.9487403,
+    "lon": 79.318978
+  },
+  "Adilabad, Telangana, India": {
+    "lat": 19.6765668,
+    "lon": 78.53208409999999
+  },
+  "Mohali, Punjab, India": {
+    "lat": 30.7046486,
+    "lon": 76.71787259999999
+  },
+  "kolkata, West Bengal, India": {
+    "lat": 22.5743545,
+    "lon": 88.3628734
+  },
+  "Varanasi, Uttar Pradesh, India": {
+    "lat": 25.3176452,
+    "lon": 82.9739144
+  },
+  "Rajapalayam, Tamil Nadu, India": {
+    "lat": 9.451484299999999,
+    "lon": 77.55434249999999
+  },
+  "Bahraich, Uttar Pradesh, India": {
+    "lat": 27.5705152,
+    "lon": 81.59766719999999
+  },
+  "Faridabad, Haryana, India": {
+    "lat": 28.4089123,
+    "lon": 77.3177894
+  },
+  "Ajmer, Rajasthan, India": {
+    "lat": 26.4498954,
+    "lon": 74.6399163
+  },
+  "Thanjavur, Tamil Nadu, India": {
+    "lat": 10.787719,
+    "lon": 79.1384288
+  },
+  "Meerut, Uttar Pradesh, India": {
+    "lat": 28.9844618,
+    "lon": 77.7064137
+  },
+  "Jhajjar, Haryana, India": {
+    "lat": 28.6054875,
+    "lon": 76.6537749
+  },
+  "Sikandrabad, Uttar Pradesh, India": {
+    "lat": 28.4511246,
+    "lon": 77.6954889
+  },
+  "madurai, Tamil Nadu, India": {
+    "lat": 9.9252007,
+    "lon": 78.1197754
+  },
+  "Secunderabad, Telangana, India": {
+    "lat": 17.4399295,
+    "lon": 78.4982741
+  },
+  "Tumkur, Karnataka, India": {
+    "lat": 13.3378762,
+    "lon": 77.117325
+  },
+  "Kullu, Himachal Pradesh, India": {
+    "lat": 31.9591246,
+    "lon": 77.1091991
+  },
+  "Thiruvallur, Tamil Nadu, India": {
+    "lat": 13.1226901,
+    "lon": 79.91176899999999
+  },
+  "Virudhunagar, Tamil Nadu, India": {
+    "lat": 9.5741883,
+    "lon": 77.9603961
+  },
+  "Jamnagar, Gujarat, India": {
+    "lat": 22.4707019,
+    "lon": 70.05773
+  },
+  "Coimbatore, Tamil Nadu, India": {
+    "lat": 10.9973691,
+    "lon": 76.9588876
+  },
+  "Keonjhar, Odisha, India": {
+    "lat": 21.6392783,
+    "lon": 85.605494
+  },
+  "Tiruchirappalli, Tamil Nadu, India": {
+    "lat": 10.7904833,
+    "lon": 78.7046725
+  },
+  "Greater Noida, Uttar Pradesh, India": {
+    "lat": 28.4743879,
+    "lon": 77.50399039999999
+  },
+  "Ariyalur, Tamil Nadu, India": {
+    "lat": 11.1403677,
+    "lon": 79.07445
+  },
+  "Sitapur, Uttar Pradesh, India": {
+    "lat": 27.5680156,
+    "lon": 80.6789519
+  },
+  "Gurugram, Haryana, India": {
+    "lat": 28.4594965,
+    "lon": 77.0266383
+  },
+  "Bhopal, Madhya Pradesh, India": {
+    "lat": 23.2599333,
+    "lon": 77.412615
+  },
+  "Guwahati, Assam, India": {
+    "lat": 26.1157917,
+    "lon": 91.7085933
+  },
+  "Sagar, Madhya Pradesh, India": {
+    "lat": 23.838805,
+    "lon": 78.7378068
+  },
+  "Panchkula, Haryana, India": {
+    "lat": 30.6942091,
+    "lon": 76.860565
+  },
+  "Barnala, Punjab, India": {
+    "lat": 30.3819446,
+    "lon": 75.5467979
+  },
+  "Navi Mumbai, Maharashtra, India": {
+    "lat": 19.0330488,
+    "lon": 73.0296625
+  },
+  "Surat, Gujarat, India": {
+    "lat": 21.1702401,
+    "lon": 72.83106070000001
+  },
+  "Mysuru, Karnataka, India": {
+    "lat": 12.2958104,
+    "lon": 76.6393805
+  },
+  "CHENNAI, Tamil Nadu, India": {
+    "lat": 13.0843007,
+    "lon": 80.2704622
+  },
+  "kalimpong, West Bengal, India": {
+    "lat": 27.0593562,
+    "lon": 88.46945350000001
+  },
+  "Diphu, Assam, India": {
+    "lat": 25.8441997,
+    "lon": 93.44019109999999
+  },
+  "Gandhinagar, Gujarat, India": {
+    "lat": 23.2156354,
+    "lon": 72.63694149999999
+  },
+  "Bulandshahr, Uttar Pradesh, India": {
+    "lat": 28.406963,
+    "lon": 77.8498292
+  },
+  "Bokaro, Jharkhand, India": {
+    "lat": 23.6692956,
+    "lon": 86.15111200000001
+  },
+  "Gaya, Bihar, India": {
+    "lat": 24.7913957,
+    "lon": 85.0002336
+  },
+  "Korba, Chhattisgarh, India": {
+    "lat": 22.3594501,
+    "lon": 82.75005949999999
+  },
+  "Chhindwara, Madhya Pradesh, India": {
+    "lat": 22.057437,
+    "lon": 78.9381729
+  },
+  "Ashoknagar, Madhya Pradesh, India": {
+    "lat": 24.5775148,
+    "lon": 77.7318495
+  },
+  "Etawah, Uttar Pradesh, India": {
+    "lat": 26.7829103,
+    "lon": 79.027659
+  },
+  "Tezpur, Assam, India": {
+    "lat": 26.6528495,
+    "lon": 92.7925592
+  },
+  "Deoghar, Jharkhand, India": {
+    "lat": 24.485179,
+    "lon": 86.694785
+  },
+  "Saharanpur, Uttar Pradesh, India": {
+    "lat": 29.9680035,
+    "lon": 77.55520659999999
+  },
+  "Chikodi, Karnataka, India": {
+    "lat": 16.4291905,
+    "lon": 74.5878546
+  },
+  "Dharwad, Karnataka, India": {
+    "lat": 15.4589236,
+    "lon": 75.007808
+  },
+  "Haveri, Karnataka, India": {
+    "lat": 14.7950698,
+    "lon": 75.39906739999999
+  },
+  "Belgaum, Karnataka, India": {
+    "lat": 15.8608974,
+    "lon": 74.5129177
+  },
+  "Athani, Karnataka, India": {
+    "lat": 16.7261322,
+    "lon": 75.0610561
+  },
+  "Kharar, Punjab, India": {
+    "lat": 30.7498676,
+    "lon": 76.64110939999999
+  },
+  "Sonari, Assam, India": {
+    "lat": 27.026657,
+    "lon": 95.0213885
+  },
+  "Kohima, Nagaland, India": {
+    "lat": 25.6742421,
+    "lon": 94.1085937
+  },
+  "Kumbakonam, Tamil Nadu, India": {
+    "lat": 10.9601852,
+    "lon": 79.3844976
+  },
+  "Sidhpur, Gujarat, India": {
+    "lat": 23.9308631,
+    "lon": 72.3621359
+  },
+  "Lumding, Assam, India": {
+    "lat": 25.7516266,
+    "lon": 93.172876
+  },
+  "Rewa, Madhya Pradesh, India": {
+    "lat": 24.5362477,
+    "lon": 81.30369460000001
+  },
+  "Gangtok, West Bengal, India": {
+    "lat": 27.1713893,
+    "lon": 88.5250929
+  },
+  "Nashik, Maharashtra, India": {
+    "lat": 19.9993217,
+    "lon": 73.79001880000001
+  },
+  "Ankleshwar, Gujarat, India": {
+    "lat": 21.6264236,
+    "lon": 73.0151984
+  },
+  "Patiala, Punjab, India": {
+    "lat": 30.3397809,
+    "lon": 76.3868797
+  },
+  "Visakhapatnam, Andhra Pradesh, India": {
+    "lat": 17.7343219,
+    "lon": 83.3129841
+  },
+  "KARHI, Madhya Pradesh, India": {
+    "lat": 22.2787489,
+    "lon": 75.7974636
+  },
+  "coimbatore, Tamil Nadu, India": {
+    "lat": 10.9973691,
+    "lon": 76.9588876
+  },
+  "Tura, Meghalaya, India": {
+    "lat": 25.5142986,
+    "lon": 90.20414199999999
+  },
+  "Sidhi, Madhya Pradesh, India": {
+    "lat": 24.3956038,
+    "lon": 81.88252790000001
+  },
+  "Junagadh, Gujarat, India": {
+    "lat": 21.5222203,
+    "lon": 70.4579436
+  },
+  "Cuttack, Odisha, India": {
+    "lat": 20.462521,
+    "lon": 85.8829895
+  },
+  "South 24 Paraganas, West Bengal, India": {
+    "lat": 22.1366735,
+    "lon": 88.55653099999999
+  },
+  "Udhagamandalam, Tamil Nadu, India": {
+    "lat": 11.4102038,
+    "lon": 76.6950324
+  },
+  "Gondal, Gujarat, India": {
+    "lat": 21.9611708,
+    "lon": 70.7938777
+  },
+  "Mandsaur, Madhya Pradesh, India": {
+    "lat": 24.0734356,
+    "lon": 75.0679018
+  },
+  "Shirpur, Maharashtra, India": {
+    "lat": 21.3455645,
+    "lon": 74.8793243
+  },
+  "Sibsagar, Assam, India": {
+    "lat": 26.989087,
+    "lon": 94.63942399999999
+  },
+  "Shyamnagar, West Bengal, India": {
+    "lat": 22.8315138,
+    "lon": 88.39774179999999
+  },
+  "Ara, Bihar, India": {
+    "lat": 25.5541358,
+    "lon": 84.6664797
+  },
+  "Cuddalore, Tamil Nadu, India": {
+    "lat": 11.7480419,
+    "lon": 79.7713687
+  },
+  "Pathankot, Punjab, India": {
+    "lat": 32.2733352,
+    "lon": 75.6522066
+  },
+  "Bangalore, Karnataka, India": {
+    "lat": 12.9628669,
+    "lon": 77.57750899999999
+  },
+  "Kalimpong, West Bengal, India": {
+    "lat": 27.0593562,
+    "lon": 88.46945350000001
+  },
+  "Naraingarh, Haryana, India": {
+    "lat": 30.4752265,
+    "lon": 77.1219863
+  },
+  "Dibrugarh, Assam, India": {
+    "lat": 27.4705449,
+    "lon": 94.91246249999999
+  },
+  "Moradabad, Uttar Pradesh, India": {
+    "lat": 28.8386481,
+    "lon": 78.7733286
+  },
+  "-, Assam, India": {
+    "lat": 26.2006043,
+    "lon": 92.9375739
+  },
+  "Purba Medinipur, West Bengal, India": {
+    "lat": 21.9372879,
+    "lon": 87.77633329999999
+  },
+  "Islampur, West Bengal, India": {
+    "lat": 26.2554319,
+    "lon": 88.2009408
+  },
+  "Nagpur, Maharashtra, India": {
+    "lat": 21.1458004,
+    "lon": 79.0881546
+  },
+  "Malerkotla, Punjab, India": {
+    "lat": 30.5245806,
+    "lon": 75.8783443
+  },
+  "Hassan, Karnataka, India": {
+    "lat": 13.0033234,
+    "lon": 76.1003894
+  },
+  "Salem, Tamil Nadu, India": {
+    "lat": 11.664325,
+    "lon": 78.1460142
+  },
+  "Kharsawan, Jharkhand, India": {
+    "lat": 22.7829722,
+    "lon": 85.8255855
+  },
+  "Ambala (Naraingarh), Haryana, India": {
+    "lat": 30.4752229,
+    "lon": 77.12198289999999
+  },
+  "Jharsuguda, Odisha, India": {
+    "lat": 21.8554375,
+    "lon": 84.0061661
+  },
+  "Vellore, Tamil Nadu, India": {
+    "lat": 12.9235541,
+    "lon": 79.1330768
+  },
+  "Mumbai, nan, India": {
+    "lat": 18.9582347,
+    "lon": 72.8319514
+  },
+  "Bagod, Madhya Pradesh, India": {
+    "lat": 22.313924,
+    "lon": 75.8737288
+  },
+  "Palampur, Himachal Pradesh, India": {
+    "lat": 32.1108599,
+    "lon": 76.5362526
+  },
+  "Nabha, Punjab, India": {
+    "lat": 30.3730177,
+    "lon": 76.1469551
+  },
+  "Shillong, Meghalaya, India": {
+    "lat": 25.5787726,
+    "lon": 91.8932535
+  },
+  "Raigad, Maharashtra, India": {
+    "lat": 18.6584525,
+    "lon": 72.8773176
+  },
+  "Barasat, West Bengal, India": {
+    "lat": 22.7247556,
+    "lon": 88.4789351
+  },
+  "Chandigarh, Punjab, India": {
+    "lat": 30.5453724,
+    "lon": 75.95767599999999
+  },
+  "Dimapur, Nagaland, India": {
+    "lat": 25.9091406,
+    "lon": 93.72656049999999
+  },
+  "Jaipur, Rajasthan, India": {
+    "lat": 26.9124336,
+    "lon": 75.7872709
+  },
+  "Gurgaon, Haryana, India": {
+    "lat": 28.4594965,
+    "lon": 77.0266383
+  },
+  "Vasco, Goa, India": {
+    "lat": 15.3889103,
+    "lon": 73.8165873
+  },
+  "Jaipur, Uttar Pradesh, India": {
+    "lat": 26.6749133,
+    "lon": 82.91922869999999
+  },
+  "chennai, Tamil Nadu, India": {
+    "lat": 13.0843007,
+    "lon": 80.2704622
+  },
+  "Erode, Tamil Nadu, India": {
+    "lat": 11.3410364,
+    "lon": 77.7171642
+  },
+  "Sangamner, Maharashtra, India": {
+    "lat": 19.5761174,
+    "lon": 74.2070191
+  },
+  "Neemuch,, Madhya Pradesh, India": {
+    "lat": 24.4737663,
+    "lon": 74.8726497
+  },
+  "Neemuch, Madhya Pradesh, India": {
+    "lat": 24.4737663,
+    "lon": 74.8726497
+  },
+  "Baramati, Maharashtra, India": {
+    "lat": 18.1697256,
+    "lon": 74.5756196
+  },
+  "Khurda, Odisha, India": {
+    "lat": 20.1862584,
+    "lon": 85.62227419999999
+  },
+  "Shahzadpur, Haryana, India": {
+    "lat": 30.4464827,
+    "lon": 77.033945
+  },
+  "Ambur Taluk, Tamil Nadu, India": {
+    "lat": 12.7802644,
+    "lon": 78.717634
+  },
+  "Pithampur, Madhya Pradesh, India": {
+    "lat": 22.611121,
+    "lon": 75.6772689
+  },
+  "Tiruppur, Tamil Nadu, India": {
+    "lat": 11.1085242,
+    "lon": 77.3410656
+  },
+  "Kota, Rajasthan, India": {
+    "lat": 25.2138156,
+    "lon": 75.8647527
+  },
+  "Haryana, Haryana, India": {
+    "lat": 29.0587757,
+    "lon": 76.085601
+  },
+  "Kalunga, Odisha, India": {
+    "lat": 22.231322,
+    "lon": 84.74722589999999
+  },
+  "Jaipur, uttar Pradesh, India": {
+    "lat": 26.6749133,
+    "lon": 82.91922869999999
+  },
+  "Noida, Delhi, India": {
+    "lat": 28.5355161,
+    "lon": 77.3910265
+  },
+  "LUCKNOW, Uttar Pradesh, India": {
+    "lat": 26.8466937,
+    "lon": 80.94616599999999
+  },
+  "Chandigarh, Chandigarh, India": {
+    "lat": 30.7333148,
+    "lon": 76.7794179
+  },
+  "Pinjore, Haryana, India": {
+    "lat": 30.799264,
+    "lon": 76.9149134
+  },
+  "Sanawar, Himachal Pradesh, India": {
+    "lat": 30.8931111,
+    "lon": 77.0053459
+  },
+  "margao, Goa, India": {
+    "lat": 15.2859239,
+    "lon": 73.97869140000002
+  },
+  "Chandrapur, Maharashtra, India": {
+    "lat": 19.9615398,
+    "lon": 79.2961468
+  },
+  "Ludhiana, Punjab, India": {
+    "lat": 30.900965,
+    "lon": 75.8572758
+  },
+  "Kalol, Gujarat, India": {
+    "lat": 23.2418194,
+    "lon": 72.49297159999999
+  },
+  "Mundra, Gujarat, India": {
+    "lat": 22.8395642,
+    "lon": 69.72407489999999
+  },
+  "Nazira, Assam, India": {
+    "lat": 26.9006575,
+    "lon": 94.72257929999999
+  },
+  "Nandyal, Andhra Pradesh, India": {
+    "lat": 15.4776876,
+    "lon": 78.487285
+  },
+  "Haldia, West Bengal, India": {
+    "lat": 22.0627164,
+    "lon": 88.0832934
+  },
+  "Makum Road, Tinsukia, Assam, India": {
+    "lat": 27.4863861,
+    "lon": 95.3748208
+  },
+  "Gobichettipalayam, Tamil Nadu, India": {
+    "lat": 11.4549451,
+    "lon": 77.4365196
+  },
+  "Sakti, Chhattisgarh, India": {
+    "lat": 22.0237859,
+    "lon": 82.96023869999999
+  },
+  "Rajpura, Punjab, India": {
+    "lat": 30.4765796,
+    "lon": 76.5905317
+  },
+  "Dhanbad, Jharkhand, India": {
+    "lat": 23.7956531,
+    "lon": 86.43038589999999
+  },
+  "Tanuku, Andhra Pradesh, India": {
+    "lat": 16.751228,
+    "lon": 81.7075787
+  },
+  "Beed, Maharashtra, India": {
+    "lat": 18.990088,
+    "lon": 75.7531324
+  },
+  "Firozabad, Jaipur, Uttar Pradesh, India": {
+    "lat": 27.1591961,
+    "lon": 78.3957331
+  },
+  "Bethesda, Marryland, India": {
+    "lat": 38.9848328,
+    "lon": -77.09431719999999
+  },
+  "Rampurhat, West Bengal, India": {
+    "lat": 24.1744845,
+    "lon": 87.7793421
+  },
+  "Sri Potti Sriramulu Nellore District, Andhra Pradesh, India": {
+    "lat": 14.2580848,
+    "lon": 79.9192702
+  },
+  "Perambalur, Tamil Nadu, India": {
+    "lat": 11.2342104,
+    "lon": 78.8806852
+  },
+  "Shajapur, Madhya Pradesh, India": {
+    "lat": 23.4225728,
+    "lon": 76.2871419
+  },
+  "Kokrajhar, Assam, India": {
+    "lat": 26.4021196,
+    "lon": 90.27056789999999
+  },
+  "Thuraiyur, Tamil Nadu, India": {
+    "lat": 11.1518913,
+    "lon": 78.5957143
+  },
+  "MILLITARY AREA, Gujarat, India": {
+    "lat": 22.4483621,
+    "lon": 70.0577572
+  },
+  "Jaisalmer, Rajasthan, India": {
+    "lat": 26.9157487,
+    "lon": 70.9083443
+  },
+  "Pilani, Rajasthan, India": {
+    "lat": 28.3802101,
+    "lon": 75.6091696
+  },
+  "Silvassa, Gujarat, India": {
+    "lat": 22.6708317,
+    "lon": 71.5723953
+  },
+  "Patna, Bihar, India": {
+    "lat": 25.5940947,
+    "lon": 85.1375645
+  },
+  "Joka, West Bengal, India": {
+    "lat": 22.45335,
+    "lon": 88.30252039999999
+  },
+  "Purnea, Bihar, India": {
+    "lat": 25.7771391,
+    "lon": 87.4752551
+  },
+  "karur, Tamil Nadu, India": {
+    "lat": 10.9600778,
+    "lon": 78.07660360000001
+  },
+  "Nabarun, West Bengal, India": {
+    "lat": 22.9867569,
+    "lon": 87.8549755
+  },
+  "Namakkal, Tamil Nadu, India": {
+    "lat": 11.2193848,
+    "lon": 78.16784179999999
+  },
+  "Ballia, Uttar Pradesh, India": {
+    "lat": 28.2006882,
+    "lon": 79.3651914
+  },
+  "Burdwan, West Bengal, India": {
+    "lat": 23.2332824,
+    "lon": 87.86463839999999
+  },
+  "Jamshedpur, Jharkhand, India": {
+    "lat": 22.8045665,
+    "lon": 86.2028754
+  },
+  "Jagdalpur, Chhattisgarh, India": {
+    "lat": 19.0861377,
+    "lon": 82.0188426
+  },
+  "Shujalpur, Madhya Pradesh, India": {
+    "lat": 23.3882023,
+    "lon": 76.71633589999999
+  },
+  "Kosamba, Gujarat, India": {
+    "lat": 21.4716332,
+    "lon": 72.95499869999999
+  },
+  "Tughlakabad, Delhi, India": {
+    "lat": 28.5052081,
+    "lon": 77.2778944
+  },
+  "Kharagpur, West Bengal, India": {
+    "lat": 22.3451723,
+    "lon": 87.3047053
+  },
+  "Barpeta, Assam, India": {
+    "lat": 26.3304209,
+    "lon": 91.0040547
+  },
+  "Veraval, Gujarat, India": {
+    "lat": 20.9158979,
+    "lon": 70.3628516
+  },
+  "Mahabubnagar, Telangana, India": {
+    "lat": 16.7488379,
+    "lon": 78.00351719999999
+  },
+  "Jajpur Road, Odisha, India": {
+    "lat": 20.9550552,
+    "lon": 86.1271048
+  },
+  "Chandannagar, West Bengal, India": {
+    "lat": 22.867114,
+    "lon": 88.3674381
+  },
+  "Jaspur, Uttarakhand, India": {
+    "lat": 29.2839469,
+    "lon": 78.82813949999999
+  },
+  "Khorda, Odisha, India": {
+    "lat": 20.1862584,
+    "lon": 85.62227419999999
+  },
+  "Labpur, West Bengal, India": {
+    "lat": 23.8160705,
+    "lon": 87.79846529999999
+  },
+  "Asansol, West Bengal, India": {
+    "lat": 23.6888636,
+    "lon": 86.9660638
+  },
+  "Katwa, West bengal, India": {
+    "lat": 23.6403783,
+    "lon": 88.1299373
+  },
+  "Shivpuri, MP, India": {
+    "lat": 25.4320478,
+    "lon": 77.66438149999999
+  },
+  "Kangra, Himachal Pradesh, India": {
+    "lat": 32.1014764,
+    "lon": 76.2731465
+  },
+  "Barh, Bihar, India": {
+    "lat": 25.4722676,
+    "lon": 85.70818419999999
+  },
+  "Katwa, West Bengal, India": {
+    "lat": 23.6403783,
+    "lon": 88.1299373
+  },
+  "Kalna, West Bengal, India": {
+    "lat": 23.2164297,
+    "lon": 88.35285379999999
+  },
+  "Bijnor, Uttar Pradesh, India": {
+    "lat": 29.3731673,
+    "lon": 78.1350904
+  },
+  "Kashipur, Uttarakhand, India": {
+    "lat": 29.2104232,
+    "lon": 78.9618845
+  },
+  "Gadarpur, Uttarakhand, India": {
+    "lat": 29.0396802,
+    "lon": 79.25041350000001
+  },
+  "Navsari, Gujarat, India": {
+    "lat": 20.9467019,
+    "lon": 72.95203479999999
+  },
+  "Buxar, Bihar, India": {
+    "lat": 25.5647103,
+    "lon": 83.9777482
+  },
+  "Nawabganj, Noapara, West Bengal, India": {
+    "lat": 22.81865,
+    "lon": 88.3687416
+  },
+  "Anand, Gujarat, India": {
+    "lat": 22.5645175,
+    "lon": 72.928871
+  },
+  "Jajpur, Odisha, India": {
+    "lat": 20.8341019,
+    "lon": 86.3326058
+  },
+  "The Pentecostal Assembly School, Bokaro, Bokaro, Jharkhand, India": {
+    "lat": 23.6405044,
+    "lon": 86.135438
+  },
+  "Young Horizons School, Karaya Road, kolkata, West Bengal, India": {
+    "lat": 22.5386158,
+    "lon": 88.362554
+  },
+  "Vedavalli Vidyalaya, Ranipet, Tamil Nadu, India": {
+    "lat": 12.9515209,
+    "lon": 79.3263016
+  },
+  "Mothers Public School-Khandagiri, Bhubaneswar, Odisha, India": {
+    "lat": 20.2673629,
+    "lon": 85.7903664
+  },
+  "Sanskriti The Gurukul, Guwahati, Assam, India": {
+    "lat": 26.1041419,
+    "lon": 91.71835720000001
+  },
+  "Shiv Nadar School, Faridabad, Faridabad, Haryana, India": {
+    "lat": 28.3910671,
+    "lon": 77.3515448
+  },
+  "Jamnabai Narsee School, Mumbai, Maharashtra, India": {
+    "lat": 19.1055127,
+    "lon": 72.83224539999999
+  },
+  "K.S.N. SENIOR SECONDARY SCHOOL, CHENNAI, Tamil Nadu, India": {
+    "lat": 12.9851709,
+    "lon": 80.2575619
+  },
+  "St.Joseph^s Convent Higher Secondary School , Tezpur convent, Tezpur, Assam, India": {
+    "lat": 26.6196481,
+    "lon": 92.798706
+  },
+  "KLE School, Haveri, Haveri, Karnataka, India": {
+    "lat": 14.8030036,
+    "lon": 75.3938283
+  },
+  "LPS Global School, Noida, Uttar Pradesh, India": {
+    "lat": 28.5799411,
+    "lon": 77.3758673
+  },
+  "St. Xavier\u2019s High School- Keonjhar, Keonjhar, Odisha, India": {
+    "lat": 21.6473654,
+    "lon": 85.6522674
+  },
+  "Global Edge School, Hyderabad, Telangana, India": {
+    "lat": 17.4457154,
+    "lon": 78.4663832
+  },
+  "St. Francis De Sales Hr. Secondary School, Narengi, Guwahati, Assam, India": {
+    "lat": 26.1681832,
+    "lon": 91.83161919999999
+  },
+  "N.E.T. Public School, Bengaluru, Karnataka, India": {
+    "lat": 12.9449176,
+    "lon": 77.5666351
+  },
+  "Seth Anandram Jaipuria School, Ghaziabad, Uttar Pradesh, India": {
+    "lat": 28.6583249,
+    "lon": 77.3629492
+  },
+  "St. Stanislaus International School, Mumbai, Maharashtra, India": {
+    "lat": 19.0548553,
+    "lon": 72.8297169
+  },
+  "KnowledgeGram International School, Patna, Bihar, India": {
+    "lat": 25.5798831,
+    "lon": 85.1711893
+  },
+  "Vissanji Academy, Mumbai, Maharashtra, India": {
+    "lat": 19.1211122,
+    "lon": 72.85031359999999
+  },
+  "Parle Tilak Vidyalaya (Secondary) ICSE, Mumbai, Maharashtra, India": {
+    "lat": 19.1041903,
+    "lon": 72.8476234
+  },
+  "Ies Public School, Bhopal, Madhya Pradesh, India": {
+    "lat": 23.185167,
+    "lon": 77.327587
+  },
+  "Vidyagyan School, Sitapur, Uttar Pradesh, India": {
+    "lat": 27.3465808,
+    "lon": 80.8233885
+  },
+  "The Green Acres Academy-Chembur, Mumbai, Maharashtra, India": {
+    "lat": 19.0526597,
+    "lon": 72.89251279999999
+  },
+  "Vikaasa Public school, Madurai, Tamil Nadu, India": {
+    "lat": 9.9334375,
+    "lon": 78.1424375
+  },
+  "Gurukula International School, Hassan, Karnataka, India": {
+    "lat": 13.3967253,
+    "lon": 76.1790991
+  },
+  "Vision Coaching Classes, Baner, Pune, Maharashtra, India": {
+    "lat": 18.553845,
+    "lon": 73.7781001
+  },
+  "Oakridge International School, Bengaluru, Bengaluru, Karnataka, India": {
+    "lat": 12.8875405,
+    "lon": 77.7518236
+  },
+  "Priyadarshani School & Jr College, Priyadarshani School & Jr College, Indrayaninagar, Pune, Maharashtra, India": {
+    "lat": 18.637519,
+    "lon": 73.8406268
+  },
+  "Suditi Global Academy, Etawah, Etawah, Uttar Pradesh, India": {
+    "lat": 26.8176606,
+    "lon": 78.98275269999999
+  },
+  "Mahatma Global Gateway, Madurai, Tamil Nadu, India": {
+    "lat": 9.9316012,
+    "lon": 78.1912157
+  },
+  "The Premia Academy, Hyderabad, Telangana, India": {
+    "lat": 17.3768502,
+    "lon": 78.4293869
+  },
+  "Kittu Rani Chennamma Residential School(Sc),Thyamagundalu, Bangalore, Karnataka, India": {
+    "lat": 12.9628669,
+    "lon": 77.57750899999999
+  },
+  "Vega Schools Sector 76, Gurugram, Gurugram, Haryana, India": {
+    "lat": 28.3916706,
+    "lon": 76.98469639999999
+  },
+  "Tashi Namgyal Academy, Gangtok, West Bengal, India": {
+    "lat": 22.9867569,
+    "lon": 87.8549755
+  },
+  "Catalyst World School, Indore, Madhya Pradesh, India": {
+    "lat": 22.7134657,
+    "lon": 75.9849852
+  },
+  "La Montessori School, Dunkhra, Kullu, Himachal Pradesh, India": {
+    "lat": 32.0030304,
+    "lon": 77.25379649999999
+  },
+  "Sai Grace Academy International, Dehradun, Uttarakhand, India": {
+    "lat": 30.30582739999999,
+    "lon": 78.099119
+  },
+  "St. Joseph's English Medium School, Katwa, Katwa, West bengal, India": {
+    "lat": 23.6318363,
+    "lon": 88.09808989999999
+  },
+  "Bellwether International School, Tanuku, Andhra Pradesh, India": {
+    "lat": 16.7403044,
+    "lon": 81.69181209999999
+  },
+  "The Shishukunj International School, Indore, Madhya Pradesh, India": {
+    "lat": 22.7555873,
+    "lon": 75.9468531
+  },
+  "Jindal world School, Sakti, Chhattisgarh, India": {
+    "lat": 22.0340958,
+    "lon": 82.9486556
+  },
+  "D L F Public School-IGCSE, Ghaziabad, Uttar Pradesh, India": {
+    "lat": 28.6880923,
+    "lon": 77.34985019999999
+  },
+  "Himali Boarding School, Kurseong, West Bengal, India": {
+    "lat": 26.8843704,
+    "lon": 88.2802023
+  },
+  "Gurukul Global School, Chandigarh, Chandigarh, India": {
+    "lat": 30.723239,
+    "lon": 76.8351701
+  },
+  "Karnavati International School-CBSE, Rajkot, Gujarat, India": {
+    "lat": 22.3418645,
+    "lon": 70.7926049
+  },
+  "Aga Khan School, Mundhra, Mundra, Gujarat, India": {
+    "lat": 22.8520595,
+    "lon": 69.7237469
+  },
+  "Dps Bangalore South School, Bangalore, Karnataka, India": {
+    "lat": 12.8937691,
+    "lon": 77.56378219999999
+  },
+  "Saupin^s School, Chandigarh, Chandigarh, India": {
+    "lat": 30.7115648,
+    "lon": 76.77711270000002
+  },
+  "Allegiance Academy, Kukshi, Dhar, Madhya Pradesh, India": {
+    "lat": 22.2068401,
+    "lon": 74.7803854
+  },
+  "Fernwood School, Kohima, Nagaland, India": {
+    "lat": 25.6572424,
+    "lon": 94.0912398
+  },
+  "Sondara Gurukul, Beed, Maharashtra, India": {
+    "lat": 18.8821708,
+    "lon": 75.5564031
+  },
+  "PVPST Gujarati Medium School, Rajkot, Gujarat, India": {
+    "lat": 22.2563868,
+    "lon": 70.81212780000001
+  },
+  "Delhi Public School Makronia, Sagar, Madhya Pradesh, India": {
+    "lat": 23.8193603,
+    "lon": 78.8031755
+  },
+  "Sri Kumaran Children^s Academy, Bangalore, Bengaluru, Karnataka, India": {
+    "lat": 12.8832798,
+    "lon": 77.5604712
+  },
+  "Yuva Bharathi Public School, coimbatore, Tamil Nadu, India": {
+    "lat": 11.0669027,
+    "lon": 76.9164061
+  },
+  "Mukesh R Patel CBSE School, Shirpur, Shirpur, Maharashtra, India": {
+    "lat": 21.3567176,
+    "lon": 74.89283340000001
+  },
+  "Jeevana school, madurai, Tamil Nadu, India": {
+    "lat": 9.921721999999999,
+    "lon": 78.086975
+  },
+  "Global Indian International School, Hadapsar, Pune, Maharashtra, India": {
+    "lat": 18.559926,
+    "lon": 73.9150145
+  },
+  "Krishna Public School, Tulssi, Raipur, Chhattisgarh, India": {
+    "lat": 21.2671689,
+    "lon": 81.7534149
+  },
+  "Subbiah Central School, Tirupur, Tamil Nadu, India": {
+    "lat": 11.1094276,
+    "lon": 77.3273234
+  },
+  "Krishna Public School, Dunda, Raipur, Chhattisgarh, India": {
+    "lat": 21.1950848,
+    "lon": 81.6631141
+  },
+  "NLK Academy, Bhawanipur, Mandhana, Kanpur, Uttar Pradesh, India": {
+    "lat": 26.5782879,
+    "lon": 80.2198738
+  },
+  "Wisdom High International School (SMC), Nashik, Maharashtra, India": {
+    "lat": 20.0101267,
+    "lon": 73.73967929999999
+  },
+  "Vijaya School, Hassan, Karnataka, India": {
+    "lat": 13.0284347,
+    "lon": 76.1099929
+  },
+  "Firayalal Public School, Ranchi, Jharkhand, India": {
+    "lat": 23.350554,
+    "lon": 85.3274438
+  },
+  "Prayash Vidya Mandir - Jajpur, Jajpur, Odisha, India": {
+    "lat": 20.8760431,
+    "lon": 86.16437839999999
+  },
+  "City Montessori School - (SOW), Lucknow, Uttar Pradesh, India": {
+    "lat": 26.8466937,
+    "lon": 80.94616599999999
+  },
+  "KLE International School, Rajajinagar, Bengaluru, Bengaluru, Karnataka, India": {
+    "lat": 12.9952331,
+    "lon": 77.55324399999999
+  },
+  "Guru Kripa Divine Grace Public School, Bahraich, Uttar Pradesh, India": {
+    "lat": 27.5412203,
+    "lon": 81.6138459
+  },
+  "Harvest Spring Leaf School, Khammam, Telangana, India": {
+    "lat": 17.2714425,
+    "lon": 80.1293002
+  },
+  "Vivekanand School, Delhi, Delhi, India": {
+    "lat": 28.653634,
+    "lon": 77.31539169999999
+  },
+  "Delhi Public School, Knowledge Park -V, Greater Noida, Uttar Pradesh, India": {
+    "lat": 28.5639702,
+    "lon": 77.463211
+  },
+  "Sunbeam School, Varuna, Varanasi, Uttar Pradesh, India": {
+    "lat": 25.3450407,
+    "lon": 82.9713297
+  },
+  "Sherwood School, Tura, Meghalaya, India": {
+    "lat": 25.496754,
+    "lon": 90.1780338
+  },
+  "G G International School, Pune, Maharashtra, India": {
+    "lat": 18.6191154,
+    "lon": 73.820847
+  },
+  "Douglas Memorial Higher Secondary School, Kolkata, West Bengal, India": {
+    "lat": 22.7658514,
+    "lon": 88.34966039999999
+  },
+  "St. Karen's Primary School, Patna, Bihar, India": {
+    "lat": 25.6157287,
+    "lon": 85.1128483
+  },
+  "The Foundation School, Gunjur branch, Bangalore, Karnataka, India": {
+    "lat": 12.920663,
+    "lon": 77.756891
+  },
+  "Vasantiben and Chandubhai Patel English School, Anand, Gujarat, India": {
+    "lat": 22.5505094,
+    "lon": 72.93074299999999
+  },
+  "Sunbeam School, Lahartara, Varanasi, Uttar Pradesh, India": {
+    "lat": 25.316712,
+    "lon": 82.9762062
+  },
+  "Rishikul Vidyapeeth, Rishikul Vidyapeeth School, Sonepat, Haryana, India": {
+    "lat": 29.013802,
+    "lon": 77.03375199999999
+  },
+  "CNMS, Mumbai, Maharashtra, India": {
+    "lat": 19.106181,
+    "lon": 72.8412288
+  },
+  "Don Bosco Higher Secondary School (Tezpur), Tezpur, Assam, India": {
+    "lat": 26.6534901,
+    "lon": 92.7921157
+  },
+  "The Vega School, Gurugram, Haryana, India": {
+    "lat": 28.3916706,
+    "lon": 76.98469639999999
+  },
+  "Santhanam Vidhyalaya, Tiruchirappalli, Tamil Nadu, India": {
+    "lat": 10.8221237,
+    "lon": 78.7042823
+  },
+  "Gedee Public School, Coimbatore, Tamil Nadu, India": {
+    "lat": 10.935191,
+    "lon": 76.9909117
+  },
+  "Tripada English School, AHMEDABAD, Gujarat, India": {
+    "lat": 23.070315,
+    "lon": 72.5541344
+  },
+  "Mount Litera Zee School, Ara, Ara, Bihar, India": {
+    "lat": 25.5541358,
+    "lon": 84.6664797
+  },
+  "The Global Edge School, Hyderabad, Telangana, India": {
+    "lat": 17.4457154,
+    "lon": 78.4663832
+  },
+  "Pratibha International School, Pune, Maharashtra, India": {
+    "lat": 18.6449808,
+    "lon": 73.7912384
+  },
+  "East Point School, Delhi, Delhi, India": {
+    "lat": 28.6018884,
+    "lon": 77.3232523
+  },
+  "Gyan Jyoti Awasiya Vidyalaya, Ara, Bihar, India": {
+    "lat": 25.5674252,
+    "lon": 84.60197409999999
+  },
+  "KRS Krishnamal Ramasubbaiyer school, Madurai, Tamil Nadu, India": {
+    "lat": 9.7972551,
+    "lon": 78.0926454
+  },
+  "Anubhav School, Ahmedabad, Gujarat, India": {
+    "lat": 22.9522708,
+    "lon": 72.40570430000001
+  },
+  "Sant Atulanand Residential Academy (SARA), Varanasi, Uttar Pradesh, India": {
+    "lat": 25.3719224,
+    "lon": 82.9552076
+  },
+  "Vivekananda Educational Centre, Bengaluru, Karnataka, India": {
+    "lat": 12.9286189,
+    "lon": 77.587538
+  },
+  "Aryavart Ancient Academy - Khurda, Khorda, Odisha, India": {
+    "lat": 20.1719488,
+    "lon": 85.58230660000001
+  },
+  "G.D.Goenka Public School Dakshineswar, Kolkata, West Bengal, India": {
+    "lat": 22.6508001,
+    "lon": 88.36726259999999
+  },
+  "Zydus School for Excellence - Godhavi, Ahmedabad, Gujarat, India": {
+    "lat": 23.0251101,
+    "lon": 72.41613459999999
+  },
+  "KLE Society\u2019s Basava Residential Girls School - Kengeri, Bengaluru, Karnataka, India": {
+    "lat": 12.8909858,
+    "lon": 77.4697518
+  },
+  "Greenwood High Bannerghatta, Bengaluru, Karnataka, India": {
+    "lat": 12.8379564,
+    "lon": 77.6009826
+  },
+  "Doon Valley Public School, Nalagarh, Himachal Pradesh, India": {
+    "lat": 31.025665,
+    "lon": 76.7159424
+  },
+  "KLE Mahadevappanna Munavalli School, Gokak, Gokak, Karnataka, India": {
+    "lat": 16.1661744,
+    "lon": 74.8256734
+  },
+  "GRD International School, Rudrapur, Uttarakhand, India": {
+    "lat": 29.0058861,
+    "lon": 79.3002115
+  },
+  "KLE English Medium CBSE School, Nipani, Nipani, Karnataka, India": {
+    "lat": 16.4095282,
+    "lon": 74.3763113
+  },
+  "SVKM School, Dhule, Dhule, Maharashtra, India": {
+    "lat": 20.8708071,
+    "lon": 74.7666397
+  },
+  "Meru International School, Tellapur, Hyderabad, Telangana, India": {
+    "lat": 17.4708877,
+    "lon": 78.2617944
+  },
+  "Seven Star Senior Secondary Public School, Hamirpur, Himachal Pradesh, India": {
+    "lat": 31.6861745,
+    "lon": 76.52130919999999
+  },
+  "Shri Shikshayatan School, Kolkata, West Bengal, India": {
+    "lat": 22.5432483,
+    "lon": 88.3489407
+  },
+  "Dikshant International School, Zirakpur, Punjab, India": {
+    "lat": 30.665515,
+    "lon": 76.8393334
+  },
+  "St Joseph's Convent School Katwa, Katwa, West bengal, India": {
+    "lat": 23.6403783,
+    "lon": 88.1299373
+  },
+  "Candor International School, Bengaluru, Karnataka, India": {
+    "lat": 12.8199067,
+    "lon": 77.6218329
+  },
+  "Delhi Public School, Faridabad, Faridabad, Haryana, India": {
+    "lat": 28.4196439,
+    "lon": 77.3119806
+  },
+  "Ridge School, Kurnool, Andhra Pradesh, India": {
+    "lat": 15.810118,
+    "lon": 78.0404143
+  },
+  "Sri Kumaran Children's Academy, Bengaluru, Karnataka, India": {
+    "lat": 12.8832798,
+    "lon": 77.5604712
+  },
+  "Dr.Homi Jehangir Bhabha English Medium School No.78 (HJB), Rajkot, Gujarat, India": {
+    "lat": 22.294003,
+    "lon": 70.83109689999999
+  },
+  "Saupin^s School, Mohali, Punjab, India": {
+    "lat": 30.6938123,
+    "lon": 76.71316639999999
+  },
+  "Mind Tree School, Ambala City, Ambala, Haryana, India": {
+    "lat": 30.3680115,
+    "lon": 76.78890109999999
+  },
+  "DPS West, Bengaluru, Karnataka, India": {
+    "lat": 13.0449104,
+    "lon": 77.4630899
+  },
+  "St. Michael's School For Girls, Siliguri, West Bengal, India": {
+    "lat": 26.7428109,
+    "lon": 88.44450069999999
+  },
+  "Shree Mumbadevi Vidya Mandir CISCE, Mumbai, Maharashtra, India": {
+    "lat": 19.0721126,
+    "lon": 72.83794970000001
+  },
+  "St. Karen's High School, Patna, Bihar, India": {
+    "lat": 25.6217361,
+    "lon": 85.0569101
+  },
+  "Padma Seshadri Bala Bhavan Senior Secondary School, Chennai, Tamil Nadu, India": {
+    "lat": 13.0400939,
+    "lon": 80.1998035
+  },
+  "BVM Global @ Perungudi, Chennai, Tamil Nadu, India": {
+    "lat": 12.9581391,
+    "lon": 80.23756379999999
+  },
+  "Aditya Birla Public School- Rayagada, Rayagada, Odisha, India": {
+    "lat": 19.1672894,
+    "lon": 83.0338675
+  },
+  "Cedar Valley International School, Khammam, Telangana, India": {
+    "lat": 17.2435934,
+    "lon": 80.2187941
+  },
+  "Fazlani L'Academie Globale, Mumbai, Maharashtra, India": {
+    "lat": 18.9641283,
+    "lon": 72.838211
+  },
+  "Anand Niketan International, Ahmedabad, Gujarat, India": {
+    "lat": 23.0509167,
+    "lon": 72.4831834
+  },
+  "Apeejay School, Haldia, Haldia, West Bengal, India": {
+    "lat": 22.0605026,
+    "lon": 88.0473241
+  },
+  "St. Paul'S School, Rourkela, Odisha, India": {
+    "lat": 22.224326,
+    "lon": 84.814133
+  },
+  "Sgs International School, South 24 Paraganas, West Bengal, India": {
+    "lat": 22.3360229,
+    "lon": 88.4712378
+  },
+  "Deens Academy -Whitefield, Bengaluru, Karnataka, India": {
+    "lat": 12.9760078,
+    "lon": 77.74193129999999
+  },
+  "Shiv Nadar School (IB), Faridabad, Haryana, India": {
+    "lat": 28.3910671,
+    "lon": 77.3515448
+  },
+  "Queens College, Indore, Madhya Pradesh, India": {
+    "lat": 22.6691057,
+    "lon": 75.8834442
+  },
+  "lions calcutta greater vidya mandir school, kolkata, West Bengal, India": {
+    "lat": 22.493133,
+    "lon": 88.360023
+  },
+  "Kerala Public School_ Burmamines, Jamshedpur, Jharkhand, India": {
+    "lat": 22.7721279,
+    "lon": 86.2042546
+  },
+  "Sir Mutha School, Chennai, Tamil Nadu, India": {
+    "lat": 13.0689163,
+    "lon": 80.23851549999999
+  },
+  "St. Paul'S High School, Ambala, Haryana, India": {
+    "lat": 30.3644334,
+    "lon": 76.79588
+  },
+  "Delhi Public School Lava, Nagpur, Maharashtra, India": {
+    "lat": 21.1730824,
+    "lon": 78.9940661
+  },
+  "Red Rose Convent School, Gadarpur, Uttarakhand, India": {
+    "lat": 29.050629,
+    "lon": 79.25218439999999
+  },
+  "Mount Carmel School, Baghmugalia, Bhopal, Madhya Pradesh, India": {
+    "lat": 23.1953165,
+    "lon": 77.4702059
+  },
+  "Presidency School, Banashankari, Bangalore, Karnataka, India": {
+    "lat": 12.8935144,
+    "lon": 77.52241529999999
+  },
+  "Asia English School, Secondary - Higher Secondary Section, Ahmedabad, Gujarat, India": {
+    "lat": 23.0456492,
+    "lon": 72.52903979999999
+  },
+  "K.S.N school, chennai, Tamil Nadu, India": {
+    "lat": 12.9851709,
+    "lon": 80.2575619
+  },
+  "Presidency School, Bangalore East, Bengaluru, Karnataka, India": {
+    "lat": 13.0053887,
+    "lon": 77.6615113
+  },
+  "I D M Public School, Balangir, Odisha, India": {
+    "lat": 20.6807105,
+    "lon": 83.50267389999999
+  },
+  "Connaissance Edu Service Pvt. Ltd., Tughlakabad, Delhi, India": {
+    "lat": 28.531953,
+    "lon": 77.2958536
+  },
+  "Dikshant Global School, Zirakpur, Punjab, India": {
+    "lat": 30.6467602,
+    "lon": 76.8209009
+  },
+  "Dr.B.R.Ambedkar Girl'S Residential School(Sc),Madhure, Bangalore, Karnataka, India": {
+    "lat": 12.9628669,
+    "lon": 77.57750899999999
+  },
+  "Pearson School Kompally, Hyderabad, Telangana, India": {
+    "lat": 17.5369086,
+    "lon": 78.48065969999999
+  },
+  "Silver Oaks High School, Visakhapatnam, Andhra Pradesh, India": {
+    "lat": 17.7472261,
+    "lon": 83.333253
+  },
+  "Shiv Nadar School, Gurugram, Gurugram, Haryana, India": {
+    "lat": 28.4643558,
+    "lon": 77.10349769999999
+  },
+  "Inventure Academy, Yeshwantpur Campus, Bengaluru, Karnataka, India": {
+    "lat": 13.0531048,
+    "lon": 77.4879788
+  },
+  "Sunflower Vedic School, Hyderabad, Telangana, India": {
+    "lat": 17.5827623,
+    "lon": 78.4991916
+  },
+  "Maxfort School, Delhi, Delhi, India": {
+    "lat": 28.6916826,
+    "lon": 77.1098504
+  },
+  "Silver Oaks High School, Hyderabad, Telangana, India": {
+    "lat": 17.542484,
+    "lon": 78.3648085
+  },
+  "Vedavalli Vidyalaya Senior Secondary School, Walajapet, Tamil Nadu, India": {
+    "lat": 12.9515209,
+    "lon": 79.3263016
+  },
+  "Ingraham Institute English School, Ghaziabad, Uttar Pradesh, India": {
+    "lat": 28.6739269,
+    "lon": 77.4521974
+  },
+  "MRS Educational Trust (Redbridge International Academy), Bengaluru, Karnataka, India": {
+    "lat": 12.8097131,
+    "lon": 77.6271787
+  },
+  "SNS Noida, Noida, Uttar Pradesh, India": {
+    "lat": 28.4948371,
+    "lon": 77.4116371
+  },
+  "The Cathedral & John Connon School - Senior Section, Mumbai, Maharashtra, India": {
+    "lat": 18.9360279,
+    "lon": 72.8326695
+  },
+  "The Ramakrishna Vivekananad Vidya Mandir, Deoghar, Jharkhand, India": {
+    "lat": 24.485179,
+    "lon": 86.694785
+  },
+  "Advanced Academy, Indore, Madhya Pradesh, India": {
+    "lat": 22.7511149,
+    "lon": 75.9260939
+  },
+  "Gangotri International School, Gondal, Gujarat, India": {
+    "lat": 21.9292991,
+    "lon": 70.7586907
+  },
+  "D Y Patil International School, Kangra, Himachal Pradesh, India": {
+    "lat": 32.0980061,
+    "lon": 76.3267326
+  },
+  "Delhi Public School, Navi Mumbai, Navi Mumbai, Maharashtra, India": {
+    "lat": 19.0055371,
+    "lon": 73.0184506
+  },
+  "Mahatma Gandhi School, Rajkot, Gujarat, India": {
+    "lat": 22.2851717,
+    "lon": 70.7843146
+  },
+  "Iira International School, Vadodara, Gujarat, India": {
+    "lat": 22.2756636,
+    "lon": 73.13212879999999
+  },
+  "The Pinnacle Global School, Neemuch, Neemuch, Madhya Pradesh, India": {
+    "lat": 24.5050151,
+    "lon": 74.87232270000001
+  },
+  "Vivekananda Mission School, Haldia, West Bengal, India": {
+    "lat": 22.0280428,
+    "lon": 88.0501159
+  },
+  "Shiv Nadar School (CBSE), Faridabad, Haryana, India": {
+    "lat": 28.3910671,
+    "lon": 77.3515448
+  },
+  "Burdwan Model School, Burdwan, West Bengal, India": {
+    "lat": 23.279329,
+    "lon": 87.87673079999999
+  },
+  "Padma Seshadri Bala Bhavan Senior Secondary School, K.K.Nagar, Chennai, Tamil Nadu, India": {
+    "lat": 13.0400939,
+    "lon": 80.1998035
+  },
+  "The Vedansh International School, Indore, Madhya Pradesh, India": {
+    "lat": 22.7316774,
+    "lon": 75.7814609
+  },
+  "Manav Rachna International School, Gurgaon, Haryana, India": {
+    "lat": 28.4384514,
+    "lon": 77.0594157
+  },
+  "Deens Academy - Gunjur, Bengaluru, Karnataka, India": {
+    "lat": 12.9715917,
+    "lon": 77.5944902
+  },
+  "Glendale Academy International, Hyderabad, Telangana, India": {
+    "lat": 17.3605766,
+    "lon": 78.3979268
+  },
+  "Sri National School, Gobichettipalayam, Tamil Nadu, India": {
+    "lat": 11.4633776,
+    "lon": 77.4271855
+  },
+  "St. Anthony^S School, Kurseong, West Bengal, India": {
+    "lat": 26.8692935,
+    "lon": 88.291947
+  },
+  "Sri Aurobindo International School, Hyderabad, Telangana, India": {
+    "lat": 17.4056078,
+    "lon": 78.5148279
+  },
+  "The Riverside School, Ahmedabad, Gujarat, India": {
+    "lat": 23.0865212,
+    "lon": 72.6071704
+  },
+  "Aga Khan School,Chitravad, Junagadh, Gujarat, India": {
+    "lat": 21.1119357,
+    "lon": 70.5207623
+  },
+  "Shri Swaminarayan Academy, Surat, Gujarat, India": {
+    "lat": 21.2177537,
+    "lon": 72.7846924
+  },
+  "Apple Global School - Gr6 - Cambridge Curriculum, Ahmedabad, Gujarat, India": {
+    "lat": 22.9891065,
+    "lon": 72.41786239999999
+  },
+  "Sri Kumaran Children's Home - CBSE, Bengaluru, Karnataka, India": {
+    "lat": 12.8832798,
+    "lon": 77.5604712
+  },
+  "Mind Tree School, Ambala Cantt, Ambala, Haryana, India": {
+    "lat": 30.4057806,
+    "lon": 76.8552607
+  },
+  "Diamond Jubilee Girls School, Mumbai, Maharashtra, India": {
+    "lat": 18.9579052,
+    "lon": 72.83340799999999
+  },
+  "Santipur Public School, Santipur, West Bengal, India": {
+    "lat": 23.2690558,
+    "lon": 88.4396251
+  },
+  "Shiv Nadar Trust, Noida, Uttar Pradesh, India": {
+    "lat": 28.5959866,
+    "lon": 77.3138757
+  },
+  "Mount Columbus School, Delhi, Delhi, India": {
+    "lat": 28.519946,
+    "lon": 77.2351447
+  },
+  "Delhi Public School, Delhi Public School, Faridabad, Faridabad, Haryana, India": {
+    "lat": 28.4197804,
+    "lon": 77.31103809999999
+  },
+  "Sishya School, Hosur, Tamil Nadu, India": {
+    "lat": 12.726241,
+    "lon": 77.8139204
+  },
+  "Khannur Vidyaniketan School, Ranebennur, Karnataka, India": {
+    "lat": 14.615399,
+    "lon": 75.6288239
+  },
+  "Shiv Nadar School, Gurugram, Haryana, India": {
+    "lat": 28.463886,
+    "lon": 77.101232
+  },
+  "The Kulish School, Jaipur, Rajasthan, India": {
+    "lat": 26.781851,
+    "lon": 75.866796
+  },
+  "Vidya Mandir Estancia, Chennai, Tamil Nadu, India": {
+    "lat": 12.827798,
+    "lon": 80.0481483
+  },
+  "The Shishukunj International School, North Campus, Indore, Madhya Pradesh, India": {
+    "lat": 22.8580196,
+    "lon": 75.8484141
+  },
+  "The Bombay International School, Mumbai, Maharashtra, India": {
+    "lat": 18.9568205,
+    "lon": 72.8087577
+  },
+  "Genius English Medium School, Rajkot, Gujarat, India": {
+    "lat": 22.2667218,
+    "lon": 70.73943059999999
+  },
+  "ODM Sapphire Global School, Ranchi, Jharkhand, India": {
+    "lat": 23.2154766,
+    "lon": 85.29145779999999
+  },
+  "Loreto Day School Elliot Road, Kolkata, West Bengal, India": {
+    "lat": 22.5529242,
+    "lon": 88.3583156
+  },
+  "Priyadarshani Pune Police Public School, Pune, Maharashtra, India": {
+    "lat": 18.5287438,
+    "lon": 73.8462933
+  },
+  "Vikaasa Jubilee School, Madurai, Tamil Nadu, India": {
+    "lat": 9.9520857,
+    "lon": 78.14586709999999
+  },
+  "Vivekananda Mission School, Kolkata, West Bengal, India": {
+    "lat": 22.4458414,
+    "lon": 88.29628579999999
+  },
+  "The Tons Bridge, Dehradun, Uttarakhand, India": {
+    "lat": 30.3416594,
+    "lon": 77.9655848
+  },
+  "Delhi Public School Greater Faridabad, Faridabad, Haryana, India": {
+    "lat": 28.3913482,
+    "lon": 77.34896719999999
+  },
+  "Millennium World School-Moradabad, Moradabad, Uttar Pradesh, India": {
+    "lat": 28.8183059,
+    "lon": 78.6234994
+  },
+  "Delhi Public School, Sec 122, Noida, Uttar Pradesh, India": {
+    "lat": 28.5875597,
+    "lon": 77.3841466
+  },
+  "The Doon School, Dehradun, Uttarakhand, India": {
+    "lat": 30.3350442,
+    "lon": 78.0320136
+  },
+  "Vasant Valley School, New Delhi, Delhi, India": {
+    "lat": 28.5334421,
+    "lon": 77.1442744
+  },
+  "Shiv Nadar School (IB), Gurugram, Haryana, India": {
+    "lat": 28.463886,
+    "lon": 77.101232
+  },
+  "Yuvabharathi Public School, Coimbatore, Tamil Nadu, India": {
+    "lat": 11.0669027,
+    "lon": 76.9164061
+  },
+  "Saraswati Schooling System, Rajkot, Gujarat, India": {
+    "lat": 22.2793579,
+    "lon": 70.80311139999999
+  },
+  "Cambridge International School, Kullu, Kullu, Himachal Pradesh, India": {
+    "lat": 31.9153178,
+    "lon": 77.1260279
+  },
+  "Delhi Public School, Greater Noida, Greater Noida, Uttar Pradesh, India": {
+    "lat": 28.4925391,
+    "lon": 77.5074673
+  },
+  "Don Bosco High School, Lumding, Lumding, Assam, India": {
+    "lat": 25.7415641,
+    "lon": 93.18375069999999
+  },
+  "The Learning Sanctuary, Tura, Meghalaya, India": {
+    "lat": 25.5142986,
+    "lon": 90.20414199999999
+  },
+  "Aster Public School-Noida Extension, Noida, Uttar Pradesh, India": {
+    "lat": 28.491638,
+    "lon": 77.5229444
+  },
+  "BVM Global @ Sholinganallur, Chennai, Tamil Nadu, India": {
+    "lat": 12.8831636,
+    "lon": 80.200154
+  },
+  "N. H. Goel World School, Raipur, Chhattisgarh, India": {
+    "lat": 21.2945026,
+    "lon": 81.75039439999999
+  },
+  "Global Indian International School Balewadi, Pune, Maharashtra, India": {
+    "lat": 18.5667681,
+    "lon": 73.7378013
+  },
+  "Tejas Public School, Ambala (Naraingarh), Haryana, India": {
+    "lat": 30.4752265,
+    "lon": 77.1219863
+  },
+  "Vivekananda Mission School, Haldia, Haldia, West Bengal, India": {
+    "lat": 22.0280428,
+    "lon": 88.0501159
+  },
+  "MSB Educational Institute Kota, Kota, Rajasthan, India": {
+    "lat": 25.2158125,
+    "lon": 75.80268749999999
+  },
+  "Delhi Public School Bangalore East, Bengaluru, Karnataka, India": {
+    "lat": 12.8846637,
+    "lon": 77.7253121
+  },
+  "Arya Vidya Mandir Bandra West, Mumbai, Maharashtra, India": {
+    "lat": 19.0574155,
+    "lon": 72.82849759999999
+  },
+  "The Sobha Academy, Palakkad District, Kerala, India": {
+    "lat": 10.5851488,
+    "lon": 76.45570289999999
+  },
+  "Billabong High International School, Bhopal, Bhopal, Madhya Pradesh, India": {
+    "lat": 23.200091,
+    "lon": 77.3477782
+  },
+  "The Scindia School, Fort, Gwalior, Madhya Pradesh, India": {
+    "lat": 26.2179713,
+    "lon": 78.1659909
+  },
+  "ABS Smart Global School, Chennai, Tamil Nadu, India": {
+    "lat": 13.1864046,
+    "lon": 80.1998978
+  },
+  "Global Indian International School, Bengaluru, Karnataka, India": {
+    "lat": 12.9738008,
+    "lon": 77.6293863
+  },
+  "Paramount Academy, Kasrawad, Khargaon, Madhya Pradesh, India": {
+    "lat": 22.1045319,
+    "lon": 75.6162253
+  },
+  "Mother's International Academy, Patna, Bihar, India": {
+    "lat": 25.5784705,
+    "lon": 85.0629178
+  },
+  "Sri Aham Aathma Vidyalaya, Bengaluru, Karnataka, India": {
+    "lat": 13.0251198,
+    "lon": 77.4943052
+  },
+  "MSB Educational Institute, Rajkot, Gujarat, India": {
+    "lat": 22.3616478,
+    "lon": 70.732078
+  },
+  "Vallaba Vidyalaya, Madurai, Tamil Nadu, India": {
+    "lat": 10.0073741,
+    "lon": 78.188035
+  },
+  "Don Bosco Senior Secondary School, Navi Mumbai, Maharashtra, India": {
+    "lat": 19.0176361,
+    "lon": 73.01524909999999
+  },
+  "Modi School, CBSE, Rajkot, Gujarat, India": {
+    "lat": 22.2832634,
+    "lon": 70.6851561
+  },
+  "Abhinav Bharati High School, Kolkata, West Bengal, India": {
+    "lat": 22.5440154,
+    "lon": 88.35151499999999
+  },
+  "Ramco Vidya Mandir School, Ariyalur, Tamil Nadu, India": {
+    "lat": 11.1712864,
+    "lon": 79.0993108
+  },
+  "Global Indian International School, Ahmedabad, Gujarat, India": {
+    "lat": 23.117317,
+    "lon": 72.55350229999999
+  },
+  "Kittu Rani Chennamma Residential School(U)(Sc),Telagarahalli, Bangalore, Karnataka, India": {
+    "lat": 12.6866999,
+    "lon": 77.6908323
+  },
+  "Dalmia Public School, Veraval, Gujarat, India": {
+    "lat": 20.8513926,
+    "lon": 70.4592383
+  },
+  "St. Hilda'S School, Ooty, Tamil Nadu, India": {
+    "lat": 11.42064,
+    "lon": 76.70309900000001
+  },
+  "Kittu Rani Chennamma Residential School(Sc),Channaraypatna, Bangalore, Karnataka, India": {
+    "lat": 12.9628669,
+    "lon": 77.57750899999999
+  },
+  "Disari Public School, Haldia, West Bengal, India": {
+    "lat": 22.1063472,
+    "lon": 88.02300939999999
+  },
+  "Shivpuri Public School, Shivpuri, MP, India": {
+    "lat": 25.4024244,
+    "lon": 77.6423471
+  },
+  "Delhi Public School, Bijnor, Bijnor, Uttar Pradesh, India": {
+    "lat": 29.4202057,
+    "lon": 78.165297
+  },
+  "Sri Shenbaga Vinayagar Matriculation Higher Secondary School, Sivakasi, Tamil Nadu, India": {
+    "lat": 9.4424418,
+    "lon": 77.7937334
+  },
+  "St. James^ School, Kolkata, West Bengal, India": {
+    "lat": 22.5552691,
+    "lon": 88.36562339999999
+  },
+  "BVM International School, Chennai, Tamil Nadu, India": {
+    "lat": 12.8856395,
+    "lon": 80.2037936
+  },
+  "Little^s Pre Primary & Primary School, margao, Goa, India": {
+    "lat": 15.2902865,
+    "lon": 73.9658044
+  },
+  "Pragyan School, Greater Noida, Uttar Pradesh, India": {
+    "lat": 28.4805796,
+    "lon": 77.5021398
+  },
+  "Padma Seshadri Bala Bhavan Senior Secondary School, Siruseri, Chennai, Tamil Nadu, India": {
+    "lat": 12.8352188,
+    "lon": 80.2010804
+  },
+  "The Mindcraft School, Surat, Gujarat, India": {
+    "lat": 21.2434536,
+    "lon": 72.9444894
+  },
+  "The Blossom Sunderbhai Thackersey English High School, Mumbai, Maharashtra, India": {
+    "lat": 19.1236283,
+    "lon": 72.9179442
+  },
+  "Cambridge School, Indirapuram, Ghaziabad, Uttar Pradesh, India": {
+    "lat": 28.6464157,
+    "lon": 77.364006
+  },
+  "Prestige Public School, Indore, Madhya Pradesh, India": {
+    "lat": 22.76043,
+    "lon": 75.883528
+  },
+  "St Joseph^s Boys High School, Bengaluru, Karnataka, India": {
+    "lat": 12.9720705,
+    "lon": 77.6037037
+  },
+  "Vidyakunj International School, Shajapur, Shajapur, Madhya Pradesh, India": {
+    "lat": 23.3966288,
+    "lon": 76.25934149999999
+  },
+  "Shiv Ashish School, Ahmedabad, Gujarat, India": {
+    "lat": 23.0377374,
+    "lon": 72.47216279999999
+  },
+  "Vimala Convent School, Bhawanipatna, Odisha, India": {
+    "lat": 19.9137911,
+    "lon": 83.1738967
+  },
+  "V V S Gandhi Centenary English Primary School (Dhruvadhama Campus), Bengaluru, Karnataka, India": {
+    "lat": 13.0047062,
+    "lon": 77.5503883
+  },
+  "R J Mantra English School, Virudhunagar, Tamil Nadu, India": {
+    "lat": 9.5844054,
+    "lon": 77.9953238
+  },
+  "GD Goenka Public School, Ranchi, Jharkhand, India": {
+    "lat": 23.3290625,
+    "lon": 85.36818749999999
+  },
+  "Cambridge School_Noida, Noida, Uttar Pradesh, India": {
+    "lat": 28.572916,
+    "lon": 77.3284491
+  },
+  "Prakriti School - Sec-128, Noida, Uttar Pradesh, India": {
+    "lat": 28.5183084,
+    "lon": 77.3725458
+  },
+  "Delhi Public School, Rajpura, Rajpura, Punjab, India": {
+    "lat": 30.51757469999999,
+    "lon": 76.669808
+  },
+  "Vidya Devi Jindal School, Hisar, Haryana, India": {
+    "lat": 29.1047924,
+    "lon": 75.8480198
+  },
+  "Vimukti Sanstha , Firozabad, Jaipur, Uttar Pradesh, India": {
+    "lat": 27.1591961,
+    "lon": 78.3957331
+  },
+  "Apeejay School- Parkstreet, kolkata, West Bengal, India": {
+    "lat": 22.5481229,
+    "lon": 88.3593849
+  },
+  "Shri Rama Bharti Public School - Nahra Nahri, Bahadurgarh, Haryana, India": {
+    "lat": 28.8813606,
+    "lon": 77.1075252
+  },
+  "St. Michael^s School For Girls, Siliguri, West Bengal, India": {
+    "lat": 26.7428109,
+    "lon": 88.44450069999999
+  },
+  "St Mary's (Cambridge Board), Mumbai, Maharashtra, India": {
+    "lat": 19.0918614,
+    "lon": 72.8397569
+  },
+  "Mlrt Gala Pioneer English School, Mumbai, Maharashtra, India": {
+    "lat": 19.2035629,
+    "lon": 72.8550715
+  },
+  "DLF Public School, Ghaziabad, Uttar Pradesh, India": {
+    "lat": 28.6880923,
+    "lon": 77.34985019999999
+  },
+  "The Green Acres Academy, Kalyan, Kalyan, Maharashtra, India": {
+    "lat": 19.2658125,
+    "lon": 73.13056250000001
+  },
+  "Presidency School, Mangalore, Mangalore, Karnataka, India": {
+    "lat": 12.9063266,
+    "lon": 74.90771889999999
+  },
+  "Indo Scots Global School Kamothe, Navi Mumbai, Maharashtra, India": {
+    "lat": 19.015018,
+    "lon": 73.0871078
+  },
+  "Girls Primary School MJM, Hyderabad, Telangana, India": {
+    "lat": 17.354681,
+    "lon": 78.47048509999999
+  },
+  "Shemford Futuristic School, Dhatrigram, Kalna, West Bengal, India": {
+    "lat": 23.2767062,
+    "lon": 88.2876204
+  },
+  "Delhi Public School, Dwarka Expressway, Gurugram, Haryana, India": {
+    "lat": 28.4420649,
+    "lon": 77.06506209999999
+  },
+  "ODM Global School, Bhubaneswar, Odisha, India": {
+    "lat": 20.3769789,
+    "lon": 85.80617439999999
+  },
+  "The Rajkumar College, Rajkot, Gujarat, India": {
+    "lat": 22.2925515,
+    "lon": 70.796004
+  },
+  "Girls Primary School Teachers MJM, Hyderabad, Telangana, India": {
+    "lat": 17.354681,
+    "lon": 78.47048509999999
+  },
+  "Saupin's School, Mohali, Punjab, India": {
+    "lat": 30.6934185,
+    "lon": 76.7134064
+  },
+  "Scholars Abode School, Patna, Bihar, India": {
+    "lat": 25.6217465,
+    "lon": 85.08472859999999
+  },
+  "The Shri Ram Universal School, Hyderabad, Telangana, India": {
+    "lat": 17.4172792,
+    "lon": 78.34991509999999
+  },
+  "Fun Learn Day Boarding School, Kolkata, West Bengal, India": {
+    "lat": 22.5418323,
+    "lon": 88.2860078
+  },
+  "Anand Niketan Satellite, Ahmedabad, Gujarat, India": {
+    "lat": 23.022295,
+    "lon": 72.5081876
+  },
+  "Virudhunagar T S M Manickamnadar Janakiamamal Higher Secondary School, Madurai, Tamil Nadu, India": {
+    "lat": 9.9232221,
+    "lon": 78.12352419999999
+  },
+  "Sri Venkateshwar International School, New Delhi, Delhi, India": {
+    "lat": 28.58895,
+    "lon": 77.038922
+  },
+  "Suchitra Academy, Hyderabad, Telangana, India": {
+    "lat": 17.5001908,
+    "lon": 78.47686709999999
+  },
+  "S N Kansagra School, Rajkot, Gujarat, India": {
+    "lat": 22.2874516,
+    "lon": 70.76033439999999
+  },
+  "Sishu Griha Montessori And High School, Bangalore, Karnataka, India": {
+    "lat": 12.9734143,
+    "lon": 77.65578339999999
+  },
+  "Vasudev C Wadhwa Arya Vidya Mandir School, Mumbai, Maharashtra, India": {
+    "lat": 19.0651111,
+    "lon": 72.85894979999999
+  },
+  "Golden Gates Vidhyashram, Trichy, Tamil Nadu, India": {
+    "lat": 11.2335625,
+    "lon": 78.8738125
+  },
+  "Moulya Gurukul International School, Bangalore, Karnataka, India": {
+    "lat": 12.6976929,
+    "lon": 77.70256739999999
+  },
+  "Richmondd Convent School, Pathankot, Punjab, India": {
+    "lat": 32.292824,
+    "lon": 75.65804609999999
+  },
+  "Priyadarshani School and Junior college Moshi, Pune, Maharashtra, India": {
+    "lat": 18.6793699,
+    "lon": 73.8491808
+  },
+  "T B Desai Family Public Charitable Trust, Mumbai, Maharashtra, India": {
+    "lat": 19.1820149,
+    "lon": 72.9388175
+  },
+  "Saupin^s School, Chandigarh, Chandigarh, Chandigarh, India": {
+    "lat": 30.7115648,
+    "lon": 76.77711270000002
+  },
+  "Kaanger Valley Academy, Raipur, Chhattisgarh, India": {
+    "lat": 21.244312,
+    "lon": 81.58621509999999
+  },
+  "Vega School, Sector 48, Gurugram, Gurugram, Haryana, India": {
+    "lat": 28.4107603,
+    "lon": 77.0380193
+  },
+  "Delhi Public School, Nagpur, Uttar Pradesh, India": {
+    "lat": 21.1458004,
+    "lon": 79.0881546
+  },
+  "Freedom International School, Bengaluru, Karnataka, India": {
+    "lat": 12.916546,
+    "lon": 77.641994
+  },
+  "Kasiga School, Dehradun, Uttarakhand, India": {
+    "lat": 30.4008011,
+    "lon": 78.06313279999999
+  },
+  "St.George School, Shillong, Meghalaya, India": {
+    "lat": 25.5893614,
+    "lon": 91.90958979999999
+  },
+  "Don Bosco School Kalyani, kalyani, West Bengal, India": {
+    "lat": 22.9738125,
+    "lon": 88.49676559999999
+  },
+  "Mother Mary's School, Delhi, Delhi, India": {
+    "lat": 28.5985411,
+    "lon": 77.29937939999999
+  },
+  "Nath Valley School, Aurangabad, Maharashtra, India": {
+    "lat": 19.8379068,
+    "lon": 75.3033403
+  },
+  "Edu Girls, Bethesda, Marryland, India": {
+    "lat": 38.9848328,
+    "lon": -77.09431719999999
+  },
+  "Cambridge School, Greater Noida, Noida, Uttar Pradesh, India": {
+    "lat": 28.4778687,
+    "lon": 77.4995555
+  },
+  "Darbari Lal Foundation World School, Greater Noida, Uttar Pradesh, India": {
+    "lat": 28.5094022,
+    "lon": 77.5285265
+  },
+  "KLE English Medium School, Solapur, Solapur, Maharashtra, India": {
+    "lat": 17.634756,
+    "lon": 75.9119821
+  },
+  "Shiv Nadar School, Faridabad (IB), Faridabad, Haryana, India": {
+    "lat": 28.3910671,
+    "lon": 77.3515448
+  },
+  "Sri Sri Academy, Rajkot, Gujarat, India": {
+    "lat": 22.2755736,
+    "lon": 70.7680699
+  },
+  "Loreto Convent, Shillong, Shillong, Meghalaya, India": {
+    "lat": 25.5676028,
+    "lon": 91.8903952
+  },
+  "Silver Oaks School, Bowrampet, Hyderabad, Telangana, India": {
+    "lat": 17.568987,
+    "lon": 78.38412000000001
+  },
+  "G R International Public School, Bangalore, Karnataka, India": {
+    "lat": 12.8661588,
+    "lon": 77.3772135
+  },
+  "Yashasvi International School, Bangalore, Karnataka, India": {
+    "lat": 12.8650701,
+    "lon": 77.53375299999999
+  },
+  "MERU International School (Cambridge), Hyderabad, Telangana, India": {
+    "lat": 17.4936256,
+    "lon": 78.3360391
+  },
+  "Vivekananda Mission School Baruipur, Kolkata, West Bengal, India": {
+    "lat": 22.4458414,
+    "lon": 88.29628579999999
+  },
+  "The Daly College, Indore, Madhya Pradesh, India": {
+    "lat": 22.7009015,
+    "lon": 75.8940094
+  },
+  "GEAR Innovative International School, Bengaluru, Karnataka, India": {
+    "lat": 12.9176952,
+    "lon": 77.6973403
+  },
+  "Him Academy Public School - Hira Nagar, Hamirpur, Himachal Pradesh, India": {
+    "lat": 31.6950867,
+    "lon": 76.5115162
+  },
+  "St. Mary^s School (ICSE), Mazagaon, Mumbai, Maharashtra, India": {
+    "lat": 18.9693369,
+    "lon": 72.8359031
+  },
+  "Alma Mater School, Jodhpur, Rajasthan, India": {
+    "lat": 26.2597132,
+    "lon": 73.0134092
+  },
+  "Silver Oaks High, Hyderabad, Telangana, India": {
+    "lat": 17.3657314,
+    "lon": 78.5049385
+  },
+  "Delhi Public School, Chhindwara, Madhya Pradesh, India": {
+    "lat": 21.9989243,
+    "lon": 78.8817514
+  },
+  "Air Force School Tezpur, -, Assam, India": {
+    "lat": 26.7201294,
+    "lon": 92.7805723
+  },
+  "Silver Point School, Kolkata, West Bengal, India": {
+    "lat": 22.5132325,
+    "lon": 88.3780642
+  },
+  "Mayo College, Ajmer, Rajasthan, India": {
+    "lat": 26.4460904,
+    "lon": 74.6520006
+  },
+  "Tandon International School, Barnala, Barnala, Punjab, India": {
+    "lat": 30.3848868,
+    "lon": 75.53184449999999
+  },
+  "Mallya Aditi International School, Bengaluru, Karnataka, India": {
+    "lat": 13.1025297,
+    "lon": 77.583613
+  },
+  "Partap World School, Pathankot, Punjab, India": {
+    "lat": 32.3127639,
+    "lon": 75.68036479999999
+  },
+  "Sishu Griha Montessori And High School, Bengaluru, Karnataka, India": {
+    "lat": 12.9734143,
+    "lon": 77.65578339999999
+  },
+  "Kikani Global Academy CBSE School, Coimbatore, Tamil Nadu, India": {
+    "lat": 10.9480879,
+    "lon": 76.90531969999999
+  },
+  "Akshar Arbol International School, Chennai, Tamil Nadu, India": {
+    "lat": 13.0481647,
+    "lon": 80.23224479999999
+  },
+  "Manav Rachna International School, Faridabad, Haryana, India": {
+    "lat": 28.3993335,
+    "lon": 77.33251609999999
+  },
+  "St Joseph's Convent School, Laghata, Labpur, West Bengal, India": {
+    "lat": 23.8088178,
+    "lon": 87.8199236
+  },
+  "Gopal^s Garden High School, Mumbai, Maharashtra, India": {
+    "lat": 19.2302571,
+    "lon": 72.8638539
+  },
+  "Kaveri International School, Pune, Maharashtra, India": {
+    "lat": 18.612559,
+    "lon": 73.9442483
+  },
+  "ASPAM Scottish School, Noida, Uttar Pradesh, India": {
+    "lat": 28.6246249,
+    "lon": 77.3724585
+  },
+  "St. George^s School, New Delhi, Delhi, India": {
+    "lat": 28.5283551,
+    "lon": 77.25079780000002
+  },
+  "Vimukti Sanstha - Project DDGIC, Jaipur, Uttar Pradesh, India": {
+    "lat": 27.5705886,
+    "lon": 80.0981869
+  },
+  "World One School, Hyderabad, Telangana, India": {
+    "lat": 17.4752716,
+    "lon": 78.3701117
+  },
+  "Doon Public School, Panchkula, Haryana, India": {
+    "lat": 30.6762471,
+    "lon": 76.8636154
+  },
+  "Little\u2019s Pre Primary & Primary School, margao, Goa, India": {
+    "lat": 15.2902865,
+    "lon": 73.9658044
+  },
+  "Wisdom High International School (GOC), Nashik, Maharashtra, India": {
+    "lat": 20.0101267,
+    "lon": 73.73967929999999
+  },
+  "Dayawati Modi Academy , Pallavpuram Meerut, Meerut, Uttar Pradesh, India": {
+    "lat": 29.0506466,
+    "lon": 77.7070028
+  },
+  "Happy Days School, Shivpuri, Madhya Pradesh, India": {
+    "lat": 25.4320478,
+    "lon": 77.66438149999999
+  },
+  "Pinewood Academic Society, Saharanpur, Uttar Pradesh, India": {
+    "lat": 29.9848993,
+    "lon": 77.54460610000001
+  },
+  "Edu Girls KREIS, Bethesda, Marryland, India": {
+    "lat": 38.9848328,
+    "lon": -77.09431719999999
+  },
+  "Anand Niketan, Shilaj, AHMEDABAD, Gujarat, India": {
+    "lat": 23.0499747,
+    "lon": 72.48313929999999
+  },
+  "Aga Khan School, Sidhpur, Sidhpur, Gujarat, India": {
+    "lat": 23.9209378,
+    "lon": 72.36459529999999
+  },
+  "Shiv Nadar School (CBSE), Gurugram, Haryana, India": {
+    "lat": 28.463886,
+    "lon": 77.101232
+  },
+  "Vyasanagar Public School, Jajpur Road, Odisha, India": {
+    "lat": 20.9523156,
+    "lon": 86.1208209
+  },
+  "Saupin^s School, Mohali, Mohali, Punjab, India": {
+    "lat": 30.6938123,
+    "lon": 76.71316639999999
+  },
+  "Yagappa International Residential School, Thanjavur, Tamil Nadu, India": {
+    "lat": 10.7268396,
+    "lon": 78.97967349999999
+  },
+  "BVM Global Bollineni Hillside Senior Secondary School, Chennai, Tamil Nadu, India": {
+    "lat": 12.8831636,
+    "lon": 80.200154
+  },
+  "S H N V Matriculation School, Sivakasi, Tamil Nadu, India": {
+    "lat": 9.4492448,
+    "lon": 77.7933771
+  },
+  "Vidhya Vishwalaya, Coimbatore, Tamil Nadu, India": {
+    "lat": 10.5922141,
+    "lon": 77.01708930000001
+  },
+  "Discoveri Oaks School, Hyderabad, Telangana, India": {
+    "lat": 17.322415,
+    "lon": 78.6268836
+  },
+  "Parle Tilak Vidyalaya (Primary) ICSE, Mumbai, Maharashtra, India": {
+    "lat": 19.1041903,
+    "lon": 72.8476234
+  },
+  "Vidya Vanam Sr Sec School, Coimbatore, Tamil Nadu, India": {
+    "lat": 11.1132961,
+    "lon": 76.7492444
+  },
+  "GEAR Innovative International School Neuron, Bengaluru, Karnataka, India": {
+    "lat": 12.9176952,
+    "lon": 77.6973403
+  },
+  "Indus Valley World School, kolkata, West Bengal, India": {
+    "lat": 22.4845545,
+    "lon": 88.398642
+  },
+  "Lakshmi Matriculation Higher Secondary School, Madurai, Tamil Nadu, India": {
+    "lat": 9.9581004,
+    "lon": 78.311396
+  },
+  "Krishna English Medium School, Rajkot, Gujarat, India": {
+    "lat": 22.3033405,
+    "lon": 70.81908510000001
+  },
+  "St. Agnes HighSchool(ICSE), Mumbai, Maharashtra, India": {
+    "lat": 18.9710101,
+    "lon": 72.83045299999999
+  },
+  "Delhi Public School Mysore, Mysuru, Karnataka, India": {
+    "lat": 12.3094117,
+    "lon": 76.72836939999999
+  },
+  "Shiv Nadar School, Gurugram (IB), Haryana, Haryana, India": {
+    "lat": 28.463886,
+    "lon": 77.101232
+  },
+  "Little Angels High School, Mumbai, Maharashtra, India": {
+    "lat": 19.1171673,
+    "lon": 72.9100975
+  },
+  "Meru International School, Hyderabad, Telangana, India": {
+    "lat": 17.4936256,
+    "lon": 78.3360391
+  },
+  "La Montessori School, Dhalpur, Kullu, Himachal Pradesh, India": {
+    "lat": 31.955228,
+    "lon": 77.11260899999999
+  },
+  "Takshila, Bijni, Himachal Pradesh, India": {
+    "lat": 30.083333,
+    "lon": 78.41666699999999
+  },
+  "Global Indian International School, Bannerghatta, Bangalore, Karnataka, India": {
+    "lat": 12.9738008,
+    "lon": 77.6293863
+  },
+  "Chinmaya Vidyalaya Srimathi P.A.C.R. Sethuramammal Nursery & Primary School, Rajapalayam, Tamil Nadu, India": {
+    "lat": 9.438928299999999,
+    "lon": 77.5639198
+  },
+  "Diamond Jubilee High School, Hyderabad, Hyderabad, Telangana, India": {
+    "lat": 17.389856,
+    "lon": 78.4740996
+  },
+  "Billabong High International School Erode, Erode, Tamil Nadu, India": {
+    "lat": 11.2750263,
+    "lon": 77.77541029999999
+  },
+  "St Paul's school Rampurhat, Rampurhat, West Bengal, India": {
+    "lat": 24.1828239,
+    "lon": 87.7513469
+  },
+  "Kavi Shri Narmad English Medium School (KSN), Rajkot, Gujarat, India": {
+    "lat": 22.2751965,
+    "lon": 70.805516
+  },
+  "Shri A.B. Patil English School, Sangli, Kolhapur, Maharashtra, India": {
+    "lat": 16.8315549,
+    "lon": 74.5813373
+  },
+  "Hopes and Dreams Trust, Gurgaon, Haryana, India": {
+    "lat": 28.4594965,
+    "lon": 77.0266383
+  },
+  "MERU International School, Tellapur (Cambridge), Hyderabad, Telangana, India": {
+    "lat": 17.4708877,
+    "lon": 78.2617944
+  },
+  "Aarth Universal School, Surat, Gujarat, India": {
+    "lat": 21.2198544,
+    "lon": 72.730958
+  },
+  "K.R. Mangalam World School, Bahadurgarh, Haryana, India": {
+    "lat": 28.6857302,
+    "lon": 76.9104061
+  },
+  "PRG World School, Jaipur, Rajasthan, India": {
+    "lat": 26.8929001,
+    "lon": 75.7380575
+  },
+  "Morning Bells Academy Shayamnagar, Shyamnagar, West Bengal, India": {
+    "lat": 22.8201031,
+    "lon": 88.3773769
+  },
+  "Green Valley English High School, Bengaluru, Karnataka, India": {
+    "lat": 12.8920291,
+    "lon": 77.57137929999999
+  },
+  "Satyanarayan Academy, Bankura, West Bengal, India": {
+    "lat": 23.2538984,
+    "lon": 87.1434596
+  },
+  "Witty International School, Borivali (W), Mumbai, Maharashtra, India": {
+    "lat": 19.2183655,
+    "lon": 72.83685299999999
+  },
+  "Manav Rachna International School - Charmwood, Faridabad, Faridabad, Haryana, India": {
+    "lat": 28.4951975,
+    "lon": 77.2880854
+  },
+  "Pramila Memorial Advanced School, Kolkata, West Bengal, India": {
+    "lat": 22.6158022,
+    "lon": 88.42437009999999
+  },
+  "Bodoland Pioneer Public School, Kokrajhar, Assam, India": {
+    "lat": 26.45001,
+    "lon": 90.2928764
+  },
+  "Good Shepherd English Medium School, Nandyal, Andhra Pradesh, India": {
+    "lat": 15.4698867,
+    "lon": 78.4935326
+  },
+  "KLE KG & English Medium State School, Nipani, Nipani, Karnataka, India": {
+    "lat": 16.4185567,
+    "lon": 74.3833255
+  },
+  "Amrutvahinis NIDO International School, Sangamner, Maharashtra, India": {
+    "lat": 19.6136776,
+    "lon": 74.17235769999999
+  },
+  "The Sivakasi Lions Matriculation Higher Secondary School, Sivakasi, Tamil Nadu, India": {
+    "lat": 9.5206135,
+    "lon": 77.8396793
+  },
+  "Sunbeam Suncity (School & Hostel), Varanasi, Uttar Pradesh, India": {
+    "lat": 25.2174442,
+    "lon": 82.9096844
+  },
+  "Delhi Public School, Delhi Public School, Bulandshahr, Bulandshahr, Uttar Pradesh, India": {
+    "lat": 28.4069221,
+    "lon": 77.830413
+  },
+  "Green Valley English School, Bengaluru, Karnataka, India": {
+    "lat": 13.0420516,
+    "lon": 77.5533586
+  },
+  "Mount Litera Zee School Jamshedpur, Kharsawan, Jharkhand, India": {
+    "lat": 22.8045665,
+    "lon": 86.2028754
+  },
+  "Jamnabai Narsee School, Gandhinagar, Gujarat, India": {
+    "lat": 23.1619049,
+    "lon": 72.69262789999999
+  },
+  "St. Anthony\u2019s School (Girls), Kurseong, West Bengal, India": {
+    "lat": 26.8821382,
+    "lon": 88.2788511
+  },
+  "Bhavan Vidyalaya, Panchkula, Panchkula, Haryana, India": {
+    "lat": 30.6867059,
+    "lon": 76.8424213
+  },
+  "Shiv Nadar School, Faridabad (CBSE), Faridabad, Haryana, India": {
+    "lat": 28.3910671,
+    "lon": 77.3515448
+  },
+  "Delhi Public School, Rohini, Delhi, Delhi, India": {
+    "lat": 28.7261802,
+    "lon": 77.08753730000001
+  },
+  "V V S Gandhi Centenary English Primary School (Saptharshidhama Campus), Bengaluru, Karnataka, India": {
+    "lat": 13.0047062,
+    "lon": 77.5503883
+  },
+  "Shastra School, Mahabubnagar, Telangana, India": {
+    "lat": 17.0596812,
+    "lon": 78.2040415
+  },
+  "Mayoor School, Jaipur, Jaipur, Rajasthan, India": {
+    "lat": 26.7878428,
+    "lon": 75.8336949
+  },
+  "GEMS Public School - Patiala, Patiala, Punjab, India": {
+    "lat": 30.3216808,
+    "lon": 76.45255139999999
+  },
+  "Birla Divya Jyoti, Siliguri, West Bengal, India": {
+    "lat": 26.7406082,
+    "lon": 88.39649759999999
+  },
+  "GG International School, Bavdhan, Pune, Maharashtra, India": {
+    "lat": 18.5215707,
+    "lon": 73.774793
+  },
+  "Gopal's Garden High School, Mumbai, Maharashtra, India": {
+    "lat": 19.2302571,
+    "lon": 72.8638539
+  },
+  "Kunskapsskolan, Lucknow, Lucknow, Uttar Pradesh, India": {
+    "lat": 26.7759663,
+    "lon": 80.98690309999999
+  },
+  "Rachana School (C.B.S.E.), Ahmedabad, Gujarat, India": {
+    "lat": 23.052365,
+    "lon": 72.59726359999999
+  },
+  "KMGIS School, Jamnagar, Gujarat, India": {
+    "lat": 22.4469024,
+    "lon": 70.0398065
+  },
+  "Manav Rachna International School, Gurugram, Haryana, India": {
+    "lat": 28.4384514,
+    "lon": 77.0594157
+  },
+  "Gems Genesis International School, Ahmedabad, Gujarat, India": {
+    "lat": 23.1418497,
+    "lon": 72.5332382
+  },
+  "The Shri Ram School, Senior Aravali, Gurugram, Haryana, India": {
+    "lat": 28.4665627,
+    "lon": 77.08585529999999
+  },
+  "Little Star High School, Adilabad, Telangana, India": {
+    "lat": 19.6684414,
+    "lon": 78.53617059999999
+  },
+  "St Kabir Indian International School, Vadodara, Gujarat, India": {
+    "lat": 22.2342764,
+    "lon": 73.1393977
+  },
+  "The Regency Public School, Bangalore, Karnataka, India": {
+    "lat": 13.0858046,
+    "lon": 77.5577326
+  },
+  "Thamarai International School, Thanjavur, Thanjavur, Tamil Nadu, India": {
+    "lat": 10.7972296,
+    "lon": 79.16200409999999
+  },
+  "National Public School - Kengeri, Bangalore, Karnataka, India": {
+    "lat": 12.9222988,
+    "lon": 77.4889855
+  },
+  "Mount Litera Zee School, Surat, Surat, Gujarat, India": {
+    "lat": 21.2891171,
+    "lon": 72.7123111
+  },
+  "Birla Vidya Niketan, New Delhi, Delhi, India": {
+    "lat": 28.5267019,
+    "lon": 77.2300971
+  },
+  "SES Gurukul, Pune, Maharashtra, India": {
+    "lat": 18.5402053,
+    "lon": 73.837515
+  },
+  "The Ashok Leyland School, Hosur, Tamil Nadu, India": {
+    "lat": 12.7253163,
+    "lon": 77.874392
+  },
+  "St. Mary's School (ICSE), Mazagaon, Mumbai, Maharashtra, India": {
+    "lat": 18.9693369,
+    "lon": 72.8359031
+  },
+  "Vikaasa Heritage School, Madurai, Tamil Nadu, India": {
+    "lat": 9.9275231,
+    "lon": 78.11157539999999
+  },
+  "The Doon Girls^ School, Dehradun, Uttarakhand, India": {
+    "lat": 30.3178954,
+    "lon": 78.0575698
+  },
+  "SNS Gurugram, Gurugram, Haryana, India": {
+    "lat": 28.4643558,
+    "lon": 77.10349769999999
+  },
+  "Delhi Public School, Mathura Road, New Delhi, Delhi, India": {
+    "lat": 28.5972077,
+    "lon": 77.242279
+  },
+  "SAI International School, Bhubaneswar, Odisha, India": {
+    "lat": 20.3444948,
+    "lon": 85.8149512
+  },
+  "Sri Ramakrushna Vidya Mandir, Koraput, Odisha, India": {
+    "lat": 18.8081052,
+    "lon": 82.7063713
+  },
+  "IEM Public School, Kolkata, West Bengal, India": {
+    "lat": 22.4894989,
+    "lon": 88.3874996
+  },
+  "GG International School, Tathawade, Pimpri Chinchwad, Maharashtra, India": {
+    "lat": 18.6307786,
+    "lon": 73.7523003
+  },
+  "Chanda Public School, Chandrapur, Maharashtra, India": {
+    "lat": 19.9611312,
+    "lon": 79.2861732
+  },
+  "Navrachana Vidyani Vidyalaya, Vadodara, Gujarat, India": {
+    "lat": 22.3397431,
+    "lon": 73.18809399999999
+  },
+  "Holy Angels School, Ghaziabad, Uttar Pradesh, India": {
+    "lat": 28.6862526,
+    "lon": 77.3675177
+  },
+  "Blossom public school, Thanjavur, Tamil Nadu, India": {
+    "lat": 10.7711458,
+    "lon": 79.1396695
+  },
+  "South Point School, Guwahati, Assam, India": {
+    "lat": 26.1472765,
+    "lon": 91.7394975
+  },
+  "Inspiration Sr Sec School, Kathgodam, Uttarakhand, India": {
+    "lat": 29.2448898,
+    "lon": 79.53385949999999
+  },
+  "Polestar Academy, Sonari, Assam, India": {
+    "lat": 27.0320016,
+    "lon": 95.0056972
+  },
+  "Witty International School, Malad (W), Mumbai, Maharashtra, India": {
+    "lat": 19.1763391,
+    "lon": 72.847432
+  },
+  "Delhi Public School Nazira, Nazira, Assam, India": {
+    "lat": 26.878097,
+    "lon": 94.6922781
+  },
+  "Aster Public School, Greater Noida, Uttar Pradesh, India": {
+    "lat": 28.4917061,
+    "lon": 77.522171
+  },
+  "Campion School, Mumbai, Maharashtra, India": {
+    "lat": 18.9248221,
+    "lon": 72.8297537
+  },
+  "Kalunga Shilpanchal Vidyalaya, Kalunga, Odisha, India": {
+    "lat": 22.2279182,
+    "lon": 84.7643873
+  },
+  "J S S Public School, Bengaluru, Karnataka, India": {
+    "lat": 12.9149869,
+    "lon": 77.6373693
+  },
+  "Choprajhar Green Valley Academy, Islampur, West Bengal, India": {
+    "lat": 26.2398659,
+    "lon": 88.1925222
+  },
+  "Wisdom High International School (Cambridge Section), Nashik, Maharashtra, India": {
+    "lat": 20.0101267,
+    "lon": 73.73967929999999
+  },
+  "AADHAV PUBLIC SCHOOL, Perambalur, Tamil Nadu, India": {
+    "lat": 11.2584992,
+    "lon": 78.84471049999999
+  },
+  "Genesis international School, Jaspur, Uttarakhand, India": {
+    "lat": 29.2814276,
+    "lon": 78.8202244
+  },
+  "Reliance Foundation School, Lodhivali, Raigad, Maharashtra, India": {
+    "lat": 18.8955075,
+    "lon": 73.2162728
+  },
+  "SES Gurukul, Pune, Pune, Maharashtra, India": {
+    "lat": 18.5402053,
+    "lon": 73.837515
+  },
+  "Springfields international school, Hyderabad, Telangana, India": {
+    "lat": 17.3126423,
+    "lon": 78.4604153
+  },
+  "Gyanshree School, Noida, Uttar Pradesh, India": {
+    "lat": 28.5358333,
+    "lon": 77.3493119
+  },
+  "IIRA International School, Vadodara, Gujarat, India": {
+    "lat": 22.2756636,
+    "lon": 73.13212879999999
+  },
+  "Aryavart Ancient Academy - Khurda, Khurda, Odisha, India": {
+    "lat": 20.1719488,
+    "lon": 85.58230660000001
+  },
+  "Agurchand Manmull Jain School, Chennai, Tamil Nadu, India": {
+    "lat": 12.9852281,
+    "lon": 80.1807323
+  },
+  "Nurture International School, Bengaluru, Karnataka, India": {
+    "lat": 12.9985204,
+    "lon": 77.57176299999999
+  },
+  "BAPS Swaminarayan Vidyamandir,Navsari, Navsari, Gujarat, India": {
+    "lat": 20.9257575,
+    "lon": 72.9480502
+  },
+  "Goldengates global school, Ariyalur, Tamil Nadu, India": {
+    "lat": 11.1245398,
+    "lon": 79.0775359
+  },
+  "SGS International School, South 24 Paraganas, West Bengal, India": {
+    "lat": 22.3360229,
+    "lon": 88.4712378
+  },
+  "Sat Paul Mittal School, Ludhiana, Punjab, India": {
+    "lat": 30.8684719,
+    "lon": 75.83486549999999
+  },
+  "Cambridge International School, Palampur, Palampur, Himachal Pradesh, India": {
+    "lat": 32.088656,
+    "lon": 76.5284841
+  },
+  "Prudence International School, Tumkur, Karnataka, India": {
+    "lat": 13.2960446,
+    "lon": 77.19403919999999
+  },
+  "St. Xavier's Higher Secondary School, Tura, Meghalaya, India": {
+    "lat": 25.5239749,
+    "lon": 90.2190761
+  },
+  "Christel House India, Bengaluru, Karnataka, India": {
+    "lat": 13.0963125,
+    "lon": 77.6518906
+  },
+  "Anand Niketan School Bhadaj Campus, Ahmedabad, Gujarat, India": {
+    "lat": 23.099131,
+    "lon": 72.4588922
+  },
+  "Emmanuel Mission High School, Siwan, Bihar, India": {
+    "lat": 26.2112871,
+    "lon": 84.37686409999999
+  },
+  "Delhi Public School, Balco, Korba, Chhattisgarh, India": {
+    "lat": 22.4083656,
+    "lon": 82.75815089999999
+  },
+  "Elpro International School, Hinjewadi, Pune, Maharashtra, India": {
+    "lat": 18.5865181,
+    "lon": 73.7313332
+  },
+  "Anand Niketan, Sughad Campus, Ahmedabad, Gujarat, India": {
+    "lat": 23.1221913,
+    "lon": 72.6367983
+  },
+  "Fathima Central Senior Secondary School, Chennai, Tamil Nadu, India": {
+    "lat": 13.0200298,
+    "lon": 80.22200529999999
+  },
+  "Canary The School, Hyderabad, Telangana, India": {
+    "lat": 17.4984006,
+    "lon": 78.3479852
+  },
+  "Navrachana International School, Vadodara, Gujarat, India": {
+    "lat": 22.2941089,
+    "lon": 73.1211685
+  },
+  "The TVS School, Madurai, Tamil Nadu, India": {
+    "lat": 9.901584999999999,
+    "lon": 78.09998089999999
+  },
+  "KLE Society^s Basava Residential Girls School - Kengeri, Bengaluru, Karnataka, India": {
+    "lat": 12.8909858,
+    "lon": 77.4697518
+  },
+  "Mother Theresa Memorial School, Bengaluru, Karnataka, India": {
+    "lat": 13.027973,
+    "lon": 77.6915621
+  },
+  "Sanghamitra High School, Zaheerabad, Telangana, India": {
+    "lat": 17.686363,
+    "lon": 77.62763629999999
+  },
+  "Presidency School, Bangalore South, Bengaluru, Karnataka, India": {
+    "lat": 12.8995637,
+    "lon": 77.611317
+  },
+  "Reliance Foundation School, Navi Mumbai, Maharashtra, India": {
+    "lat": 19.0968008,
+    "lon": 73.00200079999999
+  },
+  "PEP School V2, Bengaluru, Karnataka, India": {
+    "lat": 12.9084469,
+    "lon": 77.6519375
+  },
+  "Broadway Public School, Barnala, Barnala, Punjab, India": {
+    "lat": 30.5110337,
+    "lon": 75.6715308
+  },
+  "Father Agnel School, Greater Noida, Uttar Pradesh, India": {
+    "lat": 28.4523656,
+    "lon": 77.50572199999999
+  },
+  "Hind Zinc Vidyalaya, Sundargarh, Odisha, India": {
+    "lat": 22.0352324,
+    "lon": 83.9189634
+  },
+  "The Century School, Karnal, Haryana, India": {
+    "lat": 29.5540834,
+    "lon": 76.9754323
+  },
+  "Chanderbala Modi Academy, Ankleshwar, Gujarat, India": {
+    "lat": 21.580872,
+    "lon": 73.06075609999999
+  },
+  "Innovative International Day School, Rajkot, Gujarat, India": {
+    "lat": 22.2702595,
+    "lon": 70.6877414
+  },
+  "SBOA Global School, Chennai, Tamil Nadu, India": {
+    "lat": 13.0939916,
+    "lon": 80.19437760000001
+  },
+  "Cambridge School, Noida, Uttar Pradesh, India": {
+    "lat": 28.5739803,
+    "lon": 77.3297503
+  },
+  "Presidency School, R.T. Nagar, Bengaluru, Karnataka, India": {
+    "lat": 13.0258741,
+    "lon": 77.5945332
+  },
+  "Delhi Public School, N T P C, Farakka, Nabarun, West Bengal, India": {
+    "lat": 24.7708257,
+    "lon": 87.91048029999999
+  },
+  "Chinmaya Vidyalaya Srimathi Lingammal Ramaraju Mat. Higher Secondary School, Rajapalayam, Tamil Nadu, India": {
+    "lat": 9.4800338,
+    "lon": 77.5134911
+  },
+  "Griffins International School, Kharagpur, West Bengal, India": {
+    "lat": 22.3416405,
+    "lon": 87.3011171
+  },
+  "Assam Heights Public School, Makum Road, Tinsukia, Assam, India": {
+    "lat": 27.4857934,
+    "lon": 95.378671
+  },
+  "BLM Sr. Secondary School, Haldwani, Uttarakhand, India": {
+    "lat": 29.2182644,
+    "lon": 79.5129767
+  },
+  "Amneev Vision School , Etawah, Etawah, Uttar Pradesh, India": {
+    "lat": 26.8139713,
+    "lon": 79.05814579999999
+  },
+  "The Westwood School, Rajkot, Gujarat, India": {
+    "lat": 22.3462863,
+    "lon": 70.7884725
+  },
+  "Ahmedabad International School, Ahmedabad, Gujarat, India": {
+    "lat": 23.0344213,
+    "lon": 72.5126293
+  },
+  "SPK Jain Futuristic Academy, Kolkata, West Bengal, India": {
+    "lat": 22.5923729,
+    "lon": 88.48208489999999
+  },
+  "Kothakota Pupils High School, Mandal Wanaparthy District, Telangana, India": {
+    "lat": 16.3817501,
+    "lon": 77.943705
+  },
+  "Kothakota Pupils High School Shadnagar, Kothakota, Telangana, India": {
+    "lat": 16.3817501,
+    "lon": 77.943705
+  },
+  "C.A.R.E. International School, Tiruchirappalli, Tamil Nadu, India": {
+    "lat": 10.7668352,
+    "lon": 78.6151053
+  },
+  "Nand Vidya Niketan, Jamnagar, Gujarat, India": {
+    "lat": 22.4932061,
+    "lon": 70.030641
+  },
+  "Rabindra Vidya Niketan, Keonjhar, Odisha, India": {
+    "lat": 21.6484667,
+    "lon": 85.6234637
+  },
+  "Delhi Public School, Bangalore - North, Bengaluru, Karnataka, India": {
+    "lat": 13.1177571,
+    "lon": 77.64165539999999
+  },
+  "Birla Open Minds International School, Hyderabad, Telangana, India": {
+    "lat": 17.4346551,
+    "lon": 78.2684745
+  },
+  "Poola School, Bengaluru, Karnataka, India": {
+    "lat": 13.1754098,
+    "lon": 77.5452273
+  },
+  "The Global Edge School, Vasanth Nagar, Hyderabad, Telangana, India": {
+    "lat": 17.4945464,
+    "lon": 78.3820009
+  },
+  "Adani International School, Ahmedabad, Gujarat, India": {
+    "lat": 23.1703815,
+    "lon": 72.5395355
+  },
+  "Vikaasa Progressive school, Madurai, Tamil Nadu, India": {
+    "lat": 9.9363079,
+    "lon": 78.05886629999999
+  },
+  "Smt. Ramdevi Sobhraj Bajaj Arya Vidya Mandir, Mumbai, Mumbai, Maharashtra, India": {
+    "lat": 19.1127546,
+    "lon": 72.8322921
+  },
+  "South City International School, Kolkata, West Bengal, India": {
+    "lat": 22.5002626,
+    "lon": 88.36247089999999
+  },
+  "Manas International School, Dhanbad, Jharkhand, India": {
+    "lat": 23.8059076,
+    "lon": 86.43657220000001
+  },
+  "The Samhita Academy, Bangalore, Karnataka, India": {
+    "lat": 12.818876,
+    "lon": 77.60086299999999
+  },
+  "Jamnabai Narsee International School, Mumbai, Maharashtra, India": {
+    "lat": 19.1055127,
+    "lon": 72.83224539999999
+  },
+  "Step By Step School, Noida, Uttar Pradesh, India": {
+    "lat": 28.5117808,
+    "lon": 77.3777494
+  },
+  "The Oriental School, Bhopal, Madhya Pradesh, India": {
+    "lat": 23.2482806,
+    "lon": 77.50464459999999
+  },
+  "The Blue Bells English Medium School, Jharsuguda, Odisha, India": {
+    "lat": 21.9121412,
+    "lon": 84.01408029999999
+  },
+  "KLE M. R. Sakhare CBSE School, Hubballi, Hubli, Karnataka, India": {
+    "lat": 15.3659336,
+    "lon": 75.1250987
+  },
+  "ABS Vidhya Mandhir, Thiruvallur, Tamil Nadu, India": {
+    "lat": 13.151342,
+    "lon": 79.90499009999999
+  },
+  "Sri Sarvajna Public School, Bangalore, Karnataka, India": {
+    "lat": 12.9761375,
+    "lon": 77.5393447
+  },
+  "The Radiant International School, Surat, Gujarat, India": {
+    "lat": 21.2234121,
+    "lon": 72.77963559999999
+  },
+  "Vivekananda Mission School, Joka, West Bengal, India": {
+    "lat": 22.4458414,
+    "lon": 88.29628579999999
+  },
+  "Swami Matriculation Higher Secondary School, Ariyalur, Tamil Nadu, India": {
+    "lat": 11.0222516,
+    "lon": 79.0677338
+  },
+  "Sunbeam School , Ballia, Ballia, Uttar Pradesh, India": {
+    "lat": 25.7647524,
+    "lon": 84.1224647
+  },
+  "The Shri Ram School, Vasant Vihar, New Delhi, Delhi, India": {
+    "lat": 28.5648782,
+    "lon": 77.1539292
+  },
+  "Jss Shri Manjunatheshwara Central School (Cbse), Hubli, Karnataka, India": {
+    "lat": 15.3397106,
+    "lon": 75.12680870000001
+  },
+  "Pakshalika High, Sibsagar, Assam, India": {
+    "lat": 26.9789943,
+    "lon": 94.6407369
+  },
+  "Aga Khan Education Service India, Mumbai, Maharashtra, India": {
+    "lat": 18.9690631,
+    "lon": 72.83640539999999
+  },
+  "Lokmanya Tilak International School, Navi Mumbai, Maharashtra, India": {
+    "lat": 19.1076608,
+    "lon": 73.0083092
+  },
+  "Thamarai^s, Thanjavur, Tamil Nadu, India": {
+    "lat": 10.777721,
+    "lon": 79.1260768
+  },
+  "Thamarai International School, Kumbakonam, Tamil Nadu, India": {
+    "lat": 11.0043674,
+    "lon": 79.37363599999999
+  },
+  "Young Horizons School, Kolkata, West Bengal, India": {
+    "lat": 22.4955795,
+    "lon": 88.3978421
+  },
+  "Delhi Public School, Bulandshahr, Bulandshahr, Uttar Pradesh, India": {
+    "lat": 28.4069221,
+    "lon": 77.830413
+  },
+  "Gurukula International School, Arsikere, Karnataka, India": {
+    "lat": 13.3967253,
+    "lon": 76.1790991
+  },
+  "Stratton World School, Kashipur, Uttarakhand, India": {
+    "lat": 29.266651,
+    "lon": 78.99874969999999
+  },
+  "Vriksha Global School, Namakkal, Tamil Nadu, India": {
+    "lat": 11.3851434,
+    "lon": 77.9004372
+  },
+  "Creative Minds Global School, Neemuch,, Madhya Pradesh, India": {
+    "lat": 24.4683915,
+    "lon": 74.911087
+  },
+  "Vimukti-DDGIC (Teacher's), Jaipur, uttar Pradesh, India": {
+    "lat": 27.5705886,
+    "lon": 80.0981869
+  },
+  "Cambridge School_Srinivaspuri, New Delhi, Delhi, India": {
+    "lat": 28.5651872,
+    "lon": 77.2518489
+  },
+  "The S D Vidya School, Ambala, Haryana, India": {
+    "lat": 30.3408841,
+    "lon": 76.84849020000001
+  },
+  "MEGA International School, Bengaluru, Karnataka, India": {
+    "lat": 12.8056321,
+    "lon": 77.71484869999999
+  },
+  "The Heritage School, Rohini, New Delhi, Delhi, India": {
+    "lat": 28.7212894,
+    "lon": 77.082528
+  },
+  "St. Xavier^s Higher Secondary School, Tura, Meghalaya, India": {
+    "lat": 25.5239749,
+    "lon": 90.2190761
+  },
+  "Shiv Nadar School, Faridabad, Haryana, India": {
+    "lat": 28.3910671,
+    "lon": 77.3515448
+  },
+  "EDUADVAITA (C/O KAMALANIKETAN MONTESSORI SCHOOL), Trichy, Tamil Nadu, India": {
+    "lat": 10.8026382,
+    "lon": 78.670986
+  },
+  "Shri Kanwartara Senior Secondary School, Mandleshwar, Madhya Pradesh, India": {
+    "lat": 22.181187,
+    "lon": 75.67905999999999
+  },
+  "Learning Paths School, Mohali, Punjab, India": {
+    "lat": 30.6802008,
+    "lon": 76.728955
+  },
+  "Viswabharathi Wisewoods (Em) High School, Vijaywada, Andhra Pradesh, India": {
+    "lat": 16.4334901,
+    "lon": 80.9248889
+  },
+  "Delhi Public School, R.K. Puram, New Delhi, Delhi, India": {
+    "lat": 28.5720619,
+    "lon": 77.1764283
+  },
+  "Saandeepani Academy For Excellence, Bengaluru, Karnataka, India": {
+    "lat": 12.8610606,
+    "lon": 77.7711341
+  },
+  "Apple Global School, Ahmedabad, Gujarat, India": {
+    "lat": 22.9891065,
+    "lon": 72.41786239999999
+  },
+  "Edumont World School, Nabha, Punjab, India": {
+    "lat": 30.3877698,
+    "lon": 76.1971891
+  },
+  "The Westwood School, Vadodara, Gujarat, India": {
+    "lat": 22.3358296,
+    "lon": 73.14779879999999
+  },
+  "Silver Oaks International School, Ameenpur, Hyderabad, Telangana, India": {
+    "lat": 17.5557708,
+    "lon": 78.2973609
+  },
+  "Mind Tree School, Kharar, Kharar, Punjab, India": {
+    "lat": 30.7633867,
+    "lon": 76.6186571
+  },
+  "Fravashi International Academy, Nashik, Maharashtra, India": {
+    "lat": 20.0587376,
+    "lon": 73.6816571
+  },
+  "St.Mary^s Senior Secondary School, Guwahati, Assam, India": {
+    "lat": 26.186126,
+    "lon": 91.7582457
+  },
+  "Presidency School, Bangalore North, Bengaluru, Karnataka, India": {
+    "lat": 13.1332246,
+    "lon": 77.5586513
+  },
+  "Modi School, Gujarati Medium, Rajkot, Gujarat, India": {
+    "lat": 22.2563868,
+    "lon": 70.81212780000001
+  },
+  "Delhi Public School, Dwarka, New Delhi, Delhi, India": {
+    "lat": 28.6060404,
+    "lon": 77.048171
+  },
+  "St. Agnes Loreto Day School, Lucknow, Uttar Pradesh, India": {
+    "lat": 26.8344588,
+    "lon": 80.9334942
+  },
+  "Delhi Public School, Ruby Park, Kolkata, West Bengal, India": {
+    "lat": 22.5128928,
+    "lon": 88.3817529
+  },
+  "Swarnim International School, Kolkata, West Bengal, India": {
+    "lat": 22.4091629,
+    "lon": 88.42005929999999
+  },
+  "Chettinad Vidya Mandir, karur, Tamil Nadu, India": {
+    "lat": 10.9367561,
+    "lon": 78.1370372
+  },
+  "AID-NOIDA- (Teachers), Noida, Delhi, India": {
+    "lat": 28.5700672,
+    "lon": 77.3737092
+  },
+  "Golden Era Millennium School, Malerkotla, Punjab, India": {
+    "lat": 30.5417988,
+    "lon": 75.79570249999999
+  },
+  "Discoveri Oaks School (CBSE), Hyderabad, Telangana, India": {
+    "lat": 17.322415,
+    "lon": 78.6268836
+  },
+  "Global Indian International School, Nagpur, Maharashtra, India": {
+    "lat": 21.1709244,
+    "lon": 78.978037
+  },
+  "St. Xavier'S School, kalimpong, West Bengal, India": {
+    "lat": 27.1426328,
+    "lon": 88.60166579999999
+  },
+  "Roopnagar Public School, Jhalawar, Rajasthan, India": {
+    "lat": 24.5942282,
+    "lon": 76.1357444
+  },
+  "Vidya Peetam, Vellore, Tamil Nadu, India": {
+    "lat": 12.9235541,
+    "lon": 79.1330768
+  },
+  "The New Green Field Public Academy, Indore, Madhya Pradesh, India": {
+    "lat": 22.760269,
+    "lon": 75.904777
+  },
+  "Global Indian International School, Noida, Uttar Pradesh, India": {
+    "lat": 28.5919499,
+    "lon": 77.3791414
+  },
+  "SRGVVK Trust School, Bangalore, Karnataka, India": {
+    "lat": 12.8643306,
+    "lon": 77.5755159
+  },
+  "St Christopher Mission School, Asansol, West Bengal, India": {
+    "lat": 23.7003894,
+    "lon": 86.8699079
+  },
+  "Kalka Public School, Delhi, Delhi, India": {
+    "lat": 28.5290529,
+    "lon": 77.2511102
+  },
+  "Angels Valley School, Rajpura, Rajpura, Punjab, India": {
+    "lat": 30.4726286,
+    "lon": 76.5340746
+  },
+  "Sky World School, Panchkula, Haryana, India": {
+    "lat": 30.6776717,
+    "lon": 76.86836819999999
+  },
+  "St. Kabir School, Vadodara, Gujarat, India": {
+    "lat": 22.2958049,
+    "lon": 73.15056249999999
+  },
+  "Kikani Vidhya Mandir, Coimbatore, Tamil Nadu, India": {
+    "lat": 11.0112751,
+    "lon": 76.9578083
+  },
+  "Kunskapsskolan, Gurugram, Haryana, India": {
+    "lat": 28.4791223,
+    "lon": 77.0883987
+  },
+  "KLE School, Saundatti, Belgaum, Karnataka, India": {
+    "lat": 15.769169,
+    "lon": 75.1138527
+  },
+  "Apex Academy, Purba Medinipur, West Bengal, India": {
+    "lat": 22.1706956,
+    "lon": 87.9946317
+  },
+  "Shri Rabindranath Tagore English Medium School (SRT), Rajkot, Gujarat, India": {
+    "lat": 22.2879721,
+    "lon": 70.7909226
+  },
+  "Manasarowar Pushkarini Vidyashrama, Mysore, Karnataka, India": {
+    "lat": 12.3297723,
+    "lon": 76.6089018
+  },
+  "KLE Basavaprabhu Kore CBSE School, Ankali, Chikodi, Karnataka, India": {
+    "lat": 16.437231,
+    "lon": 74.5959227
+  },
+  "Priyadarshani School, Bhosari, Pune, Maharashtra, India": {
+    "lat": 18.637519,
+    "lon": 73.8406268
+  },
+  "Khaitan Public School, Ghaziabad, Uttar Pradesh, India": {
+    "lat": 28.6823047,
+    "lon": 77.3530802
+  },
+  "Green Valley International School, Morvi, Gujarat, India": {
+    "lat": 22.7090154,
+    "lon": 70.7762149
+  },
+  "St. Paul's English Medium School, Barpeta, Assam, India": {
+    "lat": 26.3389395,
+    "lon": 91.021762
+  },
+  "B.K Birla Public School, Kalyan, Kalyan, Maharashtra, India": {
+    "lat": 19.2500496,
+    "lon": 73.14623619999999
+  },
+  "Cambridge School, New Delhi, Delhi, India": {
+    "lat": 28.5676708,
+    "lon": 77.27421079999999
+  },
+  "Cambridge School, New Friends Colony, Delhi, Delhi, India": {
+    "lat": 28.5662523,
+    "lon": 77.27443079999999
+  },
+  "Shiv Nadar School, Noida (CBSE), Noida, Uttar Pradesh, India": {
+    "lat": 28.4948371,
+    "lon": 77.4116371
+  },
+  "Apeejay School, Salt Lake Branch, Kolkata, West Bengal, India": {
+    "lat": 22.5804515,
+    "lon": 88.4195802
+  },
+  "Satya Prakash Public School, Jabalpur, Madhya Pradesh, India": {
+    "lat": 23.1211707,
+    "lon": 79.92658159999999
+  },
+  "St.Michael^s Academy, Chennai, Tamil Nadu, India": {
+    "lat": 13.0104351,
+    "lon": 80.2504599
+  },
+  "The Infinity School, Greater Noida, Uttar Pradesh, India": {
+    "lat": 28.5816375,
+    "lon": 77.4682682
+  },
+  "Asian Christian High School, Hosur, Tamil Nadu, India": {
+    "lat": 12.8029759,
+    "lon": 77.8566389
+  },
+  "Sri Sankara Senior Secondary School, Chennai, Tamil Nadu, India": {
+    "lat": 13.0100267,
+    "lon": 80.26093949999999
+  },
+  "KAMALANIKETAN MONTESSORI SCHOOL, Trichy, Tamil Nadu, India": {
+    "lat": 10.8026382,
+    "lon": 78.670986
+  },
+  "BVM Global @ Coimbatore, Coimbatore, Tamil Nadu, India": {
+    "lat": 10.9899254,
+    "lon": 77.0095055
+  },
+  "Paul George Global School, Delhi, Delhi, India": {
+    "lat": 28.5289894,
+    "lon": 77.2522145
+  },
+  "Anthony Claret School, Bangalore, Karnataka, India": {
+    "lat": 13.0431833,
+    "lon": 77.5451628
+  },
+  "Shaheed Rajpal DAV Public School, New Delhi, Delhi, India": {
+    "lat": 28.6468607,
+    "lon": 77.3047882
+  },
+  "St. Karen's Montessori School, Patna, Bihar, India": {
+    "lat": 25.6075807,
+    "lon": 85.07300830000001
+  },
+  "San Academy, Tambaram, Chennai, Tamil Nadu, India": {
+    "lat": 12.9351939,
+    "lon": 80.0987117
+  },
+  "Greenwood High (An International School), Bengaluru, Karnataka, India": {
+    "lat": 12.8995793,
+    "lon": 77.7490609
+  },
+  "KLE C.B. Ranamode School, Athani, Athani, Karnataka, India": {
+    "lat": 16.7175217,
+    "lon": 75.0691157
+  },
+  "Our Lady Of The Snows High School, Kullu, Himachal Pradesh, India": {
+    "lat": 31.9560083,
+    "lon": 77.1079074
+  },
+  "The TVS School for CARES, Madurai, Tamil Nadu, India": {
+    "lat": 9.901584999999999,
+    "lon": 78.09998089999999
+  },
+  "Villa Theresa High School, Mumbai, Maharashtra, India": {
+    "lat": 18.96618,
+    "lon": 72.807147
+  },
+  "Seth Anandram Jaipuria School, Greater Noida, Greater Noida, Uttar Pradesh, India": {
+    "lat": 28.564641,
+    "lon": 77.47386379999999
+  },
+  "The Kalyani School, Pune, Maharashtra, India": {
+    "lat": 18.5137511,
+    "lon": 73.9762077
+  },
+  "Vidyagyan School, Sikandrabad, Sikandrabad, Uttar Pradesh, India": {
+    "lat": 28.383854,
+    "lon": 77.705322
+  },
+  "The Shri Ram School, Moulsari, Gurugram, Haryana, India": {
+    "lat": 28.498368,
+    "lon": 77.10031359999999
+  },
+  "Global City International School, Bengaluru, Karnataka, India": {
+    "lat": 12.9768586,
+    "lon": 77.6714854
+  },
+  "Sir Mutha School, CHENNAI, Tamil Nadu, India": {
+    "lat": 13.0689163,
+    "lon": 80.23851549999999
+  },
+  "Matunga Lions Pioneer English School, Mumbai, Maharashtra, India": {
+    "lat": 19.030576,
+    "lon": 72.8545029
+  },
+  "GIS Gondal, Gondal, Gujarat, India": {
+    "lat": 21.9292991,
+    "lon": 70.7586907
+  },
+  "Sri Kumaran Public School -ICSE, Bengaluru, Karnataka, India": {
+    "lat": 12.845275,
+    "lon": 77.542749
+  },
+  "Delhi Public School - Gautam Buddh Nagar, Noida, Uttar Pradesh, India": {
+    "lat": 28.5746332,
+    "lon": 77.3357011
+  },
+  "Nalanda International School, Vadodara, Gujarat, India": {
+    "lat": 22.3131961,
+    "lon": 73.1042527
+  },
+  "Swadhyay Bhavan School, Mumbai, Maharashtra, India": {
+    "lat": 19.1631429,
+    "lon": 72.8383037
+  },
+  "Fortuna Shine School, Purnea, Bihar, India": {
+    "lat": 25.7557127,
+    "lon": 87.472563
+  },
+  "The Ivy Global School, Bhopal, Madhya Pradesh, India": {
+    "lat": 23.1786745,
+    "lon": 77.47812069999999
+  },
+  "Lokhandwala Foundation School, Mumbai, Maharashtra, India": {
+    "lat": 19.1974778,
+    "lon": 72.8747784
+  },
+  "Manas International Play and Primary School, Dhanbad, Jharkhand, India": {
+    "lat": 24.6306561,
+    "lon": 87.7469455
+  },
+  "Brookfield High School, Bengaluru, Karnataka, India": {
+    "lat": 12.8384601,
+    "lon": 77.69978329999999
+  },
+  "BAPS Swaminarayan Vidyamandir Girls Residential School, Gandhinagar, Gujarat, India": {
+    "lat": 23.1691884,
+    "lon": 72.6457916
+  },
+  "Takshashila International School, Kosamba, Gujarat, India": {
+    "lat": 21.431649,
+    "lon": 72.93721
+  },
+  "N.E.T. Public School - ICSE, Bengaluru, Karnataka, India": {
+    "lat": 12.9449176,
+    "lon": 77.5666351
+  },
+  "La Montessori School, Ner Chowk, Bhangrotu, Himachal Pradesh, India": {
+    "lat": 31.6125237,
+    "lon": 76.918752
+  },
+  "Amrit Vidyalaya, Kalol, Gujarat, India": {
+    "lat": 22.6026163,
+    "lon": 73.51212249999999
+  },
+  "Akash International School (Managed by Vedant Group of Schools), Jamnagar, Gujarat, India": {
+    "lat": 22.4312534,
+    "lon": 70.0471273
+  },
+  "Gyanjyoti Kanchanben Rasiklal Vidyalaya, Khariar Road,Dist Nuapada, Odisha, India": {
+    "lat": 20.9004183,
+    "lon": 82.5083001
+  },
+  "The Home School, Bengaluru, Karnataka, India": {
+    "lat": 12.8655558,
+    "lon": 77.5220391
+  },
+  "Gillco International School, Kharar, Punjab, India": {
+    "lat": 30.7372431,
+    "lon": 76.65067189999999
+  },
+  "Birla Open Minds International School, Bengaluru, Karnataka, India": {
+    "lat": 13.034702,
+    "lon": 77.6989093
+  },
+  "JSS Public School, HSR Layout, Bengaluru, Karnataka, India": {
+    "lat": 12.9149869,
+    "lon": 77.6373693
+  },
+  "A. K. Ghosh Memorial School, kolkata, West Bengal, India": {
+    "lat": 22.5055269,
+    "lon": 88.3595144
+  },
+  "Billabong High International School (CBSE), Rewa, Madhya Pradesh, India": {
+    "lat": 24.5079914,
+    "lon": 81.2334583
+  },
+  "Delhi Public School jagdalpur, Jagdalpur, Chhattisgarh, India": {
+    "lat": 19.118949,
+    "lon": 81.996089
+  },
+  "Christel House India - Atal Nagar, Raipur, Chhattisgarh, India": {
+    "lat": 21.1453558,
+    "lon": 81.79356589999999
+  },
+  "The Lawrence School, Sanawar, Himachal Pradesh, India": {
+    "lat": 30.9012621,
+    "lon": 76.993996
+  },
+  "Mount St. Mary'S School, Delhi, Delhi, India": {
+    "lat": 28.5828018,
+    "lon": 77.1354985
+  },
+  "Little Flower Higher Secondary School, Dibrugarh, Assam, India": {
+    "lat": 27.4793275,
+    "lon": 94.922083
+  },
+  "Pramiti School, Bengaluru, Karnataka, India": {
+    "lat": 12.8314876,
+    "lon": 77.52473979999999
+  },
+  "Redbricks School, Ahmedabad, Gujarat, India": {
+    "lat": 23.1031746,
+    "lon": 72.43519549999999
+  },
+  "Witty International School, Udaipur, Udaipur, Rajasthan, India": {
+    "lat": 24.6385509,
+    "lon": 73.71784319999999
+  },
+  "Aalaya Academy Montessori & CBSE School, Tiruppur, Tamil Nadu, India": {
+    "lat": 11.123018,
+    "lon": 77.397761
+  },
+  "Lotus Valley School, Mandsaur, Madhya Pradesh, India": {
+    "lat": 24.0758575,
+    "lon": 75.0150592
+  },
+  "Smart Modern School, Tirupur, Tamil Nadu, India": {
+    "lat": 11.1487792,
+    "lon": 77.3083925
+  },
+  "East Point School, Nawabganj, Noapara, West Bengal, India": {
+    "lat": 22.8007275,
+    "lon": 88.3791834
+  },
+  "Poorna Prajna High School, Mumbai, Maharashtra, India": {
+    "lat": 19.250096,
+    "lon": 72.8617814
+  },
+  "Trinity Public School, Kolkata, West Bengal, India": {
+    "lat": 22.7425201,
+    "lon": 88.39748569999999
+  },
+  "Sanghamitra School, Hyderabad, Telangana, India": {
+    "lat": 17.5034419,
+    "lon": 78.3880398
+  },
+  "Padma Seshadri Bala Bhavan Senior Secondary School, Nungambakkam, Chennai, Tamil Nadu, India": {
+    "lat": 13.0400939,
+    "lon": 80.1998035
+  },
+  "Pathania Public School, Rohtak, Haryana, India": {
+    "lat": 28.9307175,
+    "lon": 76.6041736
+  },
+  "KLE School, Nagarbhavi, Bengaluru, Bengaluru, Karnataka, India": {
+    "lat": 12.9786452,
+    "lon": 77.51072479999999
+  },
+  "Delhi World Public School, Barasat, West Bengal, India": {
+    "lat": 22.7042376,
+    "lon": 88.5286307
+  },
+  "Birla Public School, Pilani, Rajasthan, India": {
+    "lat": 28.3664862,
+    "lon": 75.60829079999999
+  },
+  "Modern High School For Girls, Kolkata, West Bengal, India": {
+    "lat": 22.5349614,
+    "lon": 88.36457130000001
+  },
+  "Keystone International School, Hyderabad, Telangana, India": {
+    "lat": 17.4112551,
+    "lon": 78.3486635
+  },
+  "Sri Sarvajna Public School, Bengaluru, Karnataka, India": {
+    "lat": 12.9761375,
+    "lon": 77.5393447
+  },
+  "St. Paul's Academy, Ghaziabad, Uttar Pradesh, India": {
+    "lat": 28.6849229,
+    "lon": 77.44563579999999
+  },
+  "Ramakrishna Mission Vidyapith, Deoghar, Jharkhand, India": {
+    "lat": 24.503996,
+    "lon": 86.6953382
+  },
+  "ARMY PUBLIC SCHOOL, Dhrangadhra, MILLITARY AREA, Gujarat, India": {
+    "lat": 22.9770485,
+    "lon": 71.4679259
+  },
+  "H3 World School, Tragad, Ahmedabad, Gujarat, India": {
+    "lat": 23.1273274,
+    "lon": 72.56271199999999
+  },
+  "Mahatma Global Gatway Cambridge International Education, Madurai, Tamil Nadu, India": {
+    "lat": 9.9252007,
+    "lon": 78.1197754
+  },
+  "Banyan Tree School, Jaipur, Rajasthan, India": {
+    "lat": 26.8579033,
+    "lon": 75.76676619999999
+  },
+  "A M Naik School, Mumbai, Maharashtra, India": {
+    "lat": 19.1284393,
+    "lon": 72.89348509999999
+  },
+  "Shiv Nadar School, Gurugram (CBSE), Gurugram, Haryana, India": {
+    "lat": 28.4643558,
+    "lon": 77.10349769999999
+  },
+  "Hollotoli School, Dimapur, Nagaland, India": {
+    "lat": 25.9010628,
+    "lon": 93.7537136
+  },
+  "Royal Stationers, Rajkot, Gujarat, India": {
+    "lat": 22.285042,
+    "lon": 70.7694083
+  },
+  "Sri Kumaran Children^s Home, Bengaluru, Karnataka, India": {
+    "lat": 12.8832798,
+    "lon": 77.5604712
+  },
+  "Kamla Nehru Higher Secondary School, Bhopal, Madhya Pradesh, India": {
+    "lat": 23.2176772,
+    "lon": 77.39134
+  },
+  "Mahatma Montessori School CBSE, Madurai, Tamil Nadu, India": {
+    "lat": 9.9559722,
+    "lon": 78.15850770000002
+  },
+  "Nandha Gokulam Life School, Sri Potti Sriramulu Nellore District, Andhra Pradesh, India": {
+    "lat": 14.2568848,
+    "lon": 79.9817089
+  },
+  "The Galaxy School - Wadi, Rajkot, Gujarat, India": {
+    "lat": 22.3785096,
+    "lon": 70.6796233
+  },
+  "KLE School, Lingaraj Campus, Belagavi, Belgaum, Karnataka, India": {
+    "lat": 15.8787013,
+    "lon": 74.4847288
+  },
+  "St. Karen's Collegiate School, Patna, Bihar, India": {
+    "lat": 25.615006,
+    "lon": 85.05115649999999
+  },
+  "Uttam School For Girls, Ghaziabad, Uttar Pradesh, India": {
+    "lat": 28.671702,
+    "lon": 77.4614131
+  },
+  "RSK International, Thuraiyur, Tamil Nadu, India": {
+    "lat": 11.2450244,
+    "lon": 78.5269419
+  },
+  "Sri Kumaran Children^s Home CBSE, Bengaluru, Karnataka, India": {
+    "lat": 12.8465268,
+    "lon": 77.54198219999999
+  },
+  "Scholars Academy, Shujalpur, Madhya Pradesh, India": {
+    "lat": 23.394745,
+    "lon": 76.7181888
+  },
+  "Platinum Jubilee High School, Warangal, Telangana, India": {
+    "lat": 17.9732784,
+    "lon": 79.6174116
+  },
+  "Sudarshanam Vidyashram, Chennai, Tamil Nadu, India": {
+    "lat": 13.0648275,
+    "lon": 80.11197779999999
+  },
+  "Carmel High School, Basaveshwarnagar - State, Bengaluru, Karnataka, India": {
+    "lat": 12.9885636,
+    "lon": 77.5443423
+  },
+  "Khaitan World School, Ghaziabad, Uttar Pradesh, India": {
+    "lat": 28.7082082,
+    "lon": 77.4494941
+  },
+  "Vidya Mandir Senior Secondary School, Chennai, Tamil Nadu, India": {
+    "lat": 13.0379968,
+    "lon": 80.2687186
+  },
+  "Edu Girls, Jaipur, Rajasthan, India": {
+    "lat": 26.8546382,
+    "lon": 75.7667191
+  },
+  "Heritage Vidhyalaya, Salem, Tamil Nadu, India": {
+    "lat": 11.6490705,
+    "lon": 78.3290126
+  },
+  "St. Mary's High School, Patna, Bihar, India": {
+    "lat": 25.5935469,
+    "lon": 85.1722997
+  },
+  "Sainik School, Mandsaur, Madhya Pradesh, India": {
+    "lat": 24.0734356,
+    "lon": 75.0679018
+  },
+  "Holy Angels School, Holy Angels' School, Ghaziabad, Uttar Pradesh, India": {
+    "lat": 28.6873818,
+    "lon": 77.34534889999999
+  },
+  "Aster Public School-KP1, Greater Noida, Uttar Pradesh, India": {
+    "lat": 28.491638,
+    "lon": 77.5229444
+  },
+  "SOWDAMBIKA MOUNT LITERA ZEE SCHOOL, Trichy, TN, India": {
+    "lat": 10.7904833,
+    "lon": 78.7046725
+  },
+  "La Montessori School, Kelheli, Kullu, Himachal Pradesh, India": {
+    "lat": 31.8629088,
+    "lon": 77.1555012
+  },
+  "Anekant English Medium School, Baramati, Maharashtra, India": {
+    "lat": 18.1607652,
+    "lon": 74.57928869999999
+  },
+  "Richmondd Convent school, Pathankot, Punjab, India": {
+    "lat": 32.292824,
+    "lon": 75.65804609999999
+  },
+  "LT. Atul Katarya Memorial School, Gurgaon, Haryana, India": {
+    "lat": 28.4781627,
+    "lon": 77.033621
+  },
+  "Global Concept School, KARHI, Madhya Pradesh, India": {
+    "lat": 22.2717386,
+    "lon": 75.7984305
+  },
+  "SANSKRUTI \u2013 An English Medium School, Ashoknagar, Ashoknagar, Madhya Pradesh, India": {
+    "lat": 24.5775148,
+    "lon": 77.7318495
+  },
+  "Emmanuel Convent School, Siwan, Bihar, India": {
+    "lat": 26.2168589,
+    "lon": 84.3508688
+  },
+  "Nazareth Convent High School & Junior College, Udhagamandalam, Tamil Nadu, India": {
+    "lat": 11.4066743,
+    "lon": 76.6935008
+  },
+  "Parle Tilak Vidyalaya (ICSE), Mumbai, Maharashtra, India": {
+    "lat": 19.1036914,
+    "lon": 72.8469698
+  },
+  "The East - West School, Bengaluru, Karnataka, India": {
+    "lat": 12.9403787,
+    "lon": 77.57791759999999
+  },
+  "Cygnus World School, Vadodara, Gujarat, India": {
+    "lat": 22.3462709,
+    "lon": 73.216606
+  },
+  "Billabong High International School, Indore, Indore, Madhya Pradesh, India": {
+    "lat": 22.8009006,
+    "lon": 75.8269471
+  },
+  "Anand Vidya Vihar, Vadodara, Gujarat, India": {
+    "lat": 22.3139148,
+    "lon": 73.1543942
+  },
+  "Prem Prakash International School, Bagod, Madhya Pradesh, India": {
+    "lat": 22.3232741,
+    "lon": 75.8826213
+  },
+  "Manav Rachna International School, Noida, Uttar Pradesh, India": {
+    "lat": 28.5801067,
+    "lon": 77.3766746
+  },
+  "Scindia Kanya Vidyalaya, Gwalior, Madhya Pradesh, India": {
+    "lat": 26.2108936,
+    "lon": 78.17836729999999
+  },
+  "Jasudben School, Mumbai, Maharashtra, India": {
+    "lat": 19.0755535,
+    "lon": 72.830236
+  },
+  "Paramount School, Kalimpong, West Bengal, India": {
+    "lat": 27.0598236,
+    "lon": 88.4681797
+  },
+  "The Ultimate AI Quiz, Ahmedabad, Gujarat, India": {
+    "lat": 23.022505,
+    "lon": 72.5713621
+  },
+  "Paras English Medium and Kishor Excellency school, Bardoli, Gujarat, India": {
+    "lat": 21.1255374,
+    "lon": 73.1122499
+  },
+  "Vidya Valley School, Pune, Maharashtra, India": {
+    "lat": 18.5455845,
+    "lon": 73.75599559999999
+  },
+  "Delhi Public School, Vasant Kunj, Delhi, Delhi, India": {
+    "lat": 28.5376174,
+    "lon": 77.14810299999999
+  },
+  "The HDFC School, Gurugram, Haryana, India": {
+    "lat": 28.4218445,
+    "lon": 77.0767726
+  },
+  "Witty International School, Bhilwara, Bhilwara, Rajasthan, India": {
+    "lat": 25.3672116,
+    "lon": 74.6411561
+  },
+  "City Montessori School, LUCKNOW, Uttar Pradesh, India": {
+    "lat": 26.8466937,
+    "lon": 80.94616599999999
+  },
+  "Baps Swaminarayan Vidyamandir,Silvassa, Silvassa, Gujarat, India": {
+    "lat": 22.6708317,
+    "lon": 71.5723953
+  },
+  "Sishya School Hosur, Hosur, Tamil Nadu, India": {
+    "lat": 12.726241,
+    "lon": 77.8139204
+  },
+  "Dehradun Boys School, Dehradun, Uttarakhand, India": {
+    "lat": 30.3172404,
+    "lon": 78.05684440000002
+  },
+  "KLE M. R. Sakhare State School, Hubballi, Hubli, Karnataka, India": {
+    "lat": 15.3659336,
+    "lon": 75.1250987
+  },
+  "KLE International School, Belagavi, Belgaum, Karnataka, India": {
+    "lat": 15.8787013,
+    "lon": 74.4847288
+  },
+  "Dr. Kalmadi Shamarao High School (Baner), Pune, Maharashtra, India": {
+    "lat": 18.5649107,
+    "lon": 73.7844661
+  },
+  "Carmel High School, Basaveshwarnagar, Bengaluru, Karnataka, India": {
+    "lat": 12.9885636,
+    "lon": 77.5443423
+  },
+  "SBS Model High School, Hoshiarpur, Punjab, India": {
+    "lat": 31.2313171,
+    "lon": 76.1908672
+  },
+  "St Joseph'S Boys High School, Bengaluru, Karnataka, India": {
+    "lat": 12.9720705,
+    "lon": 77.6037037
+  },
+  "Kaushalya World School, Greater Noida, Uttar Pradesh, India": {
+    "lat": 28.4790306,
+    "lon": 77.5368209
+  },
+  "Diamond Jubilee High School, Mumbai, Maharashtra, India": {
+    "lat": 18.9683206,
+    "lon": 72.8362698
+  },
+  "KSR Mytikas Public School, Ambur Taluk, Tamil Nadu, India": {
+    "lat": 12.8602868,
+    "lon": 78.8628677
+  },
+  "The Heritage School Rampurhat, Rampurhat, West Bengal, India": {
+    "lat": 24.1366062,
+    "lon": 87.77288
+  },
+  "St. Mary's School (English Medium), Buxar, Bihar, India": {
+    "lat": 25.5567861,
+    "lon": 83.9612526
+  },
+  "Saraswati Vidya Mandir Senior Secondary School, Mandsaur, Madhya Pradesh, India": {
+    "lat": 24.0972669,
+    "lon": 75.074165
+  },
+  "St Michaels School, Ranchi, Jharkhand, India": {
+    "lat": 23.3714704,
+    "lon": 85.27321549999999
+  },
+  "Satchidananda Jothi Nikethan International School, Coimbatore, Tamil Nadu, India": {
+    "lat": 11.337108,
+    "lon": 76.8944345
+  },
+  "St. Mary Champion H.Sec. School, Indore, Madhya Pradesh, India": {
+    "lat": 22.6853179,
+    "lon": 75.7664341
+  },
+  "Delhi Public School, Delhi Public School, Greater Noida, Greater Noida, Uttar Pradesh, India": {
+    "lat": 28.4925391,
+    "lon": 77.5074673
+  },
+  "The Kirk View School, Gaya, Bihar, India": {
+    "lat": 24.7863544,
+    "lon": 84.9960171
+  },
+  "ABS Global Smart School, Chennai, Tamil Nadu, India": {
+    "lat": 13.1175103,
+    "lon": 80.1895366
+  },
+  "Akshar, Kolkata, West Bengal, India": {
+    "lat": 22.5047361,
+    "lon": 88.37238540000001
+  },
+  "Army Public School, AHMEDABAD, Gujarat, India": {
+    "lat": 23.0656856,
+    "lon": 72.6021171
+  },
+  "Delhi Public School Society, New Delhi, Delhi, India": {
+    "lat": 28.6044631,
+    "lon": 77.0370866
+  },
+  "The Green Acres Academy- Mulund, Mumbai, Maharashtra, India": {
+    "lat": 19.182137,
+    "lon": 72.93887939999999
+  },
+  "St. Joseph's Convent, Chandannagar, West Bengal, India": {
+    "lat": 22.8550889,
+    "lon": 88.3692176
+  },
+  "Amara Jyothi Public School, Bengaluru, Karnataka, India": {
+    "lat": 13.0098848,
+    "lon": 77.7017931
+  },
+  "Thamarai's, Thanjavur, Tamil Nadu, India": {
+    "lat": 10.787719,
+    "lon": 79.1384288
+  },
+  "Presidency School, Nandini Layout, Bangalore, Karnataka, India": {
+    "lat": 13.0142167,
+    "lon": 77.5359185
+  },
+  "J.B. Petit High School, Mumbai, Maharashtra, India": {
+    "lat": 18.934688,
+    "lon": 72.8317911
+  },
+  "The Wisdom Tree School, Greater Noida, Uttar Pradesh, India": {
+    "lat": 28.5814447,
+    "lon": 77.4803362
+  },
+  "St. Vivekanand Millennium School, Pinjore, Haryana, India": {
+    "lat": 30.7837463,
+    "lon": 76.9079606
+  },
+  "Sage School, Hyderabad, Telangana, India": {
+    "lat": 17.4127018,
+    "lon": 78.6145767
+  },
+  "Thangam World School, Salem, Tamil Nadu, India": {
+    "lat": 11.6636775,
+    "lon": 78.2491369
+  },
+  "KLE School, Dharwad, Dharwad, Karnataka, India": {
+    "lat": 15.46177,
+    "lon": 75.008161
+  },
+  "Shri Rama Bharati School - Sainik Nagar, Bahadurgarh, Haryana, India": {
+    "lat": 28.7054282,
+    "lon": 76.894333
+  },
+  "SAI International Residential School, Cuttack, Cuttack, Odisha, India": {
+    "lat": 20.4407019,
+    "lon": 85.77578299999999
+  },
+  "Rawdat Al-Quran Al-Kareem, Mumbai, Maharashtra, India": {
+    "lat": 18.9652041,
+    "lon": 72.8044182
+  },
+  "Delhi Public School, Sector-30, Noida, Noida, Uttar Pradesh, India": {
+    "lat": 28.5749828,
+    "lon": 77.33657029999999
+  },
+  "KLE School, Gadag, Gadag, Karnataka, India": {
+    "lat": 15.4326424,
+    "lon": 75.64830690000001
+  },
+  "SDPS International School, Indore, Madhya Pradesh, India": {
+    "lat": 22.6571168,
+    "lon": 75.8864042
+  },
+  "Shri Rama Bharati School - Nahara Nahari, Bahadurgarh, Haryana, India": {
+    "lat": 28.7208463,
+    "lon": 76.9379603
+  },
+  "Elpro International School, Chinchwad, Pune, Maharashtra, India": {
+    "lat": 18.6315233,
+    "lon": 73.7866149
+  },
+  "S N Kansagra School - Full Day, Rajkot, Gujarat, India": {
+    "lat": 22.2874516,
+    "lon": 70.76033439999999
+  },
+  "KLE School, Manjunath Nagar, Hubballi, Hubli, Karnataka, India": {
+    "lat": 15.3493956,
+    "lon": 75.10331289999999
+  },
+  "Cambridge School, K R Puram, Bengaluru, Karnataka, India": {
+    "lat": 13.0112406,
+    "lon": 77.7051748
+  },
+  "Sunbeam English School, Bhagwanpur, Varanasi, Uttar Pradesh, India": {
+    "lat": 25.2732753,
+    "lon": 83.000869
+  },
+  "Kokilaben Dhirubhai Ambani Reliance Foundation School, Jamnagar, Gujarat, India": {
+    "lat": 22.374197,
+    "lon": 69.8437364
+  },
+  "Mind Tree School, Naraingarh, Naraingarh, Haryana, India": {
+    "lat": 30.4555013,
+    "lon": 77.11502999999999
+  },
+  "The Millennium School, Noida Extension, Greater Noida, Uttar Pradesh, India": {
+    "lat": 28.5871416,
+    "lon": 77.39905999999999
+  },
+  "Him Academy Public School, Vikas Nagar, Salasi, Himachal Pradesh, India": {
+    "lat": 31.6997253,
+    "lon": 76.4826215
+  },
+  "Kavyapta Global School, Kharsawan, Jharkhand, India": {
+    "lat": 22.7829722,
+    "lon": 85.8255855
+  },
+  "St. Mary's Convent School, Mariam Nagar, Ghaziabad, Uttar Pradesh, India": {
+    "lat": 28.6825903,
+    "lon": 77.4104942
+  },
+  "Sudharsanam Vidyaashram, Chennai, Tamil Nadu, India": {
+    "lat": 13.0648275,
+    "lon": 80.11197779999999
+  },
+  "JM International School, Dwarka, Delhi, Delhi, India": {
+    "lat": 28.5955916,
+    "lon": 77.0686073
+  },
+  "Empyrean School, Navi Mumbai, Maharashtra, India": {
+    "lat": 19.0687201,
+    "lon": 73.0687815
+  },
+  "Swami Janaki Das Vidyapith, Katwa, West Bengal, India": {
+    "lat": 23.5700995,
+    "lon": 88.2413689
+  },
+  "Vidya Vihar Residential School, Purnea, Bihar, India": {
+    "lat": 25.7928599,
+    "lon": 87.3967675
+  },
+  "Harvest Public School, Khammam, Telangana, India": {
+    "lat": 17.2354074,
+    "lon": 80.1584536
+  },
+  "Bala Vidya Mandir Senior Secondary School, Chennai, Tamil Nadu, India": {
+    "lat": 13.0098922,
+    "lon": 80.25063329999999
+  },
+  "Modern High school, Guwahati, Assam, India": {
+    "lat": 26.1770513,
+    "lon": 91.8038723
+  },
+  "IEM Public School Ashram Building, Kolkata, West Bengal, India": {
+    "lat": 22.569712,
+    "lon": 88.429231
+  },
+  "Lakshmi School, Madurai, Tamil Nadu, India": {
+    "lat": 9.9322509,
+    "lon": 78.1933689
+  },
+  "Mahatma Montessori Residential School (Cbse), Madurai, Tamil Nadu, India": {
+    "lat": 9.9339169,
+    "lon": 78.14688129999999
+  },
+  "Mount Litera Zee School, Cuddalore, Tamil Nadu, India": {
+    "lat": 11.7279644,
+    "lon": 79.7462814
+  },
+  "Prime Steps International School, Shahzadpur, Haryana, India": {
+    "lat": 30.4487657,
+    "lon": 77.0288906
+  },
+  "M P Birla Foundation Higher Secondary School, Kolkata, West Bengal, India": {
+    "lat": 22.492902,
+    "lon": 88.31898729999999
+  },
+  "Shri Ganesh Sr. Sec School, Sidhi, Madhya Pradesh, India": {
+    "lat": 24.3951372,
+    "lon": 81.8718568
+  },
+  "Tula's International School, Dehradun, Uttarakhand, India": {
+    "lat": 30.3430294,
+    "lon": 77.88915229999999
+  },
+  "Delhi Public School, Jodhpur, Rajasthan, India": {
+    "lat": 26.2232773,
+    "lon": 72.9672331
+  },
+  "Apeejay School, Bhubaneswar, Bhubaneswar, Odisha, India": {
+    "lat": 20.2717972,
+    "lon": 85.7662883
+  },
+  "Bombay International School Association, Mumbai, Maharashtra, India": {
+    "lat": 18.9568205,
+    "lon": 72.8087577
+  },
+  "The Magnet Public School, Hamirpur, Himachal Pradesh, India": {
+    "lat": 31.6793,
+    "lon": 76.5298756
+  },
+  "Delhi Public School, Vikasnagar, Dehradun, Uttarakhand, India": {
+    "lat": 30.3614612,
+    "lon": 78.1063759
+  },
+  "Tapasvi International School, Rajkot, Rajkot, Gujarat, India": {
+    "lat": 22.3191411,
+    "lon": 70.71616209999999
+  },
+  "Crinnovation Nexus Pvt. Ltd., Rajkot, Gujarat, India": {
+    "lat": 22.3038945,
+    "lon": 70.80215989999999
+  },
+  "Silver Oaks International School Kommadi, Visakhapatnam, Andhra Pradesh, India": {
+    "lat": 17.827484,
+    "lon": 83.3333993
+  },
+  "Vedaant Multipurpose School, Valsad, Gujarat, India": {
+    "lat": 20.5596817,
+    "lon": 72.917796
+  },
+  "Nml Kerala Public School, Jamshedpur, Jharkhand, India": {
+    "lat": 22.8061851,
+    "lon": 86.22591229999999
+  },
+  "Inventure Academy, Bengaluru, Karnataka, India": {
+    "lat": 12.8951105,
+    "lon": 77.7441654
+  },
+  "Holy Mary Academy, Barh, Bihar, India": {
+    "lat": 25.4693683,
+    "lon": 85.70240199999999
+  },
+  "P.S. Senior Secondary School, Chennai, Tamil Nadu, India": {
+    "lat": 13.030978,
+    "lon": 80.2652835
+  },
+  "Bluebells School International, Delhi, Delhi, India": {
+    "lat": 28.5583525,
+    "lon": 77.238562
+  },
+  "Disha India Community School, Karnal, Haryana, India": {
+    "lat": 29.5735069,
+    "lon": 76.7682523
+  },
+  "The HDFC School, Pune, Pune, Maharashtra, India": {
+    "lat": 18.5136943,
+    "lon": 73.9339614
+  },
+  "BVM Global @ Trichy, Tiruchirappalli, Tamil Nadu, India": {
+    "lat": 10.74903,
+    "lon": 78.7200585
+  },
+  "PICT Model School, Pune, Maharashtra, India": {
+    "lat": 18.5819064,
+    "lon": 73.7577398
+  },
+  "Padma Seshadri Bala Bhavan Senior Secondary School, T. Nagar, Chennai, Tamil Nadu, India": {
+    "lat": 13.0491509,
+    "lon": 80.24021359999999
+  },
+  "St Joseph school for Excellence, Bhopal, Madhya Pradesh, India": {
+    "lat": 23.2238479,
+    "lon": 77.43096709999999
+  },
+  "Joyous Primary Secondary English School, Surat, Gujarat, India": {
+    "lat": 21.218807,
+    "lon": 72.84106
+  },
+  "South Point School, Kolkata, West Bengal, India": {
+    "lat": 22.5260155,
+    "lon": 88.3700095
+  },
+  "St. Kabir Public School, Chandigarh, Chandigarh, Punjab, India": {
+    "lat": 30.7277291,
+    "lon": 76.8127373
+  },
+  "Dr. Kalmadi Shamarao High School (Secondary Section), Pune, Maharashtra, India": {
+    "lat": 18.5649107,
+    "lon": 73.7844661
+  },
+  "Vega School, Gurugram, Haryana, India": {
+    "lat": 28.3916706,
+    "lon": 76.98469639999999
+  },
+  "Innovative International School, Rajkot, Gujarat, India": {
+    "lat": 22.2702595,
+    "lon": 70.6877414
+  },
+  "Navrachana School, Sama, Vadodara, Gujarat, India": {
+    "lat": 22.3367804,
+    "lon": 73.1908605
+  },
+  "BVM Global @ Bengaluru, Bengaluru, Karnataka, India": {
+    "lat": 12.8355455,
+    "lon": 77.61829279999999
+  },
+  "Young Ladies High School, Mumbai, Maharashtra, India": {
+    "lat": 18.9355724,
+    "lon": 72.83172929999999
+  },
+  "Gurukul The School, Ghaziabad, Uttar Pradesh, India": {
+    "lat": 28.6795392,
+    "lon": 77.505026
+  },
+  "Fun Learn Day Boarding School ( Edu Girls), Kolkata, West Bengal, India": {
+    "lat": 22.5418323,
+    "lon": 88.2860078
+  },
+  "Delhi Public School, Varanasi, Uttar Pradesh, India": {
+    "lat": 25.2506278,
+    "lon": 82.9411172
+  },
+  "Kunskapsskolan, Bangalore, Karnataka, India": {
+    "lat": 12.8713509,
+    "lon": 77.7348107
+  },
+  "Brainz Edu World School, Meerut, Meerut, Uttar Pradesh, India": {
+    "lat": 28.9830941,
+    "lon": 77.7862725
+  },
+  "Army Public School, Hyderabad, Telangana, India": {
+    "lat": 17.3667852,
+    "lon": 78.4004411
+  },
+  "Jain Public School, chennai, Tamil Nadu, India": {
+    "lat": 12.967631,
+    "lon": 80.09770089999999
+  },
+  "Delhi Public School Nashik, Village Manori, Nagpur, Maharashtra, India": {
+    "lat": 21.1458004,
+    "lon": 79.0881546
+  },
+  "The Lawrence School, Sanawar, Sanawar, Himachal Pradesh, India": {
+    "lat": 30.9012621,
+    "lon": 76.993996
+  },
+  "Tulsi Public School, Ambala, Haryana, India": {
+    "lat": 30.3410423,
+    "lon": 76.7489947
+  },
+  "Sir Sivaswami Kalalaya Senior Secondary School, Chennai, Tamil Nadu, India": {
+    "lat": 13.0323154,
+    "lon": 80.2723044
+  },
+  "The Global Edge School, Kokapet, Hyderabad, Telangana, India": {
+    "lat": 17.3917928,
+    "lon": 78.3417728
+  },
+  "Rishikul Vidyapeeth School, Sonepat, Haryana, India": {
+    "lat": 29.013802,
+    "lon": 77.03375199999999
+  },
+  "Motilal Talera English Medium School, Pune, Pune, Maharashtra, India": {
+    "lat": 18.6525872,
+    "lon": 73.847051
+  },
+  "JKG International School, Ghaziabad, Uttar Pradesh, India": {
+    "lat": 28.65387209999999,
+    "lon": 77.4044048
+  },
+  "Mount Index International School, Indore, Indore, Madhya Pradesh, India": {
+    "lat": 22.6824235,
+    "lon": 76.0492213
+  },
+  "New Pithampur Public School Bagdun, Pithampur, Madhya Pradesh, India": {
+    "lat": 22.6380085,
+    "lon": 75.5899574
+  },
+  "DPS Electronic City, Bengaluru, Karnataka, India": {
+    "lat": 12.847209,
+    "lon": 77.6294197
+  },
+  "Holy Writ High School & Junior College, Mumbai, Maharashtra, India": {
+    "lat": 18.9582347,
+    "lon": 72.8319514
+  },
+  "Erudite Academy, Diphu, Assam, India": {
+    "lat": 25.8409539,
+    "lon": 93.4362843
+  },
+  "Army Public School, Jaisalmer, Jaisalmer, Rajasthan, India": {
+    "lat": 26.950526,
+    "lon": 71.0221438
+  },
+  "IEM Public School, Newtown Kolkata, Kolkata, West Bengal, India": {
+    "lat": 22.5716471,
+    "lon": 88.4707225
+  },
+  "Akshara Matriculation Higher Secondary School, Madurai, Tamil Nadu, India": {
+    "lat": 9.9394206,
+    "lon": 78.0291057
+  },
+  "St. Karen's Secondary School, Patna, Bihar, India": {
+    "lat": 25.6107781,
+    "lon": 85.04270819999999
+  },
+  "Spring Wood Senior Secondary School, Neemuch, Madhya Pradesh, India": {
+    "lat": 24.4779895,
+    "lon": 74.8716565
+  },
+  "Vidya Vahini School, Bengaluru, Karnataka, India": {
+    "lat": 12.9757473,
+    "lon": 77.5012504
+  },
+  "The Pentecostal Assembly School, Bokaro, Jharkhand, India": {
+    "lat": 23.6405044,
+    "lon": 86.135438
+  },
+  "Bhavan^s Gangabux Kanoria Vidyamandir, Kolkata, West Bengal, India": {
+    "lat": 22.5767068,
+    "lon": 88.40510669999999
+  },
+  "Shiv Nadar School, Noida, Noida, Uttar Pradesh, India": {
+    "lat": 28.4948371,
+    "lon": 77.4116371
+  },
+  "Shri Rama Bharti Public School - Sainik Nagar, Bahadurgarh, Haryana, India": {
+    "lat": 28.7017048,
+    "lon": 76.9010527
+  },
+  "The Cathedral & John Connon School - Junior Section, Mumbai, Maharashtra, India": {
+    "lat": 18.9345257,
+    "lon": 72.8316038
+  },
+  "Rungta Public School, Bhilai, Chhattisgarh, India": {
+    "lat": 21.2359746,
+    "lon": 81.3482837
+  },
+  "Delhi Public School Sagar, Sagar, Madhya Pradesh, India": {
+    "lat": 23.8586229,
+    "lon": 78.6706794
+  },
+  "The Shri Ram School, Junior Aravali, Gurugram, Haryana, India": {
+    "lat": 28.4665627,
+    "lon": 77.08585529999999
+  },
+  "Dolna Day School, Kolkata, West Bengal, India": {
+    "lat": 22.5191666,
+    "lon": 88.3771189
+  },
+  "Seth M. R. Jaipuria School, Lucknow, Uttar Pradesh, India": {
+    "lat": 26.8520732,
+    "lon": 81.0114627
+  },
+  "Chinmaya Vidyalaya P.A.C.R. Mat. H.S. School, Rajapalayam, Tamil Nadu, India": {
+    "lat": 9.439783499999999,
+    "lon": 77.53191070000001
+  },
+  "The HDFC School, Bengaluru, Bengaluru, Karnataka, India": {
+    "lat": 12.9404247,
+    "lon": 77.62335399999999
+  },
+  "SNS Faridabad, Faridabad, Haryana, India": {
+    "lat": 28.3910671,
+    "lon": 77.3515448
+  },
+  "Ramco Vidyalaya, Virudhunagar, Tamil Nadu, India": {
+    "lat": 9.462823199999999,
+    "lon": 77.93292819999999
+  },
+  "AMNS International School, Surat, Gujarat, India": {
+    "lat": 21.1310062,
+    "lon": 72.6549077
+  },
+  "Delhi Public School, Delhi Public School Society, Delhi Public School, Dwarka, New Delhi, Delhi, India": {
+    "lat": 28.6060404,
+    "lon": 77.048171
+  },
+  "Lotus Petal Sr. Sec. School, Sec 31, Tehsil Sohna, Gurgaon,, Haryana, India": {
+    "lat": 28.4424989,
+    "lon": 77.0734928
+  },
+  "Shiv Nadar School, Noida (IB), Noida, Uttar Pradesh, India": {
+    "lat": 28.4948371,
+    "lon": 77.4116371
+  },
+  "MSB Educational Institute, Secunderabad, Telangana, India": {
+    "lat": 17.4775974,
+    "lon": 78.4966506
+  },
+  "Mahadevi Birla World Academy (Junior Wing), Kolkata, West Bengal, India": {
+    "lat": 22.5417396,
+    "lon": 88.3712675
+  },
+  "Sandipani Academy, Mandleshwar, Mandleshwar, Madhya Pradesh, India": {
+    "lat": 22.1789616,
+    "lon": 75.6467641
+  },
+  "Delhi Public School Hinjawadi Pune, Nagpur,, Maharashtra, India": {
+    "lat": 21.1458004,
+    "lon": 79.0881546
+  },
+  "Chandigarh Baptist Senior Secondary School, Chandigarh, Chandigarh, India": {
+    "lat": 30.7069528,
+    "lon": 76.7529498
+  },
+  "Vimukti Girls School, Jaipur, Jaipur, Rajasthan, India": {
+    "lat": 26.8057068,
+    "lon": 75.8284312
+  },
+  "Bal Bharti School, Bahadurgarh, Jhajjar, Haryana, India": {
+    "lat": 28.6910096,
+    "lon": 76.934174
+  },
+  "Navy Children School, Vasco, Goa, India": {
+    "lat": 15.3907642,
+    "lon": 73.83639269999999
+  },
+  "Shraddha Children^s Academy, Chennai, Tamil Nadu, India": {
+    "lat": 12.9715357,
+    "lon": 80.2586355
+  },
+  "Kerala Public School, Jamshedpur, Jharkhand, India": {
+    "lat": 22.8033911,
+    "lon": 86.1500956
+  },
+  "New Era Senior Secondary School, Vadodara, Gujarat, India": {
+    "lat": 22.3071588,
+    "lon": 73.1812187
+  },
+  "G Rio School, Kohima, Nagaland, India": {
+    "lat": 25.6938149,
+    "lon": 94.1002061
+  },
+  "Allen Career Institute, Nerul, Navi Mumbai, Maharashtra, India": {
+    "lat": 19.0341802,
+    "lon": 73.018722
+  },
+  "Witty International School, Borivali (W), Mumbai, nan, India": {
+    "lat": 19.2183655,
+    "lon": 72.83685299999999
+  },
+  "Witty International School, Malad (W), Mumbai, nan, India": {
+    "lat": 19.1761147,
+    "lon": 72.8476246
+  },
+  "Adani Vidya Mandir, Ahmedabad, nan, India": {
+    "lat": 22.9923026,
+    "lon": 72.4984126
+  },
+  "nan, nan, nan, India": {
+    "lat": 28.6737126,
+    "lon": 77.725178
+  },
+  "Delhi, India": {
+    "lat": 28.7040592,
+    "lon": 77.10249019999999
+  },
+  "Rourkela, India": {
+    "lat": 22.260423,
+    "lon": 84.8535844
+  },
+  "Nipani, India": {
+    "lat": 16.4041668,
+    "lon": 74.3786387
+  },
+  "Dehradun, India": {
+    "lat": 30.3164945,
+    "lon": 78.03219179999999
+  },
+  "Hyderabad, India": {
+    "lat": 17.406498,
+    "lon": 78.47724389999999
+  },
+  "Ambala, India": {
+    "lat": 30.3752011,
+    "lon": 76.782122
+  },
+  "Kolkata, India": {
+    "lat": 22.5743545,
+    "lon": 88.3628734
+  },
+  "Chennai, India": {
+    "lat": 13.0843007,
+    "lon": 80.2704622
+  },
+  "Ghaziabad, India": {
+    "lat": 28.6691565,
+    "lon": 77.45375779999999
+  },
+  "Mysore, India": {
+    "lat": 12.2958104,
+    "lon": 76.6393805
+  },
+  "Warangal, India": {
+    "lat": 17.9692624,
+    "lon": 79.59263039999999
+  },
+  "Indore, India": {
+    "lat": 22.7195687,
+    "lon": 75.8577258
+  },
+  "Hisar, India": {
+    "lat": 29.1491875,
+    "lon": 75.7216527
+  },
+  "Kalyan, India": {
+    "lat": 19.2403305,
+    "lon": 73.1305395
+  },
+  "Sonepat, India": {
+    "lat": 28.99308229999999,
+    "lon": 77.0150735
+  },
+  "Vadodara, India": {
+    "lat": 22.3000395,
+    "lon": 73.2064994
+  },
+  "Hubli, India": {
+    "lat": 15.3647083,
+    "lon": 75.1239547
+  },
+  "Gadag, India": {
+    "lat": 15.4315406,
+    "lon": 75.63551489999999
+  },
+  "Karnal, India": {
+    "lat": 29.6856929,
+    "lon": 76.9904825
+  },
+  "Gokak, India": {
+    "lat": 16.1591849,
+    "lon": 74.8156199
+  },
+  "Sivakasi, India": {
+    "lat": 9.4532852,
+    "lon": 77.80241699999999
+  },
+  "Ooty, India": {
+    "lat": 11.4102038,
+    "lon": 76.6950324
+  },
+  "Bengaluru, India": {
+    "lat": 12.9628669,
+    "lon": 77.57750899999999
+  },
+  "Tirupur, India": {
+    "lat": 11.1085242,
+    "lon": 77.3410656
+  },
+  "Aurangabad, India": {
+    "lat": 19.875754,
+    "lon": 75.3393195
+  },
+  "Rohtak, India": {
+    "lat": 28.8955152,
+    "lon": 76.606611
+  },
+  "Bhubaneswar, India": {
+    "lat": 20.2959847,
+    "lon": 85.8246101
+  },
+  "Gwalior, India": {
+    "lat": 26.2124007,
+    "lon": 78.1772053
+  },
+  "Lucknow, India": {
+    "lat": 26.8466937,
+    "lon": 80.94616599999999
+  },
+  "Ranchi, India": {
+    "lat": 23.3440997,
+    "lon": 85.309562
+  },
+  "Siwan, India": {
+    "lat": 26.2243204,
+    "lon": 84.3599953
+  },
+  "Jodhpur, India": {
+    "lat": 26.2389469,
+    "lon": 73.02430939999999
+  },
+  "Mumbai, India": {
+    "lat": 18.9582347,
+    "lon": 72.8319514
+  },
+  "Walajapet, India": {
+    "lat": 12.9254169,
+    "lon": 79.36408449999999
+  },
+  "Noida, India": {
+    "lat": 28.5355161,
+    "lon": 77.3910265
+  },
+  "Mandleshwar, India": {
+    "lat": 22.1769125,
+    "lon": 75.660084
+  },
+  "Khargaon, India": {
+    "lat": 21.8257464,
+    "lon": 75.61840610000002
+  },
+  "Trichy, India": {
+    "lat": 10.7904833,
+    "lon": 78.7046725
+  },
+  "Khammam, India": {
+    "lat": 17.2472528,
+    "lon": 80.1514447
+  },
+  "Rajkot, India": {
+    "lat": 22.3038945,
+    "lon": 70.80215989999999
+  },
+  "Madurai, India": {
+    "lat": 9.9252007,
+    "lon": 78.1197754
+  },
+  "Hosur, India": {
+    "lat": 12.7409127,
+    "lon": 77.8252923
+  },
+  "Solapur, India": {
+    "lat": 17.6700736,
+    "lon": 75.9010467
+  },
+  "Siliguri, India": {
+    "lat": 26.7271012,
+    "lon": 88.39528609999999
+  },
+  "Jhalawar, India": {
+    "lat": 24.593906,
+    "lon": 76.1642846
+  },
+  "Bahadurgarh, India": {
+    "lat": 28.6913756,
+    "lon": 76.9314064
+  },
+  "Pune, India": {
+    "lat": 18.5246091,
+    "lon": 73.8786239
+  },
+  "New Delhi, India": {
+    "lat": 28.6139298,
+    "lon": 77.2088282
+  },
+  "AHMEDABAD, India": {
+    "lat": 23.022505,
+    "lon": 72.5713621
+  },
+  "Ahmedabad, India": {
+    "lat": 23.022505,
+    "lon": 72.5713621
+  },
+  "Shivpuri, India": {
+    "lat": 25.4320478,
+    "lon": 77.66438149999999
+  },
+  "Raipur, India": {
+    "lat": 21.2513844,
+    "lon": 81.62964130000002
+  },
+  "Zaheerabad, India": {
+    "lat": 17.6795276,
+    "lon": 77.6050959
+  },
+  "Ranipet, India": {
+    "lat": 12.9487403,
+    "lon": 79.318978
+  },
+  "Adilabad, India": {
+    "lat": 19.6765668,
+    "lon": 78.53208409999999
+  },
+  "Mohali, India": {
+    "lat": 30.7046486,
+    "lon": 76.71787259999999
+  },
+  "kolkata, India": {
+    "lat": 22.5743545,
+    "lon": 88.3628734
+  },
+  "Varanasi, India": {
+    "lat": 25.3176452,
+    "lon": 82.9739144
+  },
+  "Rajapalayam, India": {
+    "lat": 9.451484299999999,
+    "lon": 77.55434249999999
+  },
+  "Bahraich, India": {
+    "lat": 27.5705152,
+    "lon": 81.59766719999999
+  },
+  "Faridabad, India": {
+    "lat": 28.4089123,
+    "lon": 77.3177894
+  },
+  "Ajmer, India": {
+    "lat": 26.4498954,
+    "lon": 74.6399163
+  },
+  "Thanjavur, India": {
+    "lat": 10.787719,
+    "lon": 79.1384288
+  },
+  "Meerut, India": {
+    "lat": 28.9844618,
+    "lon": 77.7064137
+  },
+  "Jhajjar, India": {
+    "lat": 28.6054875,
+    "lon": 76.6537749
+  },
+  "Sikandrabad, India": {
+    "lat": 28.4511246,
+    "lon": 77.6954889
+  },
+  "madurai, India": {
+    "lat": 9.9252007,
+    "lon": 78.1197754
+  },
+  "Secunderabad, India": {
+    "lat": 17.4399295,
+    "lon": 78.4982741
+  },
+  "Tumkur, India": {
+    "lat": 13.3378762,
+    "lon": 77.117325
+  },
+  "Kullu, India": {
+    "lat": 31.9591246,
+    "lon": 77.1091991
+  },
+  "Thiruvallur, India": {
+    "lat": 13.1226901,
+    "lon": 79.91176899999999
+  },
+  "Virudhunagar, India": {
+    "lat": 9.5741883,
+    "lon": 77.9603961
+  },
+  "Jamnagar, India": {
+    "lat": 22.4707019,
+    "lon": 70.05773
+  },
+  "Coimbatore, India": {
+    "lat": 10.9973691,
+    "lon": 76.9588876
+  },
+  "Keonjhar, India": {
+    "lat": 21.6392783,
+    "lon": 85.605494
+  },
+  "Tiruchirappalli, India": {
+    "lat": 10.7904833,
+    "lon": 78.7046725
+  },
+  "Greater Noida, India": {
+    "lat": 28.4743879,
+    "lon": 77.50399039999999
+  },
+  "Ariyalur, India": {
+    "lat": 11.1403677,
+    "lon": 79.07445
+  },
+  "Sitapur, India": {
+    "lat": 27.5680156,
+    "lon": 80.6789519
+  },
+  "Gurugram, India": {
+    "lat": 28.4594965,
+    "lon": 77.0266383
+  },
+  "Bhopal, India": {
+    "lat": 23.2599333,
+    "lon": 77.412615
+  },
+  "Guwahati, India": {
+    "lat": 26.1157917,
+    "lon": 91.7085933
+  },
+  "Sagar, India": {
+    "lat": 23.838805,
+    "lon": 78.7378068
+  },
+  "Panchkula, India": {
+    "lat": 30.6942091,
+    "lon": 76.860565
+  },
+  "Barnala, India": {
+    "lat": 30.3819446,
+    "lon": 75.5467979
+  },
+  "Navi Mumbai, India": {
+    "lat": 19.0330488,
+    "lon": 73.0296625
+  },
+  "Surat, India": {
+    "lat": 21.1702401,
+    "lon": 72.83106070000001
+  },
+  "Mysuru, India": {
+    "lat": 12.2958104,
+    "lon": 76.6393805
+  },
+  "CHENNAI, India": {
+    "lat": 13.0843007,
+    "lon": 80.2704622
+  },
+  "kalimpong, India": {
+    "lat": 27.0593562,
+    "lon": 88.46945350000001
+  },
+  "Diphu, India": {
+    "lat": 25.8441997,
+    "lon": 93.44019109999999
+  },
+  "Gandhinagar, India": {
+    "lat": 23.2156354,
+    "lon": 72.63694149999999
+  },
+  "Bulandshahr, India": {
+    "lat": 28.406963,
+    "lon": 77.8498292
+  },
+  "Bokaro, India": {
+    "lat": 23.6692956,
+    "lon": 86.15111200000001
+  },
+  "Gaya, India": {
+    "lat": 24.7913957,
+    "lon": 85.0002336
+  },
+  "Korba, India": {
+    "lat": 22.3594501,
+    "lon": 82.75005949999999
+  },
+  "Chhindwara, India": {
+    "lat": 22.057437,
+    "lon": 78.9381729
+  },
+  "Ashoknagar, India": {
+    "lat": 24.5775148,
+    "lon": 77.7318495
+  },
+  "Etawah, India": {
+    "lat": 26.7829103,
+    "lon": 79.027659
+  },
+  "Tezpur, India": {
+    "lat": 26.6528495,
+    "lon": 92.7925592
+  },
+  "Deoghar, India": {
+    "lat": 24.485179,
+    "lon": 86.694785
+  },
+  "Saharanpur, India": {
+    "lat": 29.9680035,
+    "lon": 77.55520659999999
+  },
+  "Chikodi, India": {
+    "lat": 16.4291905,
+    "lon": 74.5878546
+  },
+  "Dharwad, India": {
+    "lat": 15.4589236,
+    "lon": 75.007808
+  },
+  "Haveri, India": {
+    "lat": 14.7950698,
+    "lon": 75.39906739999999
+  },
+  "Belgaum, India": {
+    "lat": 15.8608974,
+    "lon": 74.5129177
+  },
+  "Athani, India": {
+    "lat": 16.7261322,
+    "lon": 75.0610561
+  },
+  "Kharar, India": {
+    "lat": 30.7498676,
+    "lon": 76.64110939999999
+  },
+  "Sonari, India": {
+    "lat": 27.026657,
+    "lon": 95.0213885
+  },
+  "Kohima, India": {
+    "lat": 25.6742421,
+    "lon": 94.1085937
+  },
+  "Kumbakonam, India": {
+    "lat": 10.9601852,
+    "lon": 79.3844976
+  },
+  "Sidhpur, India": {
+    "lat": 23.9308631,
+    "lon": 72.3621359
+  },
+  "Lumding, India": {
+    "lat": 25.7516266,
+    "lon": 93.172876
+  },
+  "Rewa, India": {
+    "lat": 24.5362477,
+    "lon": 81.30369460000001
+  },
+  "Gangtok, India": {
+    "lat": 27.3313512,
+    "lon": 88.6138113
+  },
+  "Nashik, India": {
+    "lat": 19.9993217,
+    "lon": 73.79001880000001
+  },
+  "Ankleshwar, India": {
+    "lat": 21.6264236,
+    "lon": 73.0151984
+  },
+  "Patiala, India": {
+    "lat": 30.3397809,
+    "lon": 76.3868797
+  },
+  "Visakhapatnam, India": {
+    "lat": 17.7343219,
+    "lon": 83.3129841
+  },
+  "KARHI, India": {
+    "lat": 26.4603739,
+    "lon": 85.9789811
+  },
+  "coimbatore, India": {
+    "lat": 10.9973691,
+    "lon": 76.9588876
+  },
+  "Tura, India": {
+    "lat": 25.5142986,
+    "lon": 90.20414199999999
+  },
+  "Sidhi, India": {
+    "lat": 24.3956038,
+    "lon": 81.88252790000001
+  },
+  "Junagadh, India": {
+    "lat": 21.5222203,
+    "lon": 70.4579436
+  },
+  "Cuttack, India": {
+    "lat": 20.462521,
+    "lon": 85.8829895
+  },
+  "South 24 Paraganas, India": {
+    "lat": 22.1366735,
+    "lon": 88.55653099999999
+  },
+  "Udhagamandalam, India": {
+    "lat": 11.4102038,
+    "lon": 76.6950324
+  },
+  "Gondal, India": {
+    "lat": 21.9611708,
+    "lon": 70.7938777
+  },
+  "Mandsaur, India": {
+    "lat": 24.0734356,
+    "lon": 75.0679018
+  },
+  "Shirpur, India": {
+    "lat": 21.3455645,
+    "lon": 74.8793243
+  },
+  "Sibsagar, India": {
+    "lat": 26.989087,
+    "lon": 94.63942399999999
+  },
+  "Shyamnagar, India": {
+    "lat": 22.8315138,
+    "lon": 88.39774179999999
+  },
+  "Ara, India": {
+    "lat": 23.7416514,
+    "lon": 85.55574179999999
+  },
+  "Cuddalore, India": {
+    "lat": 11.7480419,
+    "lon": 79.7713687
+  },
+  "Pathankot, India": {
+    "lat": 32.2733352,
+    "lon": 75.6522066
+  },
+  "Bangalore, India": {
+    "lat": 12.9628669,
+    "lon": 77.57750899999999
+  },
+  "Kalimpong, India": {
+    "lat": 27.0593562,
+    "lon": 88.46945350000001
+  },
+  "Naraingarh, India": {
+    "lat": 30.4752265,
+    "lon": 77.1219863
+  },
+  "Dibrugarh, India": {
+    "lat": 27.4705449,
+    "lon": 94.91246249999999
+  },
+  "Moradabad, India": {
+    "lat": 28.8386481,
+    "lon": 78.7733286
+  },
+  "-, India": {
+    "lat": 20.593684,
+    "lon": 78.96288
+  },
+  "Purba Medinipur, India": {
+    "lat": 21.9372879,
+    "lon": 87.77633329999999
+  },
+  "Islampur, India": {
+    "lat": 26.2554319,
+    "lon": 88.2009408
+  },
+  "Nagpur, India": {
+    "lat": 21.1458004,
+    "lon": 79.0881546
+  },
+  "Malerkotla, India": {
+    "lat": 30.5245806,
+    "lon": 75.8783443
+  },
+  "Hassan, India": {
+    "lat": 13.0033234,
+    "lon": 76.1003894
+  },
+  "Salem, India": {
+    "lat": 11.664325,
+    "lon": 78.1460142
+  },
+  "Kharsawan, India": {
+    "lat": 22.7829722,
+    "lon": 85.8255855
+  },
+  "Ambala (Naraingarh), India": {
+    "lat": 30.4752265,
+    "lon": 77.1219863
+  },
+  "Jharsuguda, India": {
+    "lat": 21.8554375,
+    "lon": 84.0061661
+  },
+  "Vellore, India": {
+    "lat": 12.9235541,
+    "lon": 79.1330768
+  },
+  "Bagod, India": {
+    "lat": 22.313924,
+    "lon": 75.8737288
+  },
+  "Palampur, India": {
+    "lat": 32.1108599,
+    "lon": 76.5362526
+  },
+  "Nabha, India": {
+    "lat": 30.3730177,
+    "lon": 76.1469551
+  },
+  "Shillong, India": {
+    "lat": 25.5787726,
+    "lon": 91.8932535
+  },
+  "Raigad, India": {
+    "lat": 18.6584525,
+    "lon": 72.8773176
+  },
+  "Barasat, India": {
+    "lat": 22.7247556,
+    "lon": 88.4789351
+  },
+  "Chandigarh, India": {
+    "lat": 30.7333148,
+    "lon": 76.7794179
+  },
+  "Dimapur, India": {
+    "lat": 25.9091406,
+    "lon": 93.72656049999999
+  },
+  "Jaipur, India": {
+    "lat": 26.9124336,
+    "lon": 75.7872709
+  },
+  "Gurgaon, India": {
+    "lat": 28.4594965,
+    "lon": 77.0266383
+  },
+  "Vasco, India": {
+    "lat": 15.3889103,
+    "lon": 73.8165873
+  },
+  "chennai, India": {
+    "lat": 13.0843007,
+    "lon": 80.2704622
+  },
+  "Erode, India": {
+    "lat": 11.3410364,
+    "lon": 77.7171642
+  },
+  "Sangamner, India": {
+    "lat": 19.5761174,
+    "lon": 74.2070191
+  },
+  "Neemuch,, India": {
+    "lat": 24.4737663,
+    "lon": 74.8726497
+  },
+  "Neemuch, India": {
+    "lat": 24.4737663,
+    "lon": 74.8726497
+  },
+  "Baramati, India": {
+    "lat": 18.1697256,
+    "lon": 74.5756196
+  },
+  "Khurda, India": {
+    "lat": 20.1862584,
+    "lon": 85.62227419999999
+  },
+  "Shahzadpur, India": {
+    "lat": 30.4464827,
+    "lon": 77.033945
+  },
+  "Ambur Taluk, India": {
+    "lat": 12.7802644,
+    "lon": 78.717634
+  },
+  "Pithampur, India": {
+    "lat": 22.611121,
+    "lon": 75.6772689
+  },
+  "Tiruppur, India": {
+    "lat": 11.1085242,
+    "lon": 77.3410656
+  },
+  "Kota, India": {
+    "lat": 25.2138156,
+    "lon": 75.8647527
+  },
+  "Haryana, India": {
+    "lat": 29.0587757,
+    "lon": 76.085601
+  },
+  "Kalunga, India": {
+    "lat": 22.227423,
+    "lon": 84.7184949
+  },
+  "LUCKNOW, India": {
+    "lat": 26.8466937,
+    "lon": 80.94616599999999
+  },
+  "Pinjore, India": {
+    "lat": 30.799264,
+    "lon": 76.9149134
+  },
+  "Sanawar, India": {
+    "lat": 30.28574,
+    "lon": 76.458488
+  },
+  "margao, India": {
+    "lat": 15.2859239,
+    "lon": 73.97869140000002
+  },
+  "Chandrapur, India": {
+    "lat": 19.9615398,
+    "lon": 79.2961468
+  },
+  "Ludhiana, India": {
+    "lat": 30.900965,
+    "lon": 75.8572758
+  },
+  "Kalol, India": {
+    "lat": 23.2418194,
+    "lon": 72.49297159999999
+  },
+  "Mundra, India": {
+    "lat": 22.8395642,
+    "lon": 69.72407489999999
+  },
+  "Nazira, India": {
+    "lat": 26.9006575,
+    "lon": 94.72257929999999
+  },
+  "Nandyal, India": {
+    "lat": 15.4776876,
+    "lon": 78.487285
+  },
+  "Nalagarh, India": {
+    "lat": 31.0460685,
+    "lon": 76.7025709
+  },
+  "Patna, India": {
+    "lat": 25.5940947,
+    "lon": 85.1375645
+  },
+  "Jamshedpur, India": {
+    "lat": 22.8045665,
+    "lon": 86.2028754
+  },
+  "Kathgodam, India": {
+    "lat": 29.2693264,
+    "lon": 79.54411979999999
+  },
+  "Haldia, India": {
+    "lat": 22.0627164,
+    "lon": 88.0832934
+  },
+  "Jabalpur, India": {
+    "lat": 23.1685786,
+    "lon": 79.9338798
+  },
+  "Mangalore, India": {
+    "lat": 12.8854777,
+    "lon": 74.8388112
+  },
+  "karur, India": {
+    "lat": 10.9600778,
+    "lon": 78.07660360000001
+  },
+  "Nabarun, India": {
+    "lat": 20.593684,
+    "lon": 78.96288
+  },
+  "Namakkal, India": {
+    "lat": 11.2193848,
+    "lon": 78.16784179999999
+  },
+  "Jagdalpur, India": {
+    "lat": 19.0861377,
+    "lon": 82.0188426
+  },
+  "Shujalpur, India": {
+    "lat": 23.3882023,
+    "lon": 76.71633589999999
+  },
+  "Palakkad District, India": {
+    "lat": 10.7733219,
+    "lon": 76.6580633
+  },
+  "Kosamba, India": {
+    "lat": 21.4716332,
+    "lon": 72.95499869999999
+  },
+  "Valsad, India": {
+    "lat": 20.5992349,
+    "lon": 72.9342451
+  },
+  "Haldwani, India": {
+    "lat": 29.2182644,
+    "lon": 79.5129767
+  },
+  "Makum Road, Tinsukia, India": {
+    "lat": 27.4863861,
+    "lon": 95.3748208
+  },
+  "Zirakpur, India": {
+    "lat": 30.6425496,
+    "lon": 76.8173359
+  },
+  "Balangir, India": {
+    "lat": 20.7011108,
+    "lon": 83.4846069
+  },
+  "Bhilai, India": {
+    "lat": 21.1938475,
+    "lon": 81.3509416
+  },
+  "Kharagpur, India": {
+    "lat": 22.3451723,
+    "lon": 87.3047053
+  },
+  "Dhar, India": {
+    "lat": 22.5980549,
+    "lon": 75.3039628
+  },
+  "Gobichettipalayam, India": {
+    "lat": 11.4549451,
+    "lon": 77.4365196
+  },
+  "Bhangrotu, India": {
+    "lat": 31.6109691,
+    "lon": 76.9254134
+  },
+  "Sakti, India": {
+    "lat": 22.0237859,
+    "lon": 82.96023869999999
+  },
+  "Veraval, India": {
+    "lat": 20.9158979,
+    "lon": 70.3628516
+  },
+  "Rayagada, India": {
+    "lat": 19.1714939,
+    "lon": 83.4116756
+  },
+  "Arsikere, India": {
+    "lat": 13.3133834,
+    "lon": 76.2565857
+  },
+  "Khariar Road,Dist Nuapada, India": {
+    "lat": 20.8968392,
+    "lon": 82.5104655
+  },
+  "Salasi, India": {
+    "lat": 31.7040251,
+    "lon": 76.4808893
+  },
+  "Sundargarh, India": {
+    "lat": 22.120021,
+    "lon": 84.037224
+  },
+  "Kurnool, India": {
+    "lat": 15.8309383,
+    "lon": 78.03654929999999
+  },
+  "Bankura, India": {
+    "lat": 23.2312686,
+    "lon": 87.07838749999999
+  },
+  "Hamirpur, India": {
+    "lat": 31.6861745,
+    "lon": 76.52130919999999
+  },
+  "Kolhapur, India": {
+    "lat": 16.706369,
+    "lon": 74.2481772
+  },
+  "Bijni, India": {
+    "lat": 26.4943855,
+    "lon": 90.70103189999999
+  },
+  "Vijaywada, India": {
+    "lat": 16.5061743,
+    "lon": 80.6480153
+  },
+  "Bhilwara, India": {
+    "lat": 25.3407388,
+    "lon": 74.63131829999999
+  },
+  "Udaipur, India": {
+    "lat": 24.585445,
+    "lon": 73.712479
+  },
+  "Morvi, India": {
+    "lat": 22.8251874,
+    "lon": 70.84908089999999
+  },
+  "Jajpur Road, India": {
+    "lat": 20.9550552,
+    "lon": 86.1271048
+  },
+  "Rajpura, India": {
+    "lat": 30.4765796,
+    "lon": 76.5905317
+  },
+  "Dhanbad, India": {
+    "lat": 23.7956531,
+    "lon": 86.43038589999999
+  },
+  "Chandannagar, India": {
+    "lat": 22.867114,
+    "lon": 88.3674381
+  },
+  "Tanuku, India": {
+    "lat": 16.751228,
+    "lon": 81.7075787
+  },
+  "kalyani, India": {
+    "lat": 22.9747271,
+    "lon": 88.43372099999999
+  },
+  "Bhawanipatna, India": {
+    "lat": 19.9074279,
+    "lon": 83.1641562
+  },
+  "Kurseong, India": {
+    "lat": 26.8821382,
+    "lon": 88.2788511
+  },
+  "Beed, India": {
+    "lat": 18.990088,
+    "lon": 75.7531324
+  },
+  "Firozabad, Jaipur, India": {
+    "lat": 26.9225563,
+    "lon": 75.8286097
+  },
+  "Khorda, India": {
+    "lat": 20.1862584,
+    "lon": 85.62227419999999
+  },
+  "Nagpur,, India": {
+    "lat": 21.1458004,
+    "lon": 79.0881546
+  },
+  "Bethesda, India": {
+    "lat": 20.593684,
+    "lon": 78.96288
+  },
+  "Labpur, India": {
+    "lat": 23.8160705,
+    "lon": 87.79846529999999
+  },
+  "Asansol, India": {
+    "lat": 23.6888636,
+    "lon": 86.9660638
+  },
+  "Katwa, India": {
+    "lat": 23.6403783,
+    "lon": 88.1299373
+  },
+  "Koraput, India": {
+    "lat": 18.813487,
+    "lon": 82.71233269999999
+  },
+  "Kanpur, India": {
+    "lat": 26.449923,
+    "lon": 80.3318736
+  },
+  "Ranebennur, India": {
+    "lat": 14.615399,
+    "lon": 75.6288239
+  },
+  "Rampurhat, India": {
+    "lat": 24.1744845,
+    "lon": 87.7793421
+  },
+  "Sri Potti Sriramulu Nellore District, India": {
+    "lat": 14.2580848,
+    "lon": 79.9192702
+  },
+  "Perambalur, India": {
+    "lat": 11.2342104,
+    "lon": 78.8806852
+  },
+  "Shajapur, India": {
+    "lat": 23.4225728,
+    "lon": 76.2871419
+  },
+  "Rudrapur, India": {
+    "lat": 28.9875082,
+    "lon": 79.4141214
+  },
+  "Kokrajhar, India": {
+    "lat": 26.4021196,
+    "lon": 90.27056789999999
+  },
+  "Thuraiyur, India": {
+    "lat": 11.1518913,
+    "lon": 78.5957143
+  },
+  "Bardoli, India": {
+    "lat": 21.1255374,
+    "lon": 73.1122499
+  },
+  "Hoshiarpur, India": {
+    "lat": 31.5143178,
+    "lon": 75.911483
+  },
+  "MILLITARY AREA, India": {
+    "lat": 17.3987469,
+    "lon": 78.4370033
+  },
+  "Barh, India": {
+    "lat": 25.4722676,
+    "lon": 85.70818419999999
+  },
+  "Sec 31, Tehsil Sohna, Gurgaon,, India": {
+    "lat": 28.4528403,
+    "lon": 77.0497982
+  },
+  "Pimpri Chinchwad, India": {
+    "lat": 18.6263131,
+    "lon": 73.805498
+  },
+  "Santipur, India": {
+    "lat": 23.2418888,
+    "lon": 88.4343645
+  },
+  "Kothakota, India": {
+    "lat": 16.3804266,
+    "lon": 77.9413467
+  },
+  "Kalna, India": {
+    "lat": 23.2164297,
+    "lon": 88.35285379999999
+  },
+  "Mandal Wanaparthy District, India": {
+    "lat": 16.2426241,
+    "lon": 78.0651931
+  },
+  "Jaisalmer, India": {
+    "lat": 26.9157487,
+    "lon": 70.9083443
+  },
+  "Dhule, India": {
+    "lat": 20.9042201,
+    "lon": 74.7748979
+  },
+  "Pilani, India": {
+    "lat": 28.3802101,
+    "lon": 75.6091696
+  },
+  "Joka, India": {
+    "lat": 22.45335,
+    "lon": 88.30252039999999
+  },
+  "Purnea, India": {
+    "lat": 25.7771391,
+    "lon": 87.4752551
+  },
+  "Anand, India": {
+    "lat": 22.5645175,
+    "lon": 72.928871
+  },
+  "Ballia, India": {
+    "lat": 28.2006882,
+    "lon": 79.3651914
+  },
+  "Burdwan, India": {
+    "lat": 23.2332824,
+    "lon": 87.86463839999999
+  },
+  "Tinsukia, India": {
+    "lat": 27.4885539,
+    "lon": 95.355758
+  },
+  "Tughlakabad, India": {
+    "lat": 28.5052081,
+    "lon": 77.2778944
+  },
+  "Barpeta, India": {
+    "lat": 26.3304209,
+    "lon": 91.0040547
+  },
+  "Mahabubnagar, India": {
+    "lat": 16.7488379,
+    "lon": 78.00351719999999
+  },
+  "Jaspur, India": {
+    "lat": 29.2839469,
+    "lon": 78.82813949999999
+  },
+  "Kangra, India": {
+    "lat": 32.1014764,
+    "lon": 76.2731465
+  },
+  "Bijnor, India": {
+    "lat": 29.3731673,
+    "lon": 78.1350904
+  },
+  "Kashipur, India": {
+    "lat": 29.2104232,
+    "lon": 78.9618845
+  },
+  "Gadarpur, India": {
+    "lat": 29.0396802,
+    "lon": 79.25041350000001
+  },
+  "Buxar, India": {
+    "lat": 25.5647103,
+    "lon": 83.9777482
+  },
+  "Bolpur, India": {
+    "lat": 23.6453332,
+    "lon": 87.6932603
+  },
+  "Suri, India": {
+    "lat": 23.9129255,
+    "lon": 87.52683929999999
+  },
+  "Nawabganj, Noapara, India": {
+    "lat": 22.81865,
+    "lon": 88.3687416
+  },
+  "Sirsa, India": {
+    "lat": 29.5320731,
+    "lon": 75.03177339999999
+  },
+  "Jajpur, India": {
+    "lat": 20.8341019,
+    "lon": 86.3326058
+  },
+  "Chidambaram, India": {
+    "lat": 11.4070449,
+    "lon": 79.6912455
+  }
+}
