@@ -17,7 +17,8 @@ CACHE_FILE = "geocoding_cache.json"
 DATA_FILES = {
     "2024": "Supporting data-13th March 2026.xlsx - 2024.csv",
     "2025": "Supporting data-13th March 2026.xlsx - 2025.csv",
-    "2026": "Supporting data(2)-13th March 2026 - 2026.csv"
+    "2026": "Supporting data(2)-13th March 2026 - 2026.csv",
+    "2027": "Supporting data(2)-13th March 2026 (1)_Possible 2027.csv"
 }
 
 # -------------------------------------------------------------------
@@ -33,6 +34,12 @@ def load_and_merge_data():
         if os.path.exists(filename):
             temp_df = pd.read_csv(filename)
             temp_df.columns = temp_df.columns.str.strip()
+            if 'Offering 2025' in temp_df.columns:
+                temp_df.rename(columns={'Offering 2025': 'Offering'}, inplace=True)
+            if 'Offering 2026' in temp_df.columns:
+                temp_df.rename(columns={'Offering 2026': 'Offering'}, inplace=True)
+            if 'Offering 2027' in temp_df.columns:
+                temp_df.rename(columns={'Offering 2027': 'Offering'}, inplace=True)
             temp_df['Academic Year'] = str(year)
             all_dfs.append(temp_df)
     if not all_dfs: return pd.DataFrame()
@@ -42,7 +49,8 @@ def load_and_merge_data():
     rev_cols = [
         'Total Order Value (Exclusive GST)', 'Total Order Value (Inclusive GST)',
         'ASSET Revenue', 'Mindspark Revenue', 'CARES Revenue',
-        'ASSET Discount', 'Mindspark Discount', 'CARES Discount'
+        'ASSET Discount', 'Mindspark Discount', 'CARES Discount',
+        'Teacher Training Revenue', 'Amount Received'
     ]
     for col in rev_cols:
         if col in combined_df.columns:
@@ -52,9 +60,44 @@ def load_and_merge_data():
                 errors='coerce'
             ).fillna(0).astype(float)
             
-    for col in ['School Name', 'City', 'Offering', 'Division', 'Zone', 'State']:
+    for col in ['School Name', 'City', 'Offering', 'Division', 'Zone']:
         if col in combined_df.columns:
             combined_df[col] = combined_df[col].astype(str).str.strip().replace('nan', '')
+            
+    if 'State' in combined_df.columns:
+        combined_df['State'] = combined_df['State'].astype(str).str.strip().replace('nan', '')
+        state_mapping = {
+            'ap': 'Andhra Pradesh', 'andhra pradesh': 'Andhra Pradesh', 'arunachal pradesh': 'Arunachal Pradesh', 
+            'assam': 'Assam', 'bihar': 'Bihar', 'chattisgarh': 'Chhattisgarh', 'chhattisgarh': 'Chhattisgarh',
+            'cg': 'Chhattisgarh', 'goa': 'Goa', 'gujarat': 'Gujarat', 'gujrat': 'Gujarat',
+            'gj': 'Gujarat', 'haryana': 'Haryana', 'hr': 'Haryana', 'himachal pradesh': 'Himachal Pradesh',
+            'himachal': 'Himachal Pradesh', 'hp': 'Himachal Pradesh', 'jharkhand': 'Jharkhand',
+            'karnataka': 'Karnataka', 'ka': 'Karnataka', 'kerala': 'Kerala', 'kl': 'Kerala',
+            'madhya pradesh': 'Madhya Pradesh', 'mp': 'Madhya Pradesh', 'm.p.': 'Madhya Pradesh', 'm p': 'Madhya Pradesh',
+            'maharashtra': 'Maharashtra', 'mh': 'Maharashtra', 'maharastra': 'Maharashtra', 
+            'manipur': 'Manipur', 'meghalaya': 'Meghalaya', 'mizoram': 'Mizoram', 'nagaland': 'Nagaland',
+            'orissa': 'Odisha', 'odisha': 'Odisha', 'punjab': 'Punjab', 'pb': 'Punjab',
+            'rajasthan': 'Rajasthan', 'rj': 'Rajasthan', 'sikkim': 'Sikkim', 'tamil nadu': 'Tamil Nadu',
+            'tamilnadu': 'Tamil Nadu', 'tn': 'Tamil Nadu', 'telangana': 'Telangana', 'ts': 'Telangana',
+            'tripura': 'Tripura', 'up': 'Uttar Pradesh', 'uttar pradesh': 'Uttar Pradesh',
+            'uttarakhand': 'Uttarakhand', 'uk': 'Uttarakhand', 'west bengal': 'West Bengal',
+            'wb': 'West Bengal', 'westbengal': 'West Bengal', 'andaman': 'Andaman and Nicobar Islands', 'chandigarh': 'Chandigarh',
+            'dadra': 'Dadra and Nagar Haveli and Daman & Diu', 'daman': 'Dadra and Nagar Haveli and Daman & Diu',
+            'delhi': 'Delhi (National Capital Territory)', 'new delhi': 'Delhi (National Capital Territory)', 
+            'nct of delhi': 'Delhi (National Capital Territory)', 'jammu': 'Jammu & Kashmir', 'j&k': 'Jammu & Kashmir',
+            'jk': 'Jammu & Kashmir', 'ladakh': 'Ladakh', 'lakshadweep': 'Lakshadweep',
+            'puducherry': 'Puducherry', 'pondicherry': 'Puducherry'
+        }
+        
+        def clean_state(s):
+            if not s: return ''
+            s_lower = s.lower().strip()
+            if s_lower in state_mapping: return state_mapping[s_lower]
+            for k, v in state_mapping.items():
+                if len(k) > 3 and k in s_lower: return v
+            return s.strip().title()
+            
+        combined_df['State'] = combined_df['State'].apply(clean_state)
     
     def get_product_category(row):
         offering = str(row.get('Offering', '')).upper()
@@ -162,8 +205,8 @@ def main():
     else: unique_schools['lat'], unique_schools['lon'] = None, None
 
     # Define Tabs
-    tabs = st.tabs(["📍 Map View", "📊 Growth Analytics", "💰 Revenue Analysis", "📋 Raw Data", "🤝 Team Allocation", "➕ New Entry & Bulk", "📂 Master Sheet", "🎯 Range Planner"])
-    tab1, tab2, tab_rev, tab3, tab4, tab5, tab6, tab7 = tabs
+    tabs = st.tabs(["📍 Map View", "📊 Growth Analytics", "💰 Revenue Analysis", "📋 Raw Data", "🤝 Team Allocation", "➕ New Entry & Bulk", "📂 Master Sheet", "🎯 Range Planner", "🗺️ State Analytics"])
+    tab1, tab2, tab_rev, tab3, tab4, tab5, tab6, tab7, tab8 = tabs
 
 
     with tab1:
@@ -471,6 +514,124 @@ def main():
                     st.rerun()
                 else:
                     st.error(f"Could not geocode {hub_city}. Please check the city name.")
+
+
+    with tab8:
+        st.header("🗺️ State & Product Analytics")
+        if 'School Type' not in df.columns:
+            df['School Type'] = 'Unknown'
+            
+        st.write("Detailed breakdown of school types and their purchased products across different states.")
+        
+        state_y = st.selectbox("Select Year:", all_years, index=len(all_years)-1, key="state_y_sel")
+        df_state = df[df['Academic Year'] == state_y].copy()
+
+        def categorize_school_type(x):
+            val = str(x).lower()
+            if 'retention' in val: return "Retention School"
+            return "New & 1-Year School"
+        
+        df_state['Category'] = df_state['School Type'].apply(categorize_school_type)
+        
+        # Display Totals
+        total_schools_yr = len(df_state)
+        total_new_1yr = len(df_state[df_state['Category'] == "New & 1-Year School"])
+        total_ret = len(df_state[df_state['Category'] == "Retention School"])
+        
+        cm1, cm2, cm3 = st.columns(3)
+        cm1.metric("Total Schools", total_schools_yr)
+        cm2.metric("New & 1-Year Schools", total_new_1yr)
+        cm3.metric("Retention Schools", total_ret)
+        
+        st.divider()
+        sel_cat = st.radio("Select Level to Visualize:", ["New & 1-Year School", "Retention School"], horizontal=True, key="cat_radio")
+        df_cat = df_state[df_state['Category'] == sel_cat].copy()
+        
+        def prod_bucket(p):
+            prods = p.split(' + ') if p != 'No Products' else []
+            if len(prods) == 1:
+                return f"Only {prods[0]}"
+            elif len(prods) == 2:
+                return "Combination of Two"
+            elif len(prods) == 3:
+                return "All Three"
+            return "None"
+        
+        df_cat['Product Bucket'] = df_cat['Product Category'].apply(prod_bucket)
+
+        st.subheader(f"State-Wise details for {sel_cat}")
+        
+        ALL_STATES_UTS = [
+            'Andaman and Nicobar Islands', 'Andhra Pradesh', 'Arunachal Pradesh', 'Assam', 'Bihar',
+            'Chandigarh', 'Chhattisgarh', 'Dadra and Nagar Haveli and Daman & Diu', 
+            'Delhi (National Capital Territory)', 'Goa', 'Gujarat', 'Haryana', 'Himachal Pradesh', 
+            'Jammu & Kashmir', 'Jharkhand', 'Karnataka', 'Kerala', 'Ladakh', 'Lakshadweep', 
+            'Madhya Pradesh', 'Maharashtra', 'Manipur', 'Meghalaya', 'Mizoram', 'Nagaland', 
+            'Odisha', 'Puducherry', 'Punjab', 'Rajasthan', 'Sikkim', 'Tamil Nadu', 'Telangana', 
+            'Tripura', 'Uttar Pradesh', 'Uttarakhand', 'West Bengal'
+        ]
+        
+        base_df = pd.DataFrame({'State': ALL_STATES_UTS})
+
+        if not df_cat.empty:
+            state_pivot = pd.pivot_table(
+                df_cat, 
+                index='State', 
+                columns='Product Bucket', 
+                aggfunc='size', 
+                fill_value=0
+            ).reset_index()
+
+            state_totals = df_cat.groupby('State').size().reset_index(name='Total Schools')
+            state_summary = pd.merge(state_totals, state_pivot, on='State', how='left')
+        else:
+            state_summary = pd.DataFrame(columns=['State', 'Total Schools'])
+            
+        state_summary = pd.merge(base_df, state_summary, on='State', how='left').fillna(0)
+
+        expected_cols = ["Only ASSET", "Only CARES", "Only Mindspark", "Combination of Two", "All Three"]
+        for ec in expected_cols:
+            if ec not in state_summary.columns:
+                state_summary[ec] = 0
+
+        disp_cols = ['State', 'Total Schools'] + expected_cols
+        
+        for col in ['Total Schools'] + expected_cols:
+            state_summary[col] = state_summary[col].astype(int)
+            
+        st.dataframe(state_summary[disp_cols], width='stretch')
+
+        st.subheader("📊 Visual Graph")
+        if state_summary['Total Schools'].sum() > 0:
+            chart_data = state_summary[state_summary['Total Schools'] > 0]
+            fig = px.bar(chart_data.sort_values('Total Schools', ascending=False), x='State', y='Total Schools', 
+                         title=f"Total Schools per State ({sel_cat})", 
+                         labels={'Total Schools': 'Number of Schools'},
+                         color='Total Schools',
+                         color_continuous_scale=px.colors.sequential.Viridis)
+            st.plotly_chart(fig, use_container_width=True)
+        else:
+            st.info("No school data to plot for the selected filters.")
+
+        st.divider()
+        st.subheader("🗺️ Map View for Selected Category")
+        sc_names = df_cat['School Name'].unique() if not df_cat.empty else []
+        map_data_state = unique_schools[unique_schools['School Name'].isin(sc_names)].copy()
+        map_data_state = map_data_state.dropna(subset=['lat', 'lon'])
+        if not map_data_state.empty:
+            color = [75, 255, 75, 200] if sel_cat == "New & 1-Year School" else [255, 75, 75, 200]
+            layer = pdk.Layer(
+                "ScatterplotLayer", map_data_state, 
+                get_position=["lon", "lat"], get_color=color, 
+                get_radius=500, radius_min_pixels=3, radius_max_pixels=12, pickable=True, stroked=True
+            )
+            st.pydeck_chart(pdk.Deck(
+                layers=[layer], 
+                initial_view_state=pdk.ViewState(latitude=map_data_state['lat'].mean(), longitude=map_data_state['lon'].mean(), zoom=4), 
+                map_style=pdk.map_styles.LIGHT, tooltip={"text": "{School Name}\\n{City}"}
+            ))
+        else:
+            st.info("No map data available for the selected category.")
 
 
 if __name__ == "__main__":
