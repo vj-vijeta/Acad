@@ -90,7 +90,7 @@ def load_and_merge_data():
         }
         
         def clean_state(s):
-            if not s: return ''
+            if not isinstance(s, str) or not s: return ''
             s_lower = s.lower().strip()
             if s_lower in state_mapping: return state_mapping[s_lower]
             for k, v in state_mapping.items():
