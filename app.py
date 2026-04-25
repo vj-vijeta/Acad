@@ -410,7 +410,7 @@ def main():
         st.header("🤝 Team Allocation")
         with st.form("alloc_form"):
             m_name, m_role = st.text_input("Name"), st.selectbox("Role", ["Academic Consultant", "Associate"])
-            m_schools = st.multiselect("Pick Schools", options=sorted(unique_schools['School Name'].astype(str).unique()))
+            m_schools = st.multiselect("Pick Schools", options=sorted([str(x) for x in unique_schools['School Name'].unique() if pd.notna(x) and str(x).lower() != 'nan']))
             if st.form_submit_button("Assign"):
                 if m_name and m_schools:
                     st.session_state.allocations.append({'Member': m_name, 'Role': m_role, 'Schools': ", ".join(m_schools), 'Count': len(m_schools)})
@@ -463,7 +463,7 @@ def main():
         st.divider()
         st.subheader("🔎 Individual Hub Analysis")
         c_h1, c_h2 = st.columns([1, 2])
-        hub_city = c_h1.selectbox("Select Target City Hub:", options=sorted(df['City'].astype(str).unique().tolist()), key="hub_sel")
+        hub_city = c_h1.selectbox("Select Target City Hub:", options=sorted([str(x) for x in df['City'].unique() if pd.notna(x) and str(x).lower() != 'nan']), key="hub_sel")
         hub_rad = c_h2.slider("Target Radius (km):", 1, 500, 100, key="hub_rad_sld")
 
         
