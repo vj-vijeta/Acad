@@ -98,6 +98,10 @@ def load_and_merge_data():
             return s.strip().title()
             
         combined_df['State'] = combined_df['State'].apply(clean_state)
+        
+        # Override NCR cities to Delhi Territory
+        ncr_cities = ['gurgaon', 'gurugram', 'noida', 'greater noida', 'faridabad', 'delhi', 'ghaziabad']
+        combined_df.loc[combined_df['City'].astype(str).str.lower().str.strip().isin(ncr_cities), 'State'] = 'Delhi (National Capital Territory)'
     
     def get_product_category(row):
         offering = str(row.get('Offering', '')).upper()
@@ -526,26 +530,47 @@ def main():
         state_y = st.selectbox("Select Year:", all_years, index=len(all_years)-1, key="state_y_sel")
         df_state = df[df['Academic Year'] == state_y].copy()
 
-        def categorize_school_type(x):
-            val = str(x).lower()
+        def categorize_school_type(row):
+            if 'Large Account' in df_state.columns and str(row.get('Large Account', '')).strip() == 'Large Account':
+                return "Large Account"
+            val = str(row.get('School Type', '')).lower()
             if 'retention' in val: return "Retention School"
             return "New & 1-Year School"
         
-        df_state['Category'] = df_state['School Type'].apply(categorize_school_type)
+        df_state['Category'] = df_state.apply(categorize_school_type, axis=1)
         
         # Display Totals
-        total_schools_yr = len(df_state)
-        total_new_1yr = len(df_state[df_state['Category'] == "New & 1-Year School"])
-        total_ret = len(df_state[df_state['Category'] == "Retention School"])
+        df_normal = df_state[df_state['Category'] != "Large Account"]
+        df_large = df_state[df_state['Category'] == "Large Account"]
         
-        cm1, cm2, cm3 = st.columns(3)
-        cm1.metric("Total Schools", total_schools_yr)
+        total_schools_yr = len(df_normal)
+        total_new_1yr = len(df_normal[df_normal['Category'] == "New & 1-Year School"])
+        total_ret = len(df_normal[df_normal['Category'] == "Retention School"])
+        
+        cm1, cm2, cm3, cm4 = st.columns(4)
+        cm1.metric("Total Normal Schools", total_schools_yr)
         cm2.metric("New & 1-Year Schools", total_new_1yr)
         cm3.metric("Retention Schools", total_ret)
+        cm4.metric("Large Accounts", len(df_large))
         
         st.divider()
-        sel_cat = st.radio("Select Level to Visualize:", ["New & 1-Year School", "Retention School"], horizontal=True, key="cat_radio")
+        sel_cat = st.radio("Select Level to Visualize:", ["New & 1-Year School", "Retention School", "Large Account"], horizontal=True, key="cat_radio")
         df_cat = df_state[df_state['Category'] == sel_cat].copy()
+        
+        if sel_cat == "Large Account":
+            st.info("Distribution of Large Accounts by School Type:")
+            def sub_cat(x):
+                v = str(x).lower()
+                if 'retention' in v: return "Retention School"
+                elif 'new' in v: return "New School"
+                elif '1-year' in v: return "1-Year School"
+                return "Unknown"
+            subc = df_cat['School Type'].apply(sub_cat).value_counts().to_dict()
+            sc1, sc2, sc3 = st.columns(3)
+            sc1.metric("New Schools", subc.get("New School", 0))
+            sc2.metric("1-Year Schools", subc.get("1-Year School", 0))
+            sc3.metric("Retention Schools", subc.get("Retention School", 0))
+            st.divider()
         
         def prod_bucket(p):
             prods = p.split(' + ') if p != 'No Products' else []
@@ -619,7 +644,9 @@ def main():
         map_data_state = unique_schools[unique_schools['School Name'].isin(sc_names)].copy()
         map_data_state = map_data_state.dropna(subset=['lat', 'lon'])
         if not map_data_state.empty:
-            color = [75, 255, 75, 200] if sel_cat == "New & 1-Year School" else [255, 75, 75, 200]
+            if sel_cat == "New & 1-Year School": color = [75, 255, 75, 200]
+            elif sel_cat == "Retention School": color = [255, 75, 75, 200]
+            else: color = [75, 75, 255, 200] # Blue for Large Accounts
             layer = pdk.Layer(
                 "ScatterplotLayer", map_data_state, 
                 get_position=["lon", "lat"], get_color=color, 
