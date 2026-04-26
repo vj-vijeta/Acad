@@ -136,6 +136,7 @@ def main():
     # Session State
     if 'allocations' not in st.session_state: st.session_state.allocations = []
     if 'new_schools_data' not in st.session_state: st.session_state.new_schools_data = []
+    if 'map_filtered_schools' not in st.session_state: st.session_state.map_filtered_schools = []
 
     # Get Data
     df = load_and_merge_data()
@@ -209,8 +210,8 @@ def main():
     else: unique_schools['lat'], unique_schools['lon'] = None, None
 
     # Define Tabs
-    tabs = st.tabs(["📍 Map View", "📊 Growth Analytics", "💰 Revenue Analysis", "📋 Raw Data", "🤝 Team Allocation", "➕ New Entry & Bulk", "📂 Master Sheet", "🎯 Range Planner", "🗺️ State Analytics"])
-    tab1, tab2, tab_rev, tab3, tab4, tab5, tab6, tab7, tab8 = tabs
+    tabs = st.tabs(["📍 Map View", "📊 Growth Analytics", "💰 Revenue Analysis", "📋 Raw Data", "🤝 Team Allocation", "➕ New Entry & Bulk", "📂 Master Sheet", "🎯 Range Planner", "🗺️ State Analytics", "⚠️ Risk Analytics"])
+    tab1, tab2, tab_rev, tab3, tab4, tab5, tab6, tab7, tab8, tab9 = tabs
 
 
     with tab1:
@@ -233,7 +234,8 @@ def main():
                             lambda r: calculate_distance(c_lat, c_lon, r['lat'], r['lon']) if not pd.isna(r['lat']) else 9999, axis=1
                         )
                         map_display_df = map_display_df[map_display_df['distance'] <= rad].copy()
-                        st.success(f"Displaying {len(map_display_df)} schools in range.")
+                        st.session_state.map_filtered_schools = sorted(map_display_df['School Name'].unique().tolist())
+                        st.success(f"Displaying {len(map_display_df)} schools in range. These are now available in Team Allocation.")
                         
                         # Area Analytics
                         st.divider()
@@ -380,7 +382,8 @@ def main():
         prod_rev_cross = df_rev.groupby(['Revenue Bucket', 'Product Category', 'Division']).size().reset_index(name='Count')
         fig_cross = px.bar(prod_rev_cross, x='Revenue Bucket', y='Count', color='Product Category', 
                            facet_col='Division', facet_col_wrap=2,
-                           title="Products in each Revenue Segment by Division", barmode='stack')
+                           title="Products in each Revenue Segment by Division", barmode='stack',
+                           text_auto=True)
         st.plotly_chart(fig_cross, use_container_width=True)
 
 
@@ -414,7 +417,9 @@ def main():
         st.header("🤝 Team Allocation")
         with st.form("alloc_form"):
             m_name, m_role = st.text_input("Name"), st.selectbox("Role", ["Academic Consultant", "Associate"])
-            m_schools = st.multiselect("Pick Schools", options=sorted([str(x) for x in unique_schools['School Name'].unique() if pd.notna(x) and str(x).lower() != 'nan']))
+            m_schools = st.multiselect("Pick Schools", 
+                                      options=sorted([str(x) for x in unique_schools['School Name'].unique() if pd.notna(x) and str(x).lower() != 'nan']),
+                                      default=[s for s in st.session_state.map_filtered_schools if s in unique_schools['School Name'].values])
             if st.form_submit_button("Assign"):
                 if m_name and m_schools:
                     st.session_state.allocations.append({'Member': m_name, 'Role': m_role, 'Schools': ", ".join(m_schools), 'Count': len(m_schools)})
@@ -531,45 +536,51 @@ def main():
         df_state = df[df['Academic Year'] == state_y].copy()
 
         def categorize_school_type(row):
-            if 'Large Account' in df_state.columns and str(row.get('Large Account', '')).strip() == 'Large Account':
+            st_val = str(row.get('School Type', '')).strip().lower()
+            if 'large' in st_val:
                 return "Large Account"
-            val = str(row.get('School Type', '')).lower()
-            if 'retention' in val: return "Retention School"
+            if 'retention' in st_val:
+                return "Retention School"
             return "New & 1-Year School"
         
         df_state['Category'] = df_state.apply(categorize_school_type, axis=1)
         
         # Display Totals
-        df_normal = df_state[df_state['Category'] != "Large Account"]
-        df_large = df_state[df_state['Category'] == "Large Account"]
+        def is_ret(row):
+            return 'retention' in str(row.get('School Type', '')).lower()
         
-        total_schools_yr = len(df_normal)
-        total_new_1yr = len(df_normal[df_normal['Category'] == "New & 1-Year School"])
-        total_ret = len(df_normal[df_normal['Category'] == "Retention School"])
+        def is_large(row):
+            return 'large' in str(row.get('School Type', '')).lower()
+
+        total_schools_yr = len(df_state)
+        total_ret = len(df_state[df_state.apply(is_ret, axis=1)])
+        total_large = len(df_state[df_state.apply(is_large, axis=1)])
+        # New/1-Year are those that aren't Retention and aren't Large (or we group them as needed)
+        total_new_1yr = total_schools_yr - total_ret - total_large
         
         cm1, cm2, cm3, cm4 = st.columns(4)
-        cm1.metric("Total Normal Schools", total_schools_yr)
+        cm1.metric("Total Schools", total_schools_yr)
         cm2.metric("New & 1-Year Schools", total_new_1yr)
         cm3.metric("Retention Schools", total_ret)
-        cm4.metric("Large Accounts", len(df_large))
+        cm4.metric("Large Accounts", total_large)
         
         st.divider()
-        sel_cat = st.radio("Select Level to Visualize:", ["New & 1-Year School", "Retention School", "Large Account"], horizontal=True, key="cat_radio")
-        df_cat = df_state[df_state['Category'] == sel_cat].copy()
+        sel_cat = st.radio("Select Level to Visualize:", ["All Schools", "New & 1-Year School", "Retention School", "Large Account"], horizontal=True, key="cat_radio")
         
-        if sel_cat == "Large Account":
-            st.info("Distribution of Large Accounts by School Type:")
-            def sub_cat(x):
-                v = str(x).lower()
-                if 'retention' in v: return "Retention School"
-                elif 'new' in v: return "New School"
-                elif '1-year' in v: return "1-Year School"
-                return "Unknown"
-            subc = df_cat['School Type'].apply(sub_cat).value_counts().to_dict()
-            sc1, sc2, sc3 = st.columns(3)
-            sc1.metric("New Schools", subc.get("New School", 0))
-            sc2.metric("1-Year Schools", subc.get("1-Year School", 0))
-            sc3.metric("Retention Schools", subc.get("Retention School", 0))
+        if sel_cat == "All Schools":
+            df_cat = df_state.copy()
+        elif sel_cat == "Large Account":
+            df_cat = df_state[df_state.apply(is_large, axis=1)].copy()
+        elif sel_cat == "Retention School":
+            df_cat = df_state[df_state.apply(is_ret, axis=1)].copy()
+        else: # New & 1-Year School
+            df_cat = df_state[(~df_state.apply(is_ret, axis=1)) & (~df_state.apply(is_large, axis=1))].copy()
+        
+        if sel_cat == "Large Account" or (sel_cat == "All Schools" and total_large > 0):
+            st.info("Distribution of Large Accounts:")
+            # If sub-categorization is missing in School Type column, we show them as Large Account total
+            # unless we find another way to distinguish them. 
+            st.write(f"Total Large Accounts: {total_large}")
             st.divider()
         
         def prod_bucket(p):
@@ -633,7 +644,8 @@ def main():
                          title=f"Total Schools per State ({sel_cat})", 
                          labels={'Total Schools': 'Number of Schools'},
                          color='Total Schools',
-                         color_continuous_scale=px.colors.sequential.Viridis)
+                         color_continuous_scale=px.colors.sequential.Viridis,
+                         text_auto=True)
             st.plotly_chart(fig, use_container_width=True)
         else:
             st.info("No school data to plot for the selected filters.")
@@ -659,6 +671,74 @@ def main():
             ))
         else:
             st.info("No map data available for the selected category.")
+
+    # --- TAB 9: RISK ANALYTICS ---
+    with tab9:
+        st.header("⚠️ Risk School Analytics")
+        
+        risk_path = "/Users/vijeta/Documents/2025 data acad/Acad/Supporting data(2)-13th March 2026 (6)_RISK.csv"
+        if os.path.exists(risk_path):
+            try:
+                df_risk = pd.read_csv(risk_path)
+                
+                # Clean Revenue column
+                def clean_risk_rev(val):
+                    if pd.isna(val): return 0
+                    val = str(val).replace(',', '').replace('"', '').strip()
+                    try: return float(val)
+                    except: return 0
+                
+                df_risk['Revenue_Num'] = df_risk['Revenue'].apply(clean_risk_rev)
+                
+                # Metrics
+                tr1, tr2 = st.columns(2)
+                tr1.metric("Total Risk Schools", len(df_risk))
+                tr2.metric("Total Revenue at Risk", f"₹{df_risk['Revenue_Num'].sum():,.0f}")
+                
+                st.divider()
+                
+                # Charts
+                c1, c2 = st.columns(2)
+                
+                with c1:
+                    st.subheader("Risk Schools by Zone")
+                    if 'Zone' in df_risk.columns:
+                        zone_counts = df_risk['Zone'].value_counts().reset_index()
+                        zone_counts.columns = ['Zone', 'Count']
+                        fig_zone = px.bar(zone_counts, x='Zone', y='Count', text_auto=True, color='Zone',
+                                        color_discrete_sequence=px.colors.qualitative.Pastel)
+                        st.plotly_chart(fig_zone, use_container_width=True)
+                
+                with c2:
+                    st.subheader("Risk Revenue by Zone")
+                    if 'Zone' in df_risk.columns:
+                        zone_rev = df_risk.groupby('Zone')['Revenue_Num'].sum().reset_index()
+                        fig_zone_rev = px.pie(zone_rev, values='Revenue_Num', names='Zone', hole=0.4,
+                                            color_discrete_sequence=px.colors.qualitative.Safe)
+                        st.plotly_chart(fig_zone_rev, use_container_width=True)
+                
+                st.divider()
+                
+                # Searchable Table
+                st.subheader("📋 Detailed Risk School List")
+                search_risk = st.text_input("Search School Name or Reason:", key="risk_search_input")
+                
+                # Filter columns that exist
+                cols_to_show = ['School Name', 'Zone', 'School Type', 'Products', 'Revenue', 'Reasons(mention schools that were in risk but currently retained)']
+                cols_to_show = [c for c in cols_to_show if c in df_risk.columns]
+                
+                df_display_risk = df_risk[cols_to_show].copy()
+                if search_risk:
+                    mask_risk = df_display_risk.apply(lambda x: x.astype(str).str.contains(search_risk, case=False).any(), axis=1)
+                    df_display_risk = df_display_risk[mask_risk]
+                
+                st.dataframe(df_display_risk, use_container_width=True, hide_index=True)
+                
+            except Exception as e:
+                st.error(f"Error loading Risk data: {e}")
+        else:
+            st.warning(f"Risk data file not found at: {risk_path}")
+
 
 
 if __name__ == "__main__":

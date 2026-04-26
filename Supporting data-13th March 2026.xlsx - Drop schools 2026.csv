@@ -1,19 +1,42 @@
-S No,School No.,School Name,Zone,School Type,Products,Revenue,Reasons
-1,1616619,Vedavalli Vidyalaya Senior Secondary School,South,Retention School,Ei CARES,#REF!,Financial Reasons/School is moving to traditional assessments
-2,2104860,Vedavalli Vidyalaya,South,Retention School,Ei CARES,#REF!,Financial Reasons/School is moving to traditional assessments
-3,3780526,Morning Bells Academy Shayamnagar,East,1-year School,"Ei CARES, Ei Mindspark",#REF!,The school could not make the teachers adapt to the program.Teachers felt it as a burden
-4,1155119,Kerala Public School_ Burmamines,East,New School,Ei CARES,#REF!,There was an expectation mismatch regarding the reports.School expected physical reports
-5,1155556,Nml Kerala Public School,East,New School,Ei CARES,#REF!,There was an expectation mismatch regarding the reports.School expected physical reports
-6,1553466,ODM Sapphire Global School,East,Retention School,Ei CARES,#REF!,Internal Reasons not disclosed
-7,3567542,Keystone International School,South,1-year School,Ei ASSET,#REF!,Internal Reasons
-8,3992841,Hind Zinc Vidyalaya,East,New School,Ei CARES,#REF!,Parents objected on paying for CARES
-9,5017017,ODM Global School,East,Retention School,Ei CARES,#REF!,Internal Reasons not disclosed
-10,5017812,"IEM Public School, Newtown Kolkata",East,1-year School,"Ei ASSET, Ei CARES, Ei Mindspark",#REF!,Partial drop of Mindspark and ASSET. The management wants the teachers to feel the value of Mindspark
-11,3591328,IEM Public School,East,Retention School,"Ei ASSET, Ei CARES, Ei Mindspark",#REF!,Partial drop of Mindspark and ASSET. The management wants the teachers to feel the value of Mindspark
-12,5018668,RSK International,South,New School,Ei CARES/Ei Mindspark,#REF!,Partial drop of CARES. Expected more hand holding.
-13,4165785,Don Bosco School Kalyani,East,New School,Ei CARES,#REF!,Dropped after 1 cycle.Didn't like the questions
-14,3443832,The Wisdom Tree School,North,Retention School,Ei Mindspark,#REF!,Infrastructure challenge. The school didn't have enough computers in the school to allocate periods for Mindspark which resulted in low usage. The HM was also not in favor.
-15,3301477,The Tons Bridge,North,New School,Ei CARES,#REF!,"Principal(new)shared concerns that teachers are currently unable to effectively translate the product features, tools, and benefits into classroom practice."
-16,1482482,Pathania Public School,North,Retention School,Ei CARES,#REF!,The school was not able to work on remediation and the teachers didn't take the program seriously. Hence they are taking a break to work on the plan internally and convince teachers about the need of a third party.No problem with the product and service. The director was happy with both.  assessment. 
-17,5039845,Chandigarh Baptist School,North,New School,"Ei ASSET, Ei Mindspark",#REF!,The school has mailed for termination but not giving a meeting
-18,5037382,"SBS Model High School, Hoshiarpur",North,New School,Ei CARES,#REF!,Budget Cuts in the school
+,,,,,,,,#UNKNOWN_ERROR!,#UNKNOWN_ERROR!,#UNKNOWN_ERROR!,,,
+S No,School No.,School Name,Zone,School Type,Products,Revenue,Reasons,ASSET,CARES,MS,,,
+1,1616619,Vedavalli Vidyalaya Senior Secondary School,South,Retention School,Ei CARES,717402,Financial Reasons/School is moving to traditional assessments,0,717402,0,717402,0,
+2,2104860,Vedavalli Vidyalaya,South,Retention School,Ei CARES,430441,Financial Reasons/School is moving to traditional assessments,0,430441,0,430441,0,
+3,3780526,Morning Bells Academy Shayamnagar,East,1-year School,"Ei CARES, Ei Mindspark",1001106,The school could not make the teachers adapt to the program.Teachers felt it as a burden,0,788390,212716,1001106,0,
+4,1155119,Kerala Public School_ Burmamines,East,New School,Ei CARES,1355900,There was an expectation mismatch regarding the reports.School expected physical reports,0,1355900,0,1355900,0,
+5,1155556,Nml Kerala Public School,East,New School,Ei CARES,1014000,There was an expectation mismatch regarding the reports.School expected physical reports,0,1014000,0,1014000,0,
+6,1553466,ODM Sapphire Global School,East,Retention School,Ei CARES,822780,Internal Reasons not disclosed,0,822780,0,822780,0,
+7,3567542,Keystone International School,South,1-year School,Ei ASSET,199260,Internal Reasons,199260,0,0,199260,0,
+8,3992841,Hind Zinc Vidyalaya,East,New School,Ei CARES,399378,Parents objected on paying for CARES,0,399378,0,399378,0,
+9,5017017,ODM Global School,East,Retention School,Ei CARES,1069614,Internal Reasons not disclosed,0,1069614,0,1069614,0,
+10,5017812,"IEM Public School, Newtown Kolkata",East,1-year School,"Ei ASSET, Ei CARES, Ei Mindspark",930446,Partial drop of Mindspark and ASSET. The management wants the teachers to feel the value of Mindspark,75294,92402,762750,930446,0,
+11,3990168,Apex Academy,East,Retention School,Ei CARES,1293985,Parents have refused to pay.For the last 2 years school has funded for more than 50% students,71760,1293985,0,1365745,-71760,
+12,3591328,IEM Public School,East,Retention School,"Ei ASSET, Ei CARES, Ei Mindspark",1109546,Partial drop of Mindspark and ASSET. The management wants the teachers to feel the value of Mindspark,112793,115190,881563,1109546,0,
+13,5018668,RSK International,South,New School,Ei CARES/Ei Mindspark,537465,Partial drop of CARES. Expected more hand holding.,0,169621,367844,537465,0,
+14,4165785,Don Bosco School Kalyani,East,New School,Ei CARES,219765,Dropped after 1 cycle.Didn't like the questions,0,219765,0,219765,0,
+15,3443832,The Wisdom Tree School,North,Retention School,Ei Mindspark,1661233,Infrastructure challenge. The school didn't have enough computers in the school to allocate periods for Mindspark which resulted in low usage. The HM was also not in favor.,0,0,1661233,1661233,0,
+16,3301477,The Tons Bridge,North,New School,Ei CARES,532928,"Principal(new)shared concerns that teachers are currently unable to effectively translate the product features, tools, and benefits into classroom practice.",0,532928,0,532928,0,
+17,1482482,Pathania Public School,North,Retention School,Ei CARES,457350,The school was not able to work on remediation and the teachers didn't take the program seriously. Hence they are taking a break to work on the plan internally and convince teachers about the need of a third party.No problem with the product and service. The director was happy with both. assessment.,0,457350,0,457350,0,
+18,5039845,Chandigarh Baptist School,North,New School,"Ei ASSET, Ei Mindspark",408314,The school has mailed for termination but not giving a meeting,93019,0,315295,408314,0,
+19,5037382,"SBS Model High School, Hoshiarpur",North,New School,Ei CARES,353567,Budget Cuts in the school,0,353567,0,353567,0,
+20,5017915,NPs Kengeri,South,Retention School,Ei Mindspark,353000,No response from the school,0,0,353845,353845,-845,
+21,3990957,Brookfield High School,South,Retention School,Ei CARES,551000,Internal decisions – teachers are equipped to frame questions- focus on ICSE training,0,551000,0,551000,0,
+22,1035545,Doon Valley Nalagarh,North,1 - year School,Ei CARES,"19,38,522","Multiple issues in reports, logistics, resolved all but the school was unhappy and sent a mail for closure.",0,1938522,0,1938522,0,
+23,3072629,Birla Vidhya Niketan,North,Retention School,Ei MINDSPARK,"16,20,407","Due to budget constraints, they have opted for another program covering both Math and Science at approximately half the cost of Mindspark.",0,0,1514631,1514631,105776,
+24,1338674,Inspiration School,North,New School,Ei CARES,"4,94,546","The program was discontinued after Cycle 1. This appears to be a recurring pattern with the school—they have done the same earlier as well. Eventually, they communicated that the program was not meeting their expectations.",0,494546,0,494546,0,
+25,3992442,Golden Era Millennium School,North,Retention School,Ei Mindspark,"6,63,647",School is not clearing payment due to no service throughout the year.,0,0,562413,562413,101234,
+26,4030028,Richmond Convent School,North,1 - year School,Ei CARES,"5,93,642",Outstanding dues,0,593642,0,593642,0,
+27,641697,Lt. Atul Katarya School,North,New School,Ei CARES,"5,40,072","The school has been picked by the ICSE Board as a model school to pilot a program such as SAFAL, and so the school will not have the bandwidth to continue with Ei CARES.",0,540072,0,540072,0,
+28,3757528,DPS Gautam Buddh Nagar,North,New School,Ei ASSET,"8,94,687",Have chosen to explore ACAD Ally,894687,0,0,894687,0,
+29,63421,Amrit Vidyalaya,West,Retention School,Ei CARES,"4,61,177","Kavish Gadia: For multiple reasons, across parents and teacher, it was decided to take a pause on EiCares. We should meet in the next academic year for the year 2027-28.",0,461177,0,461177,0,
+30,3155272,IIRA International School,West,1-year School,"Ei CARES,Ei Mindspark","19,31,311","The school has opted for a Bangalore-based product as it is more cost-effective than Ei offerings. Additionally, infrastructure limitations—only one lab with 26 computers—make it difficult to run EMS effectively, requiring sessions to be conducted in a 1:2 student-to-computer ratio.",0,888588,1042723,1931311,0,
+31,608032,Little^s Pre Primary & Primary School,West,1-year School,Ei ASSET,"81,000",Parents did not want to pay,81000,0,0,81000,0,
+32,5016188,MSB Educational Institute,West,1-year School,Ei ASSET,"2,03,400","The school indicated that teacher readiness is currently low, and due to ICSE Shine, there is reluctance to take on additional assessments.",203400,0,0,203400,0,
+33,209833,Nalanda International School,West,Retention School,Ei CARES,"3,60,030",Parents are not taking seriously and there are too many assessment.School is ICSE school and tehre are many assements.Parent buying is not there.The school might retain with CARES optional,0,360030,0,360030,0,
+34,8625,Tripada English School,West,1-year School,CARES,"1,32,146",School not following Value,0,197600,0,197600,-65454,
+35,3814193,Vistara World School,West,New School,CARES,1006355,The school shared that their current priority is strengthening student confidence and aligning assessments with their learning needs.,#UNKNOWN_ERROR!,#UNKNOWN_ERROR!,#UNKNOWN_ERROR!,#UNKNOWN_ERROR!,#UNKNOWN_ERROR!,
+36,5015850,Parle Tilak Vidyalaya (ICSE),West,Retention School,ASSET,"22,751",School wants to shift to ASSET optional,22751,0,0,22751,0,
+37,2503955,Parle Tilak Vidyalaya (ICSE),West,Retention School,ASSET,"1,31,047",School wants to shift to ASSET optional,131047,0,0,131047,0,
+38,3875940,Paramount School,East,Retention School,Ei CARES,"2,14,139",The school signed conducted teacher orientation and then took up LEAD.They felt we are expensive,0,214139,0,214139,0,
+39,5018584,Bodoland Pioneer Public School,East,New School,Ei Mindspark,"1,13,070",Infra mismatch,0,0,113070,113070,0,
+40,452934,Vimala Convent School,East,New School,Ei CARES,"4,39,699",The management has declined saying it is not for remote places,0,439699,0,439699,0,
