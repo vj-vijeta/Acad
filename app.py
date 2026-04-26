@@ -537,6 +537,9 @@ def main():
 
         def categorize_school_type(row):
             st_val = str(row.get('School Type', '')).strip().lower()
+            # Treat empty, nan, or None as New & 1-Year School
+            if not st_val or st_val in ['nan', 'none', '']:
+                return "New & 1-Year School"
             if 'large' in st_val:
                 return "Large Account"
             if 'retention' in st_val:
@@ -547,10 +550,12 @@ def main():
         
         # Display Totals
         def is_ret(row):
-            return 'retention' in str(row.get('School Type', '')).lower()
+            st = str(row.get('School Type', '')).lower()
+            return 'retention' in st
         
         def is_large(row):
-            return 'large' in str(row.get('School Type', '')).lower()
+            st = str(row.get('School Type', '')).lower()
+            return 'large' in st
 
         total_schools_yr = len(df_state)
         total_ret = len(df_state[df_state.apply(is_ret, axis=1)])
@@ -610,19 +615,25 @@ def main():
         base_df = pd.DataFrame({'State': ALL_STATES_UTS})
 
         if not df_cat.empty:
-            state_pivot = pd.pivot_table(
-                df_cat, 
+            # Handle missing States to ensure total count is correct (e.g. 98 Large Accounts)
+            df_cat_plot = df_cat.copy()
+            df_cat_plot['State'] = df_cat_plot['State'].fillna('Unknown (State Missing)')
+            
+            state_totals = df_cat_plot.groupby('State').size().reset_index(name='Total Schools')
+            
+            # Use pivot on the cleaned data
+            state_pivot = df_cat_plot.pivot_table(
                 index='State', 
                 columns='Product Bucket', 
                 aggfunc='size', 
                 fill_value=0
             ).reset_index()
-
-            state_totals = df_cat.groupby('State').size().reset_index(name='Total Schools')
+            
             state_summary = pd.merge(state_totals, state_pivot, on='State', how='left')
         else:
             state_summary = pd.DataFrame(columns=['State', 'Total Schools'])
             
+        # Merge with all 36 States/UTs to ensure full representation
         state_summary = pd.merge(base_df, state_summary, on='State', how='left').fillna(0)
 
         expected_cols = ["Only ASSET", "Only CARES", "Only Mindspark", "Combination of Two", "All Three"]
